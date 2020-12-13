@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-![GitiHubi's github stats](https://github-readme-stats.vercel.app/api?username=gitihubi&hide=contribs,prs)
+[![GitiHubi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitihubi&layout=compact)](https://github.com/gitihubi/github-readme-stats)
 
 <!--
 **GitiHubi/GitiHubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![GitiHubi's github stats](https://github-readme-stats.vercel.app/api?username=gitihubi&hide=contribs,prs)
+
 
 Here are some ideas to get you started:
 
