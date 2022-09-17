@@ -1,22 +1,7 @@
-### Hi there 👋
+# Website
 
+Based on https://jekyll.github.io/minima/
 
-<!--
-**GitiHubi/GitiHubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## License
 
-[![GitiHubi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitihubi&layout=compact)](https://github.com/gitihubi/github-readme-stats)
-
-![GitiHubi's github stats](https://github-readme-stats.vercel.app/api?username=gitihubi&hide=contribs,prs)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
