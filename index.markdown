@@ -37,7 +37,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Talks
 
-- 2022: Todo
+- 08/2022: Rutgers Summer Weekly Technology Forum [Slides]
 
 Last updated: Sep 17, 2022
 
