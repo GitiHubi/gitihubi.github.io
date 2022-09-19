@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Where Auditing Meets Deep-Learning
+# title: Where Auditing Meets Deep-Learning
 ---
 
 
