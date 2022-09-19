@@ -8,7 +8,7 @@ layout: home
 
 # <img src="assets/marco.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-Hoi I'm Marco, a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/). Since summer 2022 I'm a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University, USA](https://www.rutgers.edu). Prior to my PhD studies I worked as a forensic data analyst with [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) at [PricewaterhouseCoopers (PwC)](https://www.pwc.com). 
+Hoi I'm Marco, a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/). Since summer 2022 I'm a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University, USA](https://www.rutgers.edu). Prior to my PhD studies I worked as a data analyst in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice of [PricewaterhouseCoopers (PwC)](https://www.pwc.com). 
 
 <a href="https://github.com/gitihubi">
 <img src="assets/github.png" height="45" style="float:top; margin:5px"></a>
