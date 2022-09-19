@@ -34,7 +34,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Talks
 
-- 08/2022: Rutgers Summer Weekly Technology Forum [Slides]
+- 08/2022: Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)]
 
 Last updated: Sep 17, 2022
 
