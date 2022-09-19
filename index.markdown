@@ -17,8 +17,8 @@ Hoi I'm Marco, a PhD Student at the [University of St.Gallen (HSG)](https://www.
 
 ## News
 
-- 2022: 2 papers accepted at **ACM ICAIF 2022**
-- 2022: 1 paper accepted at 
+- 09/2022: 2 papers accepted at the upcoming [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA. 
+- 12/2020: 1 paper accepted at the upcoming [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
 
 ## Publications
 
