@@ -15,7 +15,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 <a href="https://github.com/gitihubi">
 <img src="images/github.png" height="40" style="float:top; margin:5px"></a>
 <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-<img src="images/scholar.png" height="40" style="float:top; margin:5px"></a>
+<img src="images/scholar.png" height="35" style="float:top; margin:5px"></a>
 <a href="https://www.linkedin.com/in/marco-schreyer">
 <img src="images/linkedin.png" height="40" style="float:top; margin:5px"></a>
 
@@ -36,7 +36,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Teaching
 
-- Summer 2022: GSERM Summer School - Deep Learning Introduction and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
+- Summer 2022: GSERM Summer School - Deep Learning and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
 ## Talks
 
