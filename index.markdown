@@ -30,7 +30,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 
 See the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
-<img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+# <img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - 2022: Todo
 
