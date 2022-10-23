@@ -36,7 +36,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Teaching
 
-- Summer 2022: GSERM Summer School - Deep Learning Introduction and Applications 
+- Summer 2022: GSERM Summer School - Deep Learning Introduction and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
 ## Talks
 
