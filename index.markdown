@@ -47,9 +47,9 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
-Marco Schreyer, Timur Sattarov, Anita Stefanie Gierbl, Bernd Reimer and Damian Borth<br/>
+Marco Schreyer, Timur Sattarov, Anita Gierbl, Bernd Reimer and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
-[[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
+[[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
 
 ## Teaching
 
