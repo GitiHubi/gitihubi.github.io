@@ -37,6 +37,13 @@ Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)] 
 
+<img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
+Hamed Hemati, Marco Schreyer, and Damian Borth<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
+[[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
+
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
