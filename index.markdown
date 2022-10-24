@@ -21,24 +21,27 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 
 ## News
 
-- 10-2022: 1 paper accepted for the [NeurIPS Federated Learning Workshop](https://federated-learning.org/fl-neurips-2022/) in New Orleans, USA. 
-- 09-2022: 2 papers accepted for the [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA.
-- 02-2022: 1 paper accepted for the [AAAI IWFS 2022 Workshop](https://sites.google.com/view/aaaiwfs2022).
-- 12-2020: 1 paper accepted for the [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
+- 10/2022: 1 paper accepted for the [NeurIPS Federated Learning Workshop](https://federated-learning.org/fl-neurips-2022/) in New Orleans, USA. 
+- 09/2022: 2 papers accepted for the [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA.
+- 02/2022: 1 paper accepted for the [AAAI IWFS 2022 Workshop](https://sites.google.com/view/aaaiwfs2022).
+- 12/2020: 1 paper accepted for the [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
 
 ## Publications
 
-See the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
+Please, see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
-<!---<img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">-->
+<img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- 2022: Todo
+- **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
+Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
+[html](https://arxiv.org/abs/2208.12708), [pdf](https://arxiv.org/pdf/2208.12708.pdf) 
 
 ## Teaching
 
 - Summer 2022: GSERM Summer School - Deep Learning and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
-## Talks
+## Invited Talks
 
 - 08/2022: Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)]
 
