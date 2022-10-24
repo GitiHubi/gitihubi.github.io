@@ -41,7 +41,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
 Hamed Hemati, Marco Schreyer, and Damian Borth<br/>
-ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
+AAAI 2022 Workshop on AI in Financial Services: Adaptiveness, Resilience & Governance (**AAAI-WFS**), 2022<br/>
 [[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
 
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
