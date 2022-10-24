@@ -35,7 +35,7 @@ Please, see the full list at [Google Scholar](https://scholar.google.com/citatio
 - **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
-[html](https://arxiv.org/abs/2208.12708), [pdf](https://arxiv.org/pdf/2208.12708.pdf) 
+[[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)] 
 
 ## Teaching
 
