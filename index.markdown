@@ -37,6 +37,11 @@ Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)] 
 
+- **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
+Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
+[[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
+
 ## Teaching
 
 - Summer 2022: GSERM Summer School - Deep Learning and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
