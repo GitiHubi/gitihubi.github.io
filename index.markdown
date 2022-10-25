@@ -28,7 +28,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 
 ## Selected Publications
 
-Please, see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
+Please, also see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
 ### English Publications
 
