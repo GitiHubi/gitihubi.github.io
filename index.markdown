@@ -55,7 +55,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 Marco Schreyer, Christian Schulze, and Damian Borth<br/>
-AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data in Financial Services (**AAA-KDF**), 2020<br/>
+AAAI 2021 Workshop on Knowledge Discovery in Financial Services (**AAA-KDF**), 2020<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
