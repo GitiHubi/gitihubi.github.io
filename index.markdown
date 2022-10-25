@@ -109,7 +109,7 @@ EXPERTsuisse, Expert Focus Special (01), 39-44 (**Expert Focus**), 2022<br/>
 
 - **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
 S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
-Zeitschrift für International Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
+Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
 [non open access]
 
 
