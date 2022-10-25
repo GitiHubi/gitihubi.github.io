@@ -76,14 +76,14 @@ NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/
 
 - **Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**<br/>
 M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
-KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/><br/>
+KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
 <img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
 M. Schreyer, T.Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
-Nvidia's GPU Technology Conference (**GTC**), 2018<br/><br/>
+Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
 ## Teaching
