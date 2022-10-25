@@ -30,6 +30,8 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 
 Please, see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
+### English Publications
+
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
@@ -85,6 +87,10 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 M. Schreyer, T.Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
+
+### German Publications
+
+- ToDo
 
 ## Teaching
 
