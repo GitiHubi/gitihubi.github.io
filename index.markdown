@@ -102,7 +102,7 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 
 - **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien in der Revisionspraxis**<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
-EXPERTsuisse, Expert Focus Special (01), 39-44 (**Expert Focus**), 2022<br/>
+EXPERTsuisse, Expert Focus Special: Internal Audit (01), 39-44 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
 
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
