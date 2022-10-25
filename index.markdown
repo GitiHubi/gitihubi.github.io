@@ -69,7 +69,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Adversarial Learning of Deepfakes in Accounting**<br/>
 Marco Schreyer, Timur Sattarov, Bernd Reimer, and Damian Borth<br/>
-NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
+NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/>
 [[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)] 
 
 ## Teaching
