@@ -35,7 +35,7 @@ Please, see the full list at [Google Scholar](https://scholar.google.com/citatio
 - **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
-[[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)] 
+[[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)]
 
 <img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -51,10 +51,17 @@ Marco Schreyer, Timur Sattarov, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
 [[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
 
+<img src="images/aaai_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
+Marco Schreyer, Christian Schulze, and Damian Borth<br/>
+AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data in Financial Services (**AAA-KDF**), 2020<br/>
+[[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
+
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
-Marco Schreyer, Timur Sattarov, Anita Gierbl, Bernd Reimer and Damian Borth<br/>
+Marco Schreyer, Timur Sattarov, Anita Gierbl, Bernd Reimer, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
 
