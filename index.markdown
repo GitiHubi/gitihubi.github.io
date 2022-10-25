@@ -55,7 +55,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 Marco Schreyer, Christian Schulze, and Damian Borth<br/>
-AAAI 2021 Workshop on KD in Financial Services (**AAA-KDF**), 2020<br/>
+AAAI 2021 Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -64,6 +64,13 @@ AAAI 2021 Workshop on KD in Financial Services (**AAA-KDF**), 2020<br/>
 Marco Schreyer, Timur Sattarov, Anita Gierbl, Bernd Reimer, and Damian Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
+
+<img src="images/neurips_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Adversarial Learning of Deepfakes in Accounting**<br/>
+Marco Schreyer, Timur Sattarov, Bernd Reimer, and Damian Borth<br/>
+NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
+[[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)] 
 
 ## Teaching
 
