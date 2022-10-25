@@ -84,13 +84,34 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 <img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
-M. Schreyer, T.Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
+M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
 ### German Publications
 
-- ToDo
+<img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
+S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+Zeitschrift für International Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
+[-], [[-]
+
+
+<img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
+S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
+[[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
+
+
+<img src="images/wpg_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
+M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
+WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
+[-], [[-] 
 
 ## Teaching
 
