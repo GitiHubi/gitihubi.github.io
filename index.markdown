@@ -30,7 +30,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 
 Please, also see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
-### English Publications
+### Publications in English
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -63,7 +63,7 @@ AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
-M.Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
+M. Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
 
@@ -88,14 +88,14 @@ M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
-### German Publications
+### Publications in German
 
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
 S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 Zeitschrift für International Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
-[-], [[-]
+[-], [-]
 
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -111,7 +111,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 - **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
-[-], [[-] 
+[-], [-] 
 
 ## Teaching
 
