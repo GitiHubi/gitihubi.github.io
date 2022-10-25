@@ -19,7 +19,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 <a href="https://www.linkedin.com/in/marco-schreyer">
 <img src="images/linkedin.png" height="40" style="float:top; margin:5px"></a>
 
-## News
+## Good News
 
 - 10/2022: 1 paper accepted for the [NeurIPS Federated Learning Workshop](https://federated-learning.org/fl-neurips-2022/) in New Orleans, USA. 
 - 09/2022: 2 papers accepted for the [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA.
