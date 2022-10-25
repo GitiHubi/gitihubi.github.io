@@ -26,7 +26,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 - 02/2022: 1 paper accepted for the [AAAI IWFS 2022 Workshop](https://sites.google.com/view/aaaiwfs2022).
 - 12/2020: 1 paper accepted for the [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
 
-## Publications
+## Selected Publications
 
 Please, see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
@@ -55,7 +55,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 Marco Schreyer, Christian Schulze, and Damian Borth<br/>
-AAAI 2021 Workshop on Knowledge Discovery in Financial Services (**AAA-KDF**), 2020<br/>
+AAAI 2021 Workshop on KD in Financial Services (**AAA-KDF**), 2020<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -73,6 +73,6 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - 08/2022: Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)]
 
-Last updated: Sep 17, 2022
+Last updated: Oct 24, 2022
 
 ---
