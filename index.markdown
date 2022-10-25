@@ -41,7 +41,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
 Hamed Hemati, Marco Schreyer, and Damian Borth<br/>
-AAAI 2022 Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
+AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 [[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
 
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -55,7 +55,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 - **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 Marco Schreyer, Christian Schulze, and Damian Borth<br/>
-AAAI 2021 Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
+AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -71,6 +71,20 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 Marco Schreyer, Timur Sattarov, Bernd Reimer, and Damian Borth<br/>
 NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/>
 [[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)] 
+
+<img src="images/kdd_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**<br/>
+Marco Schreyer, Timur Sattarov, Christian Schulze, Bernd Reimer, and Damian Borth<br/>
+KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/><br/>
+[[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
+
+<img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
+Marco Schreyer, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer<br/>
+Nvidia's GPU Technology Conference (**GTC**), 2018<br/><br/>
+[[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
 ## Teaching
 
