@@ -90,12 +90,27 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 ### Publications in German
 
+<img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen in der Prüfungspraxis**<br/>
+M. Schreyer, S. Gierbl, T.F. Ruud, and D. Borth<br/>
+EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
+[[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
+
+
+<img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien in der Revisionspraxis**<br/>
+M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
+EXPERTsuisse, Expert Focus Special (01), 39-44 (**Expert Focus**), 2022<br/>
+[[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
+
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
 S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 Zeitschrift für International Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
-[-], [-]
+[non open access]
 
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -111,7 +126,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 - **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
-[-], [-] 
+[non open access] 
 
 ## Teaching
 
