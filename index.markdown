@@ -32,12 +32,26 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 
 ### Publications in English
 
+<img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
+M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
+NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges (**NeurIPS**), 2022<br/>
+[[html](-)], [[pdf](-)]
+
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)]
+
+<img src="images/icaif_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+- **RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**<br/>
+R. Mueller, M. Schreyer, T. Sattarov, and D. Borth<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
+[[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf)]
 
 <img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -92,7 +106,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen in der Prüfungspraxis**<br/>
+- **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
 M. Schreyer, S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
@@ -100,7 +114,7 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 
 <img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien in der Revisionspraxis**<br/>
+- **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus Special: Internal Audit (01), 39-44 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
