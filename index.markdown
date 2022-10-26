@@ -36,7 +36,7 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 
 - **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
 M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
-NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges (**NeurIPS-FL**), 2022<br/>
+NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
 [[html](-)], [[pdf](-)]
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
