@@ -69,35 +69,35 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 <img src="images/aaai_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
+**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 M. Schreyer, C. Schulze, and D. Borth<br/>
 AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
+**Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
 M. Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
 
 <img src="images/neurips_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Adversarial Learning of Deepfakes in Accounting**<br/>
+**Adversarial Learning of Deepfakes in Accounting**<br/>
 M. Schreyer, T. Sattarov, B. Reimer, and D. Borth<br/>
 NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/>
 [[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)] 
 
 <img src="images/kdd_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**<br/>
+**Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**<br/>
 M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
 <img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
+**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
@@ -106,7 +106,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
+**Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
 M. Schreyer, S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
@@ -114,14 +114,14 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 
 <img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**<br/>
+**Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus Special: Internal Audit (01), 39-44 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
 
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
+**Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
 S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
 [non open access]
@@ -129,7 +129,7 @@ Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
+**Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
 S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 [[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
@@ -137,7 +137,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 
 <img src="images/wpg_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
+**Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 [non open access] 
