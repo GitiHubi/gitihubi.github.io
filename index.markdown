@@ -34,35 +34,35 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 
 <img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
+**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
 M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
 NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
 [[html](-)], [[pdf](-)]
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
+**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)]
 
 <img src="images/icaif_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**<br/>
+**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**<br/>
 R. Mueller, M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf)]
 
 <img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
+**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
 H. Hemati, M. Schreyer, and D. Borth<br/>
 AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 [[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
 
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-- **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
+**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
 [[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
