@@ -148,6 +148,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Invited Talks
 
+- 11/2022: The 53rd World Continuous Auditing & Reporting Symposium (WCARS) [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
 - 08/2022: Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)]
 
 Last updated: Oct 27, 2022
