@@ -142,7 +142,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Teaching
 
-- Summer 2022: GSERM Summer School - Deep Learning and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
+- Summer 2022: [GSERM Summer School](https://gserm.org) Deep Learning and Applications [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
 ## Invited Talks
 
