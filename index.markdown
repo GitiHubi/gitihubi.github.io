@@ -142,7 +142,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Teaching
 
-- 12/2022: Frankfurt School of Finance and Management [Certified Audit Data Scientist](https://www.fs.de/cads), **Artificial Intelligence in Auditing** [[Notebooks](https://github.com/GitiHubi/CADS)]  
+- 12/2022: Frankfurt School of Finance and Management's [Certified Audit Data Scientist](https://www.fs.de/cads), **Artificial Intelligence in Auditing** [[Notebooks](https://github.com/GitiHubi/CADS)]  
 - 06/2022: University of St.Gallen's [GSERM Summer School](https://gserm.org), **Deep Learning and Applications**, [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
 ## Invited Talks
