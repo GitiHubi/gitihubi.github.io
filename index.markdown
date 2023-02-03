@@ -142,7 +142,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Teaching
 
-- 01/2023: **Audit Data Analytics**, Institute of Internal Auditors Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), [[Notebooks](https://github.com/GitiHubi/courseACA)]
+- 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), [[Notebooks](https://github.com/GitiHubi/courseACA)]
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]  
 - 06/2022: **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
