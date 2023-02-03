@@ -142,15 +142,15 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Teaching
 
-- 01/2023: Institute of Internal Auditors Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), **Audit Data Analytics** [[Notebooks](https://github.com/GitiHubi/courseACA)]
-- 12/2022: Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), **Artificial Intelligence in Auditing** [[Notebooks](https://github.com/GitiHubi/CADS)]  
-- 06/2022: University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), **Deep Learning and Applications**, [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
+- 01/2023: **Audit Data Analytics**, Institute of Internal Auditors Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), [[Notebooks](https://github.com/GitiHubi/courseACA)]
+- 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]  
+- 06/2022: **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
 ## Invited Talks
 
 - 11/2022: The 53rd World Continuous Auditing & Reporting Symposium (WCARS) [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
 - 08/2022: Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)] [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)] [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)] [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)] [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)] 
 
-Last updated: Oct 27, 2022
+Last updated: Jan 24, 2023
 
 ---
