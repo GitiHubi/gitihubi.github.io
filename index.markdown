@@ -37,7 +37,7 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
 M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
 NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
-[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)]
+[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)][[poster](https://drive.google.com/file/d/1UGY5IzP_OPopHqDFLdlKW6qxZ0ssBGzX/view?usp=sharing]
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -146,11 +146,11 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]  
 - 06/2022: **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]  
 
-## Invited Talks
+## Invited Talks & Conference Presentations
 
-- 11/2022: **Adversarial Learning of Deepfakes in Accounting** The 53rd World Continuous Auditing & Reporting Symposium (WCARS) [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
-- 08/2022: **Deep Learning in Financial Auditing** Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)] [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)] [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)] [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)] [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)]
-- 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)]
+- 11/2022: **Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS) [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
+- 08/2022: **Deep Learning in Financial Auditing**, Rutgers Summer 2022 Weekly Technology Forum [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)] [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)] [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)] [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)] [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)]
+- 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)][[Slides](https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing)]
 
 Last updated: Jan 24, 2023
 
