@@ -23,6 +23,8 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 <img src="images/unima.png" height="40" style="float:top; margin:5px"></a>
 <a href="https://www.unisg.ch">
 <img src="images/unisg.png" height="40" style="float:top; margin:5px"></a>
+<a href="http://www.rutgers.edu">
+<img src="images/rutgers.png" height="40" style="float:top; margin:5px"></a>
 
 ## Good News
 
