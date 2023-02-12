@@ -22,6 +22,9 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 <a href="https://www.uni-mannheim.de">
 <img src="images/unima.png" height="40" style="float:top; margin:5px"></a>
 &ensp;
+<a href="https://www.pwc.com/gx/en/services/forensics.html">
+<img src="images/pwc.png" height="40" style="float:top; margin:5px"></a>
+&ensp;
 <a href="https://www.unisg.ch">
 <img src="images/unisg.png" height="40" style="float:top; margin:5px"></a>
 &ensp;
