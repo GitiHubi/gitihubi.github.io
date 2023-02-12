@@ -10,7 +10,7 @@ layout: home
 
 Hi there, I'm Marco.
 
-I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) supervised by [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022 I'm a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies I worked as a data analyst in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice of [PricewaterhouseCoopers (PwC)](https://www.pwc.com). 
+I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) conducting research under the guidance of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022 I'm a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies I worked as a data analyst in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice of [PricewaterhouseCoopers (PwC)](https://www.pwc.com). 
 
 <a href="https://github.com/gitihubi">
 <img src="images/github.png" height="40" style="float:top; margin:5px"></a>
