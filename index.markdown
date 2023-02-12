@@ -6,7 +6,7 @@ layout: home
 # title: Where Auditing Meets Deep-Learning
 ---
 
-<img src="images/marco.jpg" height="160" style="float:right; margin:5px 25px 5px 5px">
+<img src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
 
 Hi there, I'm Marco.
 
