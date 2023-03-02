@@ -164,10 +164,6 @@ Teaching at the Frankfurt School of Finance and Management gGmbH
 
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]
 
-[![Audit Data Science](http://img.youtube.com/vi/an-XFbZUaY8/0.jpg)](http://www.youtube.com/watch?v=an-XFbZUaY8 "Audit Data Science")
-
-[![What is Deep Learning?](http://img.youtube.com/vi/xGx7bNLM6Fg/0.jpg)](http://www.youtube.com/watch?v=xGx7bNLM6Fg "What is Deep Learning?")
-
 Invited Guest Lectures
 
 - 04/2022: **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)], [[Notebooks](https://github.com/GitiHubi/courseAAA)]
