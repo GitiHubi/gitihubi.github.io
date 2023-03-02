@@ -164,9 +164,7 @@ Frankfurt School of Finance and Management gGmbH
 
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]
 
-[![Audit Data Science](http://img.youtube.com/vi/an-XFbZUaY8/0.jpg)](http://www.youtube.com/watch?v=an-XFbZUaY8 "Audit Data Science")
-
-<img src="http://www.youtube.com/watch?v=an-XFbZUaY8" width="100" height="100">
+[![Audit Data Science](http://img.youtube.com/vi/an-XFbZUaY8/0.jpg)](http://www.youtube.com/watch?v=an-XFbZUaY8 "Audit Data Science" =250x250)
 
 [![What is Deep Learning?](http://img.youtube.com/vi/xGx7bNLM6Fg/0.jpg)](http://www.youtube.com/watch?v=xGx7bNLM6Fg "What is Deep Learning?")
 
