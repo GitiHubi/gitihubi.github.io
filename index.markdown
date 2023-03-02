@@ -154,36 +154,21 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Teaching & Guest Lectures
 
-University of St.Gallen
+Teaching at the University of St.Gallen
 
 - 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), [[Notebooks](https://github.com/GitiHubi/courseACA)]
 - 11/2022: **Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), [[Slides](https://drive.google.com/file/d/1l8Y4zfan-L-2f1Af5c1m4cJ2eW4_INEO/view?usp=sharing)], [[Notebook](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)]  
 - 06/2022: **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)]
 
-Frankfurt School of Finance and Management gGmbH
+Teaching at the Frankfurt School of Finance and Management gGmbH
 
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]
-
-{% include youtube.html id="an-XFbZUaY8" %}
-
-
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/an-XFbZUaY8" frameborder="0" allowfullscreen></iframe>
-
- <iframe width="560" 
-         height="315" 
-         src="http://www.youtube.com/watch?v=an-XFbZUaY8" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
 
 [![Audit Data Science](http://img.youtube.com/vi/an-XFbZUaY8/0.jpg)](http://www.youtube.com/watch?v=an-XFbZUaY8 "Audit Data Science")
 
 [![What is Deep Learning?](http://img.youtube.com/vi/xGx7bNLM6Fg/0.jpg)](http://www.youtube.com/watch?v=xGx7bNLM6Fg "What is Deep Learning?")
 
-
-Other Academic Institutions
+Invited Guest Lectures
 
 - 04/2022: **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)], [[Notebooks](https://github.com/GitiHubi/courseAAA)]
 
