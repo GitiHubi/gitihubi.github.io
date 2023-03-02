@@ -164,6 +164,9 @@ Frankfurt School of Finance and Management gGmbH
 
 - 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads),  [[Notebooks](https://github.com/GitiHubi/CADS)]
 
+{% include youtube.html id="an-XFbZUaY8" %}
+
+
 <iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/an-XFbZUaY8" frameborder="0" allowfullscreen></iframe>
 
  <iframe width="560" 
