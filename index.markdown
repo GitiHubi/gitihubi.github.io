@@ -166,6 +166,15 @@ Frankfurt School of Finance and Management gGmbH
 
 <iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/an-XFbZUaY8" frameborder="0" allowfullscreen></iframe>
 
+ <iframe width="560" 
+         height="315" 
+         src="http://www.youtube.com/watch?v=an-XFbZUaY8" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+
 [![Audit Data Science](http://img.youtube.com/vi/an-XFbZUaY8/0.jpg)](http://www.youtube.com/watch?v=an-XFbZUaY8 "Audit Data Science")
 
 [![What is Deep Learning?](http://img.youtube.com/vi/xGx7bNLM6Fg/0.jpg)](http://www.youtube.com/watch?v=xGx7bNLM6Fg "What is Deep Learning?")
