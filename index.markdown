@@ -33,11 +33,6 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch)),
 
 ## Recent Achievements
 
-- 10/2022: 1 paper accepted for the [NeurIPS Federated Learning Workshop](https://federated-learning.org/fl-neurips-2022/) in New Orleans, USA. 
-- 09/2022: 2 papers accepted for the [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA.
-- 02/2022: 1 paper accepted for the virtual [AAAI IWFS 2022 Workshop](https://sites.google.com/view/aaaiwfs2022).
-- 12/2020: 1 paper accepted for the virtual [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
-
 <div style="margin-top: 15px;">
     <ul>
         <li><strong>10/2022</strong>: Our paper was accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
