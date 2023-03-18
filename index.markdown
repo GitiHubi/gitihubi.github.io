@@ -157,7 +157,7 @@ M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 [non open access] 
 
-## Teaching & Guest Lectures
+## Invited Teaching & Guest Lectures
 
 - 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
 
