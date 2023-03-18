@@ -37,8 +37,8 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch)),
     <ul>
         <li><strong>10/2022</strong>: Our paper was accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
         <li><strong>09/2022</strong>: We had 2 papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
-        <li><strong>02/2022</strong>: Our paper was accepted for the virtual <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li>
-        <li><strong>12/2020</strong>: We had 1 paper accepted for the virtual <a href="https://aaai-kdf.github.io/kdf2021/accepted_papers" target="_blank">AAAI KDF 2021 Workshop</a>.</li>
+        <li><strong>02/2022</strong>: Our paper was accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li>
+        <li><strong>12/2020</strong>: We had 1 paper accepted for the <a href="https://aaai-kdf.github.io/kdf2021/accepted_papers" target="_blank">AAAI KDF 2021 Workshop</a>.</li>
     </ul>
 </div>
 
