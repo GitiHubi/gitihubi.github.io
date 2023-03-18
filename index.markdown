@@ -37,7 +37,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch)),
     <ul>
         <li><strong>03/2023</strong>: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/" target="_blank">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li><strong>02/2023</strong>: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg" target="_blank">"Was ist Deep Learning?"</a> video.</li>
-        <li><strong>10/2022</strong>: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
+        <li><strong>11/2022</strong>: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
          <li><strong>10/2022</strong>: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
         <li><strong>09/2022</strong>: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
         <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li>
