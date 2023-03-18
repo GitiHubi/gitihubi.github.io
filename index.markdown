@@ -10,7 +10,7 @@ layout: home
 
 Hi there, I'm Marco.
 
-I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) conducting research under the guidance of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022 I'm a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies I was with the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com). 
+I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch)), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) conducting research under the guidance of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022, I've been a visiting [Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the[Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies, I was with the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html)  practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com).
 
 <a href="https://github.com/gitihubi">
 <img src="images/github.png" height="40" style="float:top; margin:5px"></a>
@@ -31,12 +31,25 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
 <a href="http://www.rutgers.edu">
 <img src="images/rutgers.png" height="35" style="float:top; margin:5px"></a>
 
-## Good News
+## Recent Achievements
 
 - 10/2022: 1 paper accepted for the [NeurIPS Federated Learning Workshop](https://federated-learning.org/fl-neurips-2022/) in New Orleans, USA. 
 - 09/2022: 2 papers accepted for the [ACM ICAIF 2022 Conference](https://ai-finance.org/icaif-22-accepted-papers/) in NYC, USA.
 - 02/2022: 1 paper accepted for the virtual [AAAI IWFS 2022 Workshop](https://sites.google.com/view/aaaiwfs2022).
 - 12/2020: 1 paper accepted for the virtual [AAAI KDF 2021 Workshop](https://aaai-kdf.github.io/kdf2021/accepted_papers).
+
+<div style="margin-top: 15px;">
+    <ul>
+        <li><strong>10/2022</strong>: Our paper was accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
+        <li><strong>09/2022</strong>: We had 2 papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
+        <li><strong>02/2022</strong>: Our paper was accepted for the virtual <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li>
+        <li><strong>12/2020</strong>: We had 1 paper accepted for the virtual <a href="https://aaai-kdf.github.io/kdf2021/accepted_papers" target="_blank">AAAI KDF 2021 Workshop</a>.</li>
+    </ul>
+</div>
+
+
+
+
 
 ## Selected Publications
 
