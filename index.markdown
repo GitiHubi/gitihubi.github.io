@@ -169,7 +169,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 04/2022: **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, view [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] and [[Notebooks](https://github.com/GitiHubi/courseAAA)].
 
-## Invited Talks & Conference Presentations
+## Conference Presentations & Invited Talks
 
 - 11/2022: **Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University, [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
 - 11/2022: **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF), [[Slides](https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing)]
