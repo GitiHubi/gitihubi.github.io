@@ -176,7 +176,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 11/2022: **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing)].
 
-- 08/2022: **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] and[[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
+- 08/2022: **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] and [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
 
 - 11/2021: **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1zZJu9dvvrNEGU8dx3aMZRZWQ4HEJ7xKX/view?usp=sharing)].
 
@@ -184,7 +184,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Slides](https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing)] and [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
 
-- 02/2021: **Leaking Sensitive Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance, [[Slides](https://drive.google.com/file/d/1VmumkwS7QICv1oTiSOyMLP2NTBz1tqyp/view?usp=sharing)]
+- 02/2021: **Leaking Sensitive Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance, view [[Slides](https://drive.google.com/file/d/1VmumkwS7QICv1oTiSOyMLP2NTBz1tqyp/view?usp=sharing)]
 
 - 10/2020: **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1ydgh8y1OItPkLz-Xak22_a_i3cYF1imv/view?usp=sharing)].
 
