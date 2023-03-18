@@ -189,6 +189,6 @@ Invited Guest Lectures
 - 08/2019: **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance, [[Slides](https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing)]
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)], [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)] 
 
-Last updated: Jan 24, 2023
+Last updated: March 18, 2023 (using [OpenAI's](https://openai.com) GPT-4)
 
 ---
