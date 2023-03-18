@@ -180,7 +180,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 11/2021: **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1zZJu9dvvrNEGU8dx3aMZRZWQ4HEJ7xKX/view?usp=sharing)].
 
-- 04/2021: **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Neural Networks**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1gVdcQul5DQ8PXTPdkTczXJA5XdBnZqXs/view?usp=sharing)] and [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
+- 04/2021: **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1gVdcQul5DQ8PXTPdkTczXJA5XdBnZqXs/view?usp=sharing)] and [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
 
 - 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Slides](https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing)] and [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
 
