@@ -172,14 +172,23 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 ## Conference Presentations & Invited Talks
 
 - 11/2022: **Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University, [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)]
+
 - 11/2022: **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF), [[Slides](https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing)]
+
 - 08/2022: **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)], [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)]
+
 - 11/2021: **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF), [[Slides](https://drive.google.com/file/d/1zZJu9dvvrNEGU8dx3aMZRZWQ4HEJ7xKX/view?usp=sharing)]
+
 - 04/2021: **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Neural Networks**, Nvidia's GPU Technology Conference (GTC), [[Slides](https://drive.google.com/file/d/1gVdcQul5DQ8PXTPdkTczXJA5XdBnZqXs/view?usp=sharing)], [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)] 
+
 - 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), [[Slides](https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing)], [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)]
+
 - 02/2021: **Leaking Sensitive Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance, [[Slides](https://drive.google.com/file/d/1VmumkwS7QICv1oTiSOyMLP2NTBz1tqyp/view?usp=sharing)]
+
 - 10/2020: **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Neural Networks**, 1st ACM International Conference on AI in Finance (ICAIF), [[Slides](https://drive.google.com/file/d/1ydgh8y1OItPkLz-Xak22_a_i3cYF1imv/view?usp=sharing)]
+
 - 08/2019: **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance, [[Slides](https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing)]
+
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)], [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)] 
 
 Last updated: March 18, 2023 (using [OpenAI's](https://openai.com) GPT-4)
