@@ -195,6 +195,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 <div style="margin-top: 15px;">
     <ul style="list-style-type: none;">
+      
         <li><strong>11/2022:</strong> <em>Adversarial Learning of Deepfakes in Accounting</em>, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University, view [<a href="https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing">Slides</a>].</li>
 
         <li><strong>11/2022:</strong> <em>Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits</em>, 3rd ACM International Conference on AI in Finance (ICAIF), view [<a href="https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing">Slides</a>].</li>
@@ -214,6 +215,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
         <li><strong>08/2019:</strong> <em>Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks</em>, 2nd KDD Workshop on Anomaly Detection in Finance, view [<a href="https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing">Slides</a>].</li>
       
               <li><strong>04/2019:</strong> <em>Creation of Adversarial Accounting Records to Attack Financial Statement Audits</em>, Nvidia's GPU Technology Conference (GTC), view [<a href="https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing">Slides</a>] and [<a href="https://developer.nvidia.com/gtc/2019/video/s9361">Video</a>].</li>
+
     </ul>
 </div>
 
