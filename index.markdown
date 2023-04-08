@@ -16,6 +16,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
     <img src="images/scholar.png" height="35" style="margin:5px"></a>
   <a href="https://www.linkedin.com/in/marco-schreyer">
     <img src="images/linkedin.png" height="40" style="margin:5px"></a>
+  &emsp;
   <a href="https://www.uni-mannheim.de">
     <img src="images/unima.png" height="35" style="margin:5px"></a>
   <a href="https://www.pwc.com/gx/en/services/forensics.html">
