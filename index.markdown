@@ -158,25 +158,6 @@ M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 [non open access] 
 
-## Teaching
-
-<div style="margin-top: 15px;">
-    <ul>
-        <li><strong>University of St.Gallen (HSG)</strong>, Switzerland
-            <ul>
-                <li>Deep Learning in Auditing, Master Level, Spring 2021, Spring 2022</li>
-                <li>Data Science with Python, Bachelor Level, Fall 2020, Fall 2021</li>
-            </ul>
-        </li>
-        <li><strong>University of Mannheim</strong>, Germany
-            <ul>
-                <li>Machine Learning in Auditing, Master Level, Fall 2019</li>
-                <li>Advanced Data Science, Master Level, Fall 2018</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
 ## Invited Teaching & Guest Lectures
 
 - 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
@@ -210,6 +191,42 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 - 08/2019: **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance, view [[Slides](https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing)].
 
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)] and [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+      <th>Slides</th>
+      <th>Videos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11/2022</td>
+      <td><strong>Adversarial Learning of Deepfakes in Accounting</strong><br>The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University</td>
+      <td><a href="https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing" target="_blank">Slides</a></td>
+      <td></td>
+    </tr>
+    <!-- Add other rows here -->
+  </tbody>
+</table>
 
 Last updated: March 18, 2023 (using [OpenAI's](https://openai.com) GPT-4)
 
