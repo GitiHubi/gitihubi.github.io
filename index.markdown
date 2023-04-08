@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 # title: Where Auditing Meets Deep-Learning
 ---
@@ -12,24 +9,22 @@ Hi there, I'm Marco.
 
 I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) conducting research under the guidance of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022, I've been a visiting [Swiss Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies, I was with the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html)  practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com) from 2008 to 2017.
 
-<a href="https://github.com/gitihubi">
-<img src="images/github.png" height="40" style="float:top; margin:5px"></a>
-<a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-<img src="images/scholar.png" height="35" style="float:top; margin:5px"></a>
-<a href="https://www.linkedin.com/in/marco-schreyer">
-<img src="images/linkedin.png" height="40" style="float:top; margin:5px"></a>
-&emsp;
-<a href="https://www.uni-mannheim.de">
-<img src="images/unima.png" height="35" style="float:top; margin:5px"></a>
-&ensp;
-<a href="https://www.pwc.com/gx/en/services/forensics.html">
-<img src="images/pwc.png" height="35" style="float:top; margin:5px"></a>
-&ensp;
-<a href="https://www.unisg.ch">
-<img src="images/unisg.png" height="35" style="float:top; margin:5px"></a>
-&ensp;
-<a href="http://www.rutgers.edu">
-<img src="images/rutgers.png" height="35" style="float:top; margin:5px"></a>
+<div style="margin-bottom: 15px;">
+  <a href="https://github.com/gitihubi">
+    <img src="images/github.png" height="40" style="margin:5px"></a>
+  <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
+    <img src="images/scholar.png" height="35" style="margin:5px"></a>
+  <a href="https://www.linkedin.com/in/marco-schreyer">
+    <img src="images/linkedin.png" height="40" style="margin:5px"></a>
+  <a href="https://www.uni-mannheim.de">
+    <img src="images/unima.png" height="35" style="margin:5px"></a>
+  <a href="https://www.pwc.com/gx/en/services/forensics.html">
+    <img src="images/pwc.png" height="35" style="margin:5px"></a>
+  <a href="https://www.unisg.ch">
+    <img src="images/unisg.png" height="35" style="margin:5px"></a>
+  <a href="http://www.rutgers.edu">
+    <img src="images/rutgers.png" height="35" style="margin:5px"></a>
+</div>
 
 ## Recent Achievements
 
