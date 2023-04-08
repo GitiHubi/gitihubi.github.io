@@ -158,6 +158,25 @@ M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 [non open access] 
 
+## Teaching
+
+<div style="margin-top: 15px;">
+    <ul>
+        <li><strong>University of St.Gallen (HSG)</strong>, Switzerland
+            <ul>
+                <li>Deep Learning in Auditing, Master Level, Spring 2021, Spring 2022</li>
+                <li>Data Science with Python, Bachelor Level, Fall 2020, Fall 2021</li>
+            </ul>
+        </li>
+        <li><strong>University of Mannheim</strong>, Germany
+            <ul>
+                <li>Machine Learning in Auditing, Master Level, Fall 2019</li>
+                <li>Advanced Data Science, Master Level, Fall 2018</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
 ## Invited Teaching & Guest Lectures
 
 - 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
