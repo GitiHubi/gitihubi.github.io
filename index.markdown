@@ -195,27 +195,16 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 <div style="margin-top: 15px;">
     <ul style="list-style-type: none;">
-      
         <li><strong>11/2022:</strong> <em>Adversarial Learning of Deepfakes in Accounting</em>, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University, view [<a href="https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing">Slides</a>].</li>
-
         <li><strong>11/2022:</strong> <em>Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits</em>, 3rd ACM International Conference on AI in Finance (ICAIF), view [<a href="https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing">Slides</a>].</li>
-
         <li><strong>08/2022:</strong> <em>Deep Learning in Financial Auditing</em>, Summer 2022 Weekly Technology Forum, Rutgers University, view [<a href="https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing">Slides</a>] and [<a href="https://www.youtube.com/watch?v=HBEJ1up1P7I">Video 1</a>], [<a href="https://www.youtube.com/watch?v=N2SR6OuoAgc">Video 2</a>], [<a href="https://www.youtube.com/watch?v=xcJaczR2QWk">Video 3</a>], [<a href="https://www.youtube.com/watch?v=g_ieTkE6u8A">Video 4</a>], [<a href="https://www.youtube.com/watch?v=H3fLMhFD4a8">Video 5</a>].</li>
-
         <li><strong>11/2021:</strong> <em>Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations</em>, 2nd ACM International Conference on AI in Finance (ICAIF), view [<a href="https://drive.google.com/file/d/1zZJu9dvvrNEGU8dx3aMZRZWQ4HEJ7xKX/view?usp=sharing">Slides</a>].</li>
-
         <li><strong>04/2021:</strong> <em>Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks</em>, Nvidia's GPU Technology Conference (GTC), view [<a href="https://drive.google.com/file/d/1gVdcQul5DQ8PXTPdkTczXJA5XdBnZqXs/view?usp=sharing">Slides</a>] and [<a href="https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/">Video</a>].</li>
-
         <li><strong>03/2021:</strong> <em>Towards Financial Fraud Detection using Deep Learning</em>, Hong Kong Machine Learning Meetup (HKML), view [<a href="https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing">Slides</a>] and [<a href="https://www.youtube.com/watch?v=DedO7ljw_9k">Video</a>].</li>
-
         <li><strong>02/2021:</strong> <em>Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks</em>, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance, view [<a href="https://drive.google.com/file/d/1VmumkwS7QICv1oTiSOyMLP2NTBz1tqyp/view?usp=sharing">Slides</a>].</li>
-
         <li><strong>10/2020:</strong> <em>Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks</em>, 1st ACM International Conference on AI in Finance (ICAIF), view [<a href="https://drive.google.com/file/d/1ydgh8y1OItPkLz-Xak22_a_i3cYF1imv/view?usp=sharing">Slides</a>].</li>
-
         <li><strong>08/2019:</strong> <em>Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks</em>, 2nd KDD Workshop on Anomaly Detection in Finance, view [<a href="https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing">Slides</a>].</li>
-      
-              <li><strong>04/2019:</strong> <em>Creation of Adversarial Accounting Records to Attack Financial Statement Audits</em>, Nvidia's GPU Technology Conference (GTC), view [<a href="https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing">Slides</a>] and [<a href="https://developer.nvidia.com/gtc/2019/video/s9361">Video</a>].</li>
-
+        <li><strong>04/2019:</strong> <em>Creation of Adversarial Accounting Records to Attack Financial Statement Audits</em>, Nvidia's GPU Technology Conference (GTC), view [<a href="https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing">Slides</a>] and [<a href="https://developer.nvidia.com/gtc/2019/video/s9361">Video</a>].</li>
     </ul>
 </div>
 
