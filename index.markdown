@@ -5,9 +5,9 @@ layout: home
 
 <img src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
 
-Hi there, I'm Marco.
+Hello, I'm Marco.
 
-I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/) conducting research under the guidance of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). Since summer 2022, I've been a visiting [Swiss Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) in the [Continous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at the [Rutgers University](https://www.rutgers.edu), USA. Prior to my PhD studies, I was with the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html)  practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com) from 2008 to 2017.
+I'm currently a PhD student at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland, in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), working under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). I spent 2022-2023 as a visiting [Swiss Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), USA. Before pursuing my PhD, I worked in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com) from 2008 to 2017.
 
 <div style="margin-bottom: 15px;">
   <a href="https://github.com/gitihubi">
@@ -30,7 +30,7 @@ I'm a PhD Student at the [University of St.Gallen (HSG)](https://www.unisg.ch), 
     <img src="images/rutgers.png" height="35" style="margin:5px"></a>
 </div>
 
-## Recent Achievements
+## Recent News
 
 <div style="margin-top: 15px;">
     <ul>
