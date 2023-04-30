@@ -34,7 +34,8 @@ I'm currently a PhD student at the [University of St.Gallen (HSG)](https://www.u
 
 <div style="margin-top: 15px;">
     <ul>
-        <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/" target="_blank">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
+         <li>04/2023: Two presentations accepted for the <a href="https://www.isaisconference.org/home/previous-isais-editions/isais-2023/">International Symposium on Accounting Information Systems</a> in Michigan, USA.</li>
+        <li>03/2023: Accepted presentation for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/" target="_blank">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li>02/2023: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg" target="_blank">"Was ist Deep Learning?"</a> video.</li>
         <li>11/2022: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
          <li>10/2022: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
