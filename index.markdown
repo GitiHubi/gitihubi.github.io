@@ -52,6 +52,13 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 
 <img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
+**Artificial Intelligence Co-Piloted Auditing**<br/>
+H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+Social Science Research Network (**SSRN**), 2023<br/>
+[[html](-)], [[pdf](-)]
+
+<img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
 **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
 M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
 NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
