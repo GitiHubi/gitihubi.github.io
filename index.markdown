@@ -55,7 +55,7 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/>
-[[html](-)], [[pdf](-)]
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4444763_code5066211.pdf?abstractid=4444763&mirid=1&type=2)]
 
 <img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
