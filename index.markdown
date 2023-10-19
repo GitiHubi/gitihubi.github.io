@@ -147,7 +147,7 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
-M. Schreyer, S. Gierbl, T.F. Ruud, and D. Borth<br/>
+M. Schreyer, A. S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
 
@@ -161,14 +161,14 @@ EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
-S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A. S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
 [non open access]
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
-S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A. S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 [[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
 
