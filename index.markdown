@@ -55,7 +55,7 @@ Please, also see the full list at [Google Scholar](https://scholar.google.com/ci
 
 **FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
 <img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -141,7 +141,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
 T. L. Föhr, K.-U. Marten, and M. Schreyer<br/>
-Der Betrieb, Nr. 30, 1681-1693, 2023<br/>
+Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 [non open access]
 
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
