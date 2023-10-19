@@ -137,13 +137,19 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 ### Publications in German
 
+<img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
+T. L. Föhr, K.-U. Marten, and M. Schreyer<br/>
+Der Betrieb, Nr. 30, 1681-1693 (**Expert Focus**), 2023<br/>
+[non open access]
+
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
 M. Schreyer, S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
-
 
 <img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
