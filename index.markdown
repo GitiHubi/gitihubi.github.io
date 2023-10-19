@@ -141,7 +141,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
 T. L. Föhr, K.-U. Marten, and M. Schreyer<br/>
-Der Betrieb, Nr. 30, 1681-1693 (**Expert Focus**), 2023<br/>
+Der Betrieb, Nr. 30, 1681-1693, 2023<br/>
 [non open access]
 
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
