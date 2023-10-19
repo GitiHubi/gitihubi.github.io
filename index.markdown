@@ -34,12 +34,13 @@ I'm currently a PhD student at the [University of St.Gallen (HSG)](https://www.u
 
 <div style="margin-top: 15px;">
     <ul>
-         <li>04/2023: Accepted talks for the <a href="https://www.isaisconference.org/home/previous-isais-editions/isais-2023/">International Symposium on AIS</a> in Michigan, USA.</li>
+         <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
+        <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rom, Italy.</li>
         <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/" target="_blank">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li>02/2023: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg" target="_blank">"Was ist Deep Learning?"</a> video.</li>
         <li>11/2022: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
          <li>10/2022: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
-        <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
+        <!--- <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li> --->
         <!--- <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li> --->
     </ul>
 </div>
@@ -49,6 +50,13 @@ I'm currently a PhD student at the [University of St.Gallen (HSG)](https://www.u
 Please, also see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
 ### Publications in English
+
+<img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
+T. Sattarov, M. Schreyer, and D. Borth<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/>
+[[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
 <img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
