@@ -60,7 +60,7 @@ T. Sattarov, M. Schreyer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
-<img src="images/icaif_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
@@ -132,7 +132,7 @@ M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
-### Pre-print Publications
+### ArXiv and SSRN Preprints
 
 <img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -141,7 +141,7 @@ H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
 
-### Publications in German
+### Journal Publications (in German)
 
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
