@@ -51,7 +51,7 @@ AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
 
 Please, also see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
 
-### Publications in English
+### Conference Publications
 
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -60,21 +60,7 @@ T. Sattarov, M. Schreyer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
-<img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
-
-**Artificial Intelligence Co-Piloted Auditing**<br/>
-H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
-
-<img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
-
-**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
-M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
-NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
-[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)], [[poster](https://drive.google.com/file/d/1UGY5IzP_OPopHqDFLdlKW6qxZ0ssBGzX/view?usp=sharing)]
-
-<img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="images/icaif_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
@@ -88,13 +74,6 @@ R. Mueller, M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf)]
 
-<img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
-
-**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
-H. Hemati, M. Schreyer, and D. Borth<br/>
-AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
-[[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
-
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
@@ -102,19 +81,42 @@ M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
 [[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
 
-<img src="images/aaai_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
-
-**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
-M. Schreyer, C. Schulze, and D. Borth<br/>
-AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
-[[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
-
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
 M. Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
+
+<img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
+M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
+Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
+[[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
+
+### Workshop Publications
+
+<img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
+M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
+NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
+[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)], [[poster](https://drive.google.com/file/d/1UGY5IzP_OPopHqDFLdlKW6qxZ0ssBGzX/view?usp=sharing)]
+
+<img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
+H. Hemati, M. Schreyer, and D. Borth<br/>
+AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
+[[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
+
+<img src="images/aaai_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
+M. Schreyer, C. Schulze, and D. Borth<br/>
+AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
+[[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/neurips_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -130,12 +132,14 @@ M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
-<img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+### Pre-print Publications
 
-**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
-M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
-Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
-[[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
+<img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Artificial Intelligence Co-Piloted Auditing**<br/>
+H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
 
 ### Publications in German
 
