@@ -34,7 +34,7 @@ I'm currently a PhD student at the [University of St.Gallen (HSG)](https://www.u
 
 <div style="margin-top: 15px;">
     <ul>
-          <li>12/2023: Two papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank">	
+          <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank">	
 AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
          <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rom, Italy.</li>
