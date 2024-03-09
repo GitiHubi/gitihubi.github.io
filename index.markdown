@@ -152,7 +152,7 @@ Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-**Deep Learning Augmented Risk-Based Auditing**
+**Deep Learning Augmented Risk-Based Auditing**<br/>
 T.Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf]([(https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4735764_code5666464.pdf?abstractid=4488271&mirid=1)]
