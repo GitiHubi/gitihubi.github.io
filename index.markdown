@@ -37,7 +37,7 @@ Since 2024 I'm a [DAAD IFI](https://www.daad.de/de/im-ausland-studieren-forschen
     <ul>
           <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank"> FedTabDiff paper</a>	won a AAAI 2024 workshop best paper award! </li>
           <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
-         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Auditing. :D </li>
+         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
          <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rome, Italy.</li>
         <!--- <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
