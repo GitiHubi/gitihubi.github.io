@@ -59,8 +59,8 @@ Please see the full list at [Google Scholar](https://scholar.google.com/citation
 
 **FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-AAAI Workshop on Artificial Intelligence in Finance for Social Impact (**AIFinSi**), 2024<br/><br/>
-[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/abs/2401.06263.pdf)]
+AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/><br/>
+[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)]
 
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
