@@ -148,14 +148,14 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2024<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4627589_code5066211.pdf?abstractid=4444763&mirid=1&type=2)]
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf]([(https://deliverypdf.ssrn.com/delivery.php?ID=736013002124028099104065011028110006049071008034054034076085126076112029014102099011028039028119052022051074101088001083072007040038068062019120100093096071030107005014036080116088126083020028101081114116006097126107015064074092100118091074070125114074&EXT=pdf&INDEX=TRUE)]
 
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning Augmented Risk-Based Auditing**<br/>
 T.Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4735764_code5666464.pdf?abstractid=4488271&mirid=1)]
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf]([((https://deliverypdf.ssrn.com/delivery.php?ID=581084069120108097023087104022023076054014001051010007006071071074005107117023108088024033002115006099007016110093114116031098048006086079029002090123089118080001110086041022087070084077068071100075109077067002023107023072114090028064116029093099107027&EXT=pdf&INDEX=TRUE)]
 
 ### Journal Publications (in German)
 
