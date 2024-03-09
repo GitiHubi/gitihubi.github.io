@@ -66,7 +66,7 @@ AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
 
 **FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
