@@ -150,6 +150,7 @@ H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf]([(https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4735764_code5666464.pdf?abstractid=4488271&mirid=1)]
 
+**Deep Learning Augmented Risk-Based Auditing**
 T.Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
