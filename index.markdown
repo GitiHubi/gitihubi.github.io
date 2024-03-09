@@ -104,7 +104,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 **FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
-[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)]
+[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)], [[poster](https://drive.google.com/file/d/1UGY5IzP_OPopHqDFLdlKW6qxZ0ssBGzX/view?usp=sharing)]
 
 <img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
