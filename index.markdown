@@ -148,7 +148,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2024<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf]([https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4627589_code5066211.pdf?abstractid=4444763&mirid=1&type=2)]
 
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
