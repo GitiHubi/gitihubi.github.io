@@ -37,7 +37,7 @@ Since 2024 I'm a [DAAD IFI](https://www.daad.de/de/im-ausland-studieren-forschen
     <ul>
           <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank"> FedTabDiff paper</a>	won a AAAI 2024 workshop best paper award! </li>
           <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
-         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Auditing. :D </li>
+         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
          <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rome, Italy.</li>
         <!--- <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
@@ -59,8 +59,8 @@ Please see the full list at [Google Scholar](https://scholar.google.com/citation
 
 **FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-AAAI Workshop on Artificial Intelligence in Finance for Social Impact (**AIFinSi**), 2024<br/><br/>
-[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/abs/2401.06263.pdf)]
+AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
+[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)]
 
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -150,6 +150,13 @@ H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=971089017066122087096102105076086088004051077072079059077025094111001017027123017127011038049127007036048082121089004022011107024011023022080070072006004010091102088066029015025110119111099123104127076087004122118005097124074098098109011103117126006117&EXT=pdf&INDEX=TRUE)]
 
+<img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Deep Learning Augmented Risk-Based Auditing**<br/>
+T.Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
+Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf]([(https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4735764_code5666464.pdf?abstractid=4488271&mirid=1)]
+
 ### Journal Publications (in German)
 
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -228,6 +235,6 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)] and [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
 
-Last updated: December 19, 2023 (using [OpenAI's](https://openai.com) GPT-4)
+Last updated: March 09, 2024 (using [OpenAI's](https://openai.com) GPT-4)
 
 ---
