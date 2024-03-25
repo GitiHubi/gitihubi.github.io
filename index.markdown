@@ -7,7 +7,7 @@ layout: home
 
 Hello, I'm Marco.
 
-Since 2024 I'm a [DAAD IFI](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) affiliated with [UC Berkeley](https://www.berkeley.edu/), There my research focuses on the intersection of deep learning and financial auditing. Before, I completed a PhD at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland, in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), working under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). From 2022 to 2023, I was a visiting [Swiss Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), USA. Before pursuing a Ph.D., I worked in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com) from 2008 to 2017.
+Since 2024 I'm a [DAAD IFI](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/ifi/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) affiliated with [UC Berkeley](https://www.berkeley.edu/), There my research focuses on the intersection of deep learning and financial auditing. Before, I completed my Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch), Switzerland, in the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), working under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). From 2022 to 2023, I was a visiting [Swiss Mobi.Doc research fellow](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), USA. Before pursuing a Ph.D., I worked in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com) from 2008 to 2017.
 
 
 <div style="margin-bottom: 15px;">
@@ -146,7 +146,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning Augmented Risk-Based Auditing**<br/>
-T.Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
+T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2024<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=581084069120108097023087104022023076054014001051010007006071071074005107117023108088024033002115006099007016110093114116031098048006086079029002090123089118080001110086041022087070084077068071100075109077067002023107023072114090028064116029093099107027&EXT=pdf&INDEX=TRUE)]
 
@@ -169,7 +169,7 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
-M. Schreyer, A. S. Gierbl, T.F. Ruud, and D. Borth<br/>
+M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
 
@@ -183,14 +183,14 @@ EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
-A. S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
 [non open access]
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
-A. S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 [[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
 
