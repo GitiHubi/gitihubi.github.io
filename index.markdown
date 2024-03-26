@@ -124,7 +124,7 @@ AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 
 **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
 M. Schreyer, C. Schulze, and D. Borth<br/>
-AAAI Workshop on KD in Financial Services (**AAA-KDF**), 2021<br/>
+AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/neurips_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
