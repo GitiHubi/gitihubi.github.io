@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: Where Auditing Meets Deep-Learning
+# title: AI 4 Auditing
 ---
 
 <img src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
