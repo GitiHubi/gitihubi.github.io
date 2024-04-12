@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: AI 4 Auditing
+# title: Artificial Intelligence 4 Accounting & Auditing
 ---
 
 <img src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
