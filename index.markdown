@@ -7,7 +7,7 @@ layout: home
 
 ## About me
 
-Since 2024, I’ve been a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), affiliated with [UC Berkeley](https://www.berkeley.edu/), where my research focuses on the intersection of deep learning and financial auditing. I develop novel approaches in this domain, aiming to solve the quest for more effective financial audits through artificial intelligence techniques.
+Since 2024, I’ve been a [DAAD IFI](https://www.daad.de/en/) Postdoc @ [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), affiliated with [UC Berkeley](https://www.berkeley.edu/), where my research focuses on the intersection of deep learning and financial auditing. I develop novel approaches in this domain, aiming to solve the quest for more effective financial audits through artificial intelligence techniques.
 
 Before joining ICSI, I completed my Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch) within the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). During my Ph.D., I was a visiting [Swiss Mobi.Doc](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), from 2022 to 2023.
 
