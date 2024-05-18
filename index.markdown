@@ -54,7 +54,7 @@ Before my Ph.D., I spent nearly a decade working in the [Forensic Services](http
 
 ## Selected Publications
 
-Please see the full list at [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en).
+Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en) for a complete list.
 
 ### Conference Publications
 
