@@ -11,7 +11,7 @@ Since 2024, I’ve been a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [In
 
 Before joining ICSI, I completed my Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch) within the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). During my Ph.D., I was a visiting [Swiss Mobi.Doc](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), from 2022 to 2023.
 
-Before my Ph.D., I spent nearly a decade working in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com), where I specialized in advanced data analytics for forensic accounting and fraud investigations.
+After graduating from the University of Mannheim with a diploma in computer science and business administration, I spent nearly a decade working in the Forensic Services practice at PricewaterhouseCoopers (PwC), specializing in advanced data analytics for forensic accounting and fraud investigations.
 
 <div style="margin-bottom: 15px;">
   <a href="https://github.com/gitihubi">
