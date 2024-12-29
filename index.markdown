@@ -5,13 +5,14 @@ layout: home
 
 <img src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
 
-## About me
+## About Me  
 
-Since 2024, I’ve been a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), affiliated with [UC Berkeley](https://www.berkeley.edu/), where my research focuses on the intersection of deep learning and financial auditing. I develop novel approaches in this domain, aiming to solve the quest for more effective financial audits through artificial intelligence techniques.
+Since mid-2024, I have been with the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/), where I contribute on the intersection of agentict artificial intelligence and financial auditing. My work aimed to develop novel approaches leveraging artificial intelligence techniques to make our audits more effective.  
 
-Before joining ICSI, I completed my Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch) within the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). During my Ph.D., I was a visiting [Swiss Mobi.Doc](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu), from 2022 to 2023.
+Previously, I was a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), affiliated with [UC Berkeley](https://www.berkeley.edu/). Before, I completed a Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch) within the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). During my Ph.D., I was a visiting [Swiss Mobi.Doc](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu) from 2022 to 2023.  
 
-After graduating from the [University of Mannheim](https://www.uni-mannheim.de/en/), I spent nearly a decade working in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com), specializing in advanced data analytics for forensic accounting and fraud investigations.
+After graduating from the [University of Mannheim](https://www.uni-mannheim.de/en/), I spent nearly a decade working in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com), specializing in advanced data analytics for forensic accounting and fraud investigations.  
+
 
 
 <div style="margin-bottom: 15px;">
