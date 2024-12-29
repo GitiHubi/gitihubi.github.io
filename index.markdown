@@ -174,7 +174,7 @@ Preprint available open-access (**SSRN**), 2024<br/><br/>
 
 **Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-Preprint available open-access (**arXiv**), 2024<br/><br/>
+Preprint available open-access (**arXiv**), 2024<br/>
 [[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083)]
 
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
