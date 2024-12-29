@@ -163,12 +163,26 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 
 ### ArXiv and SSRN Preprints
 
+<img src="images/arxiv_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Artificial Intelligence Agentic Auditing**<br/>
+H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+Preprint available open-access (**SSRN**), 2024<br/><br/>
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)]
+
+<img src="images/arxiv_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**<br/>
+T. Sattarov, M. Schreyer, and D. Borth<br/>
+Preprint available open-access (**arXiv**), 2024<br/><br/>
+[[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083)]
+
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-**Deep Learning Augmented Risk-Based Auditing**<br/>
+**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**<br/>
 T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
-Preprint at the Social Science Research Network (**SSRN**), 2024<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=581084069120108097023087104022023076054014001051010007006071071074005107117023108088024033002115006099007016110093114116031098048006086079029002090123089118080001110086041022087070084077068071100075109077067002023107023072114090028064116029093099107027&EXT=pdf&INDEX=TRUE)]
+Preprint available open-access (**SSRN**), 2024<br/><br/>
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
 
 ### Journal Publications (in German)
