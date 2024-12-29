@@ -60,7 +60,7 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en) for a complete list.
 
-### Journal Publications
+### **Journal Publications**
 
 <img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -69,7 +69,7 @@ H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems 54, 2024<br/><br/>
 [[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4444763.pdf)]
 
-### Conference Publications
+### **Conference Publications**
 
 <img src="images/icaif_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -120,7 +120,7 @@ M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
-### Workshop Publications
+### **Workshop Publications**
 
 <img src="images/aaai_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -164,7 +164,7 @@ M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
-### ArXiv and SSRN Preprints
+### **ArXiv and SSRN Preprints**
 
 <img src="images/arxiv_2025.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -187,7 +187,7 @@ T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint available open-access (**SSRN**), 2024<br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
-### Practitioner Journal Publications
+### **Practitioner Journal Publications**
 
 <img src="images/esw_2024b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -203,7 +203,7 @@ M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 [[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)] 
 
-### Practitioner Journal Publications (in German)
+### **Practitioner Journal Publications (in German)**
 
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
