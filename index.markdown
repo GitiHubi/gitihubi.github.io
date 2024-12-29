@@ -72,7 +72,7 @@ International Journal of Accounting Information Systems 54, 2024<br/><br/>
 
 **Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**<br/>
 M. Schreyer, T. Sattarov, A. Sim, and K. Wu<br/>
-ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2024<br/><br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2024<br/>
 [[html](https://dl.acm.org/doi/10.1145/3677052.3698659)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
 
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -181,7 +181,7 @@ Preprint available open-access (**arXiv**), 2024<br/>
 
 **Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**<br/>
 T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
-Preprint available open-access (**SSRN**), 2024<br/><br/>
+Preprint available open-access (**SSRN**), 2024<br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
 ### Practitioner Journal Publications
