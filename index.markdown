@@ -189,7 +189,7 @@ T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint available open-access (**SSRN**), 2024<br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
-### **Practitioner Journal Publications**
+### **Accounting & Auditing Practitioner Journal Publications**
 
 <img src="images/esw_2024b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -205,7 +205,14 @@ M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 [[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)] 
 
-### **Practitioner Journal Publications (in German)**
+<img src="images/esw_2022a_e.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning enabled Detection of Anomalies in Financial Accounting Data**<br/>
+M. Schreyer, M. Baumgartner T.F. Ruud, and D. Borth<br/>
+EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
+[[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V] 
+
+### **Accounting & Auditing Practitioner Journal Publications (in German)**
 
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
