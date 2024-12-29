@@ -195,7 +195,7 @@ EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
 
 <img src="images/esw_2024a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-**A Sum Greater Than its Parts: Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**<br/>
+**Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**<br/>
 M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 [[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)] 
