@@ -184,8 +184,23 @@ T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint available open-access (**SSRN**), 2024<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
+### Practitioner Journal Publications
 
-### Journal Publications (in German)
+<img src="images/esw_2024b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
+Q. Huang, M. Schreyer, N.R. Michiles, and M.A. Vasarhelyi<br/>
+EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
+[[tba](tba)], [[tba](tba)] 
+
+<img src="images/esw_2024a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**A Sum Greater Than its Parts: Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**<br/>
+M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
+EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
+[[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)] 
+
+### Practitioner Journal Publications (in German)
 
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
