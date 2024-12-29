@@ -163,7 +163,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 
 ### ArXiv and SSRN Preprints
 
-<img src="images/arxiv_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+<img src="images/arxiv_2025.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Artificial Intelligence Agentic Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
