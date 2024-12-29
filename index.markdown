@@ -41,8 +41,9 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 <div style="margin-top: 15px;">
     <ul>
-        <li>10/2024: My research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</li>
+        <li>10/2024: Our research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</li>
         <li>09/2024: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2024 Conference</a> in Brooklyn, USA.</li>
+        <li>07/2024: Paper accepted for the <a href="https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems" target="_blank">International Journal of Accounting Information Systems</a>.</li>
         <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award! </li>
         <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
@@ -50,10 +51,10 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rome, Italy.</li>
         <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li>02/2023: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg">"Was ist Deep Learning?"</a> video.</li>
-        <!--- <li>11/2022: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
+        <li>11/2022: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
          <li>10/2022: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
-         <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li> --->
-        <!--- <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li> --->
+         <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
+        <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li> --->
     </ul>
 </div>
 
@@ -68,7 +69,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems 54, 2024<br/><br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4444763.pdf)]
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)]
 
 ### **Conference Publications**
 
