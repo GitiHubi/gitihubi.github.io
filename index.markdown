@@ -278,6 +278,6 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)] and [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
 
-Last updated: December 24, 2024 (using [OpenAI's](https://openai.com) GPT-4)
+Last updated: December 29, 2024 (using [OpenAI's](https://openai.com) GPT-4)
 
 ---
