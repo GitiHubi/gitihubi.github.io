@@ -59,6 +59,13 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 
 ### Conference Publications
 
+<img src="images/icaif_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**<br/>
+M. Schreyer, T. Sattarov, A. Sim, and K. Wu<br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2024<br/><br/>
+[[html](https://dl.acm.org/doi/10.1145/3677052.3698659)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
+
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
@@ -239,6 +246,6 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 - 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)] and [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
 
-Last updated: March 09, 2024 (using [OpenAI's](https://openai.com) GPT-4)
+Last updated: December 24, 2024 (using [OpenAI's](https://openai.com) GPT-4)
 
 ---
