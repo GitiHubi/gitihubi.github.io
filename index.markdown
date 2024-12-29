@@ -57,6 +57,15 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en) for a complete list.
 
+### Journal Publications
+
+<img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
+
+**Artificial Intelligence Co-Piloted Auditing**<br/>
+H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+International Journal of Accounting Information Systems 54, 2024<br/><br/>
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319?casa_token=D8A2T9Q76OwAAAAA:j83bdfyu65UoEcUGu5Y1hT9aY8jom66eCWIhTfdLJ9f7Zq2AmmlwgO-xJCaIVlgpWi49LJo)], [[pdf](https://pdf.sciencedirectassets.com/272163/1-s2.0-S1467089524X00032/1-s2.0-S1467089524000319/main.pdf)]
+
 ### Conference Publications
 
 <img src="images/icaif_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -161,12 +170,6 @@ T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 Preprint at the Social Science Research Network (**SSRN**), 2024<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=581084069120108097023087104022023076054014001051010007006071071074005107117023108088024033002115006099007016110093114116031098048006086079029002090123089118080001110086041022087070084077068071100075109077067002023107023072114090028064116029093099107027&EXT=pdf&INDEX=TRUE)]
 
-<img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
-
-**Artificial Intelligence Co-Piloted Auditing**<br/>
-H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-Preprint at the Social Science Research Network (**SSRN**), 2023<br/><br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)], [[pdf](https://deliverypdf.ssrn.com/delivery.php?ID=483078123005006093029087121000006126031069030050059041065107002065111111092127121005006042121044112043011087090074073122084018040006002065003098070027097103007111088054041055114122124016080009102079097094126003119065010116020073065005064108023097094082&EXT=pdf&INDEX=TRUE)]
 
 ### Journal Publications (in German)
 
