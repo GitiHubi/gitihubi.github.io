@@ -196,7 +196,7 @@ Preprint available open-access (**SSRN**), 2024<br/>
 **A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
 Q. Huang, M. Schreyer, N.R. Michiles, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
-[[tba](tba)], [[tba](tba)] 
+[tba], [tba] 
 
 <img src="images/esw_2024a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
