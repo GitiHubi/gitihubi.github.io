@@ -64,7 +64,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 <img src="images/ssrn_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Artificial Intelligence Co-Piloted Auditing**<br/>
-H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+H. Gu, **M. Schreyer**, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems 54, 2024<br/><br/>
 [[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4444763.pdf)]
 
@@ -73,49 +73,49 @@ International Journal of Accounting Information Systems 54, 2024<br/><br/>
 <img src="images/icaif_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**<br/>
-M. Schreyer, T. Sattarov, A. Sim, and K. Wu<br/>
+**M. Schreyer**, T. Sattarov, A. Sim, and K. Wu<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2024<br/>
 [[html](https://dl.acm.org/doi/10.1145/3677052.3698659)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
 
 <img src="images/icaif_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
-T. Sattarov, M. Schreyer, and D. Borth<br/>
+T. Sattarov, **M. Schreyer**, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
 <img src="images/icaif_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**<br/>
-M. Schreyer, T. Sattarov, and D. Borth<br/>
+**M. Schreyer**, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)]
 
 <img src="images/icaif_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**<br/>
-R. Mueller, M. Schreyer, T. Sattarov, and D. Borth<br/>
+R. Mueller, **M. Schreyer**, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
 [[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf)]
 
 <img src="images/icaif_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**<br/>
-M. Schreyer, T. Sattarov, and D. Borth<br/>
+**M. Schreyer**, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
 [[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)] 
 
 <img src="images/icaif_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**<br/>
-M. Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
+**M. Schreyer**, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
 [[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)] 
 
 <img src="images/gtc_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**<br/>
-M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
+**M. Schreyer**, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 [[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)] 
 
@@ -124,42 +124,42 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 <img src="images/aaai_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**<br/>
-T. Sattarov, M. Schreyer, and D. Borth<br/>
+T. Sattarov, **M. Schreyer**, and D. Borth<br/>
 AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
 [[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)], [[poster](https://drive.google.com/file/d/1KiXfMxygEfhClO7P17_rYT_oJT4VzBMM/view?usp=sharing)]
 
 <img src="images/neurips_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**<br/>
-M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
+**M. Schreyer**, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
 NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
 [[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)], [[poster](https://drive.google.com/file/d/1KhbVDWEsL6PdnvjZdt8QKHdme6YeKwtK/view?usp=sharing)]
 
 <img src="images/aaai_2022.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**<br/>
-H. Hemati, M. Schreyer, and D. Borth<br/>
+H. Hemati, **M. Schreyer**, and D. Borth<br/>
 AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 [[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)] 
 
 <img src="images/aaai_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**<br/>
-M. Schreyer, C. Schulze, and D. Borth<br/>
+**M. Schreyer**, C. Schulze, and D. Borth<br/>
 AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
 [[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)] 
 
 <img src="images/neurips_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Adversarial Learning of Deepfakes in Accounting**<br/>
-M. Schreyer, T. Sattarov, B. Reimer, and D. Borth<br/>
+**M. Schreyer**, T. Sattarov, B. Reimer, and D. Borth<br/>
 NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/>
 [[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)] 
 
 <img src="images/kdd_2019.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**<br/>
-M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
+**M. Schreyer**, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 [[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)] 
 
@@ -168,21 +168,21 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 <img src="images/arxiv_2025.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Artificial Intelligence Agentic Auditing**<br/>
-H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+H. Gu, **M. Schreyer**, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint available open-access (**SSRN**), 2024<br/><br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)]
 
 <img src="images/arxiv_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**<br/>
-T. Sattarov, M. Schreyer, and D. Borth<br/>
+T. Sattarov, **M. Schreyer**, and D. Borth<br/>
 Preprint available open-access (**arXiv**), 2024<br/>
 [[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083)]
 
 <img src="images/ssrn_2024.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**<br/>
-T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
+T. Föhr, **M. Schreyer**, K. Moffitt, and K.-U. Marten<br/>
 Preprint available open-access (**SSRN**), 2024<br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
@@ -191,14 +191,14 @@ Preprint available open-access (**SSRN**), 2024<br/>
 <img src="images/esw_2024b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
-Q. Huang, M. Schreyer, N.R. Michiles, and M.A. Vasarhelyi<br/>
+Q. Huang, **M. Schreyer**, N.R. Michiles, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
 [[tba](tba)], [[tba](tba)] 
 
 <img src="images/esw_2024a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**<br/>
-M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
+**M. Schreyer**, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 [[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)] 
 
@@ -207,42 +207,42 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 <img src="images/betrieb_2023.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
-T. L. Föhr, K.-U. Marten, and M. Schreyer<br/>
+T. L. Föhr, K.-U. Marten, and **M. Schreyer**<br/>
 Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 [non open access]
 
 <img src="images/esw_2022b.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
-M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
+**M. Schreyer**, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
 
 <img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**<br/>
-M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
+**M. Schreyer**, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
 [[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
 
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
-A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A.S. Gierbl, **M. Schreyer**, P. Leibfried, and D. Borth<br/>
 Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021<br/>
 [non open access]
 
 <img src="images/esw_2020.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
-A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
+A.S. Gierbl, **M. Schreyer**, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 [[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
 
 <img src="images/wpg_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
-M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
+**M. Schreyer**, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 [non open access] 
 
