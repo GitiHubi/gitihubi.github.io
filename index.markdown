@@ -64,7 +64,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems 54, 2024<br/><br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://download.ssrn.com/23/11/08/ssrn_id4627589_code5066211.pdf)]
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4444763.pdf)]
 
 ### Conference Publications
 
