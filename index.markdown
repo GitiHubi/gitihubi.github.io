@@ -30,10 +30,10 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
     <img src="images/pwc.png" height="30" style="margin:1px"></a>
   &ensp;
   <a href="https://www.unisg.ch">
-    <img src="images/unisg.png" height="30" style="margin:1px"></a>
+    <img src="images/unisg.png" height="30" style="margin:0px"></a>
   &ensp;
   <a href="http://www.rutgers.edu">
-    <img src="images/rutgers.png" height="30" style="margin:3px"></a>
+    <img src="images/rutgers.png" height="30" style="margin:4px"></a>
   <a href="https://www.icsi.berkeley.edu/">
     <img src="images/icsi.png" height="30" style="margin:1px"></a>
 </div>
