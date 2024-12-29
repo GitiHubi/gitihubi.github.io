@@ -7,7 +7,7 @@ layout: home
 
 ## About Me  
 
-Since mid-2024, I have been with the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/), where I contribute on the intersection of agentict artificial intelligence and financial auditing. My work aimed to develop novel approaches leveraging artificial intelligence techniques to make our audits more effective.  
+Since mid-2024, I have been with the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/), where I contribute on the intersection of agentic artificial intelligence and financial auditing. My work aims to develop novel approaches leveraging deep learning techniques to make our audits more effective.  
 
 Previously, I was a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), affiliated with [UC Berkeley](https://www.berkeley.edu/). Before, I completed a Ph.D. at the [University of St.Gallen (HSG)](https://www.unisg.ch) within the [AI:ML research group](https://ics.unisg.ch/chair-aiml-borth/), under the supervision of [Damian Borth](https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en) and [Miklos A. Vasarhelyi](https://scholar.google.com/citations?hl=en&user=MBJ_kK4AAAAJ). During my Ph.D., I was a visiting [Swiss Mobi.Doc](http://funding.unisg.ch/en/programmes/1497) research fellow at the [Continuous Audit and Reporting Research Lab (CARLab)](http://raw.rutgers.edu/index.html) at [Rutgers University](https://www.rutgers.edu) from 2022 to 2023.  
 
