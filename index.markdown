@@ -207,14 +207,14 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 
 <img src="images/esw_2022b_e.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative and Interpretable Audit Samples from Large-Scale Journal Entry Data**<br/>
+**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data**<br/>
 M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
 [[html](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)], [[pdf](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)] 
 
 <img src="images/esw_2022a_e.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
-**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies in Financial Accounting Data**<br/>
+**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies**<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
 [[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)] 
