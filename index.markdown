@@ -233,14 +233,14 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 **Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**<br/>
 M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
-[[html](https://www.alexandria.unisg.ch/265825)], [[pdf](https://www.alexandria.unisg.ch/265825/1/2022_02_Stichprobenauswahl_durch_die_Anwendung_von_Kuenstlicher_Intelligenz.pdf)] 
+[[html](https://www.alexandria.unisg.ch/entities/publication/9635cd9a-009f-41b0-885c-27f55f4bf12c)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content)] 
 
 <img src="images/esw_2022a.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 **Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
-[[html](https://www.alexandria.unisg.ch/265617)], [[pdf](https://www.alexandria.unisg.ch/265617/1/2022_1_Kuenstliche_Intelligenz_im_Internal_Audit_als_Beitrag_zur_effektiven_Governance.pdf)] 
+[[html](https://www.alexandria.unisg.ch/entities/publication/ee751b6a-b5b0-4b8a-9a44-91468051e353)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content)] 
 
 <img src="images/irz_2021.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -254,7 +254,7 @@ Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021
 **Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**<br/>
 A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
-[[html](https://www.alexandria.unisg.ch/260959)], [[pdf](https://www.alexandria.unisg.ch/260959/1/ExpertSuisse_Kuenstliche_Intelligenz_in_der_Pruefungspraxis.pdf)] 
+[[html](https://www.alexandria.unisg.ch/entities/publication/2db7c980-9613-4733-ba08-5c0963213311)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content)] 
 
 <img src="images/wpg_2018.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
