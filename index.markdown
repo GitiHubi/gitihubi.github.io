@@ -210,7 +210,7 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 **Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning enabled Detection of Anomalies in Financial Accounting Data**<br/>
 M. Schreyer, M. Baumgartner T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
-[[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V] 
+[[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)] 
 
 ### **Accounting & Auditing Practitioner Journal Publications (in German)**
 
