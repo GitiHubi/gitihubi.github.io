@@ -14,7 +14,6 @@ Previously, I was a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [Internat
 After graduating from the [University of Mannheim](https://www.uni-mannheim.de/en/), I spent nearly a decade working in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com), specializing in advanced data analytics for forensic accounting and fraud investigations.  
 
 
-
 <div style="margin-bottom: 15px;">
   <a href="https://github.com/gitihubi">
     <img src="images/github.png" height="35" style="margin:3px"></a>
@@ -42,10 +41,11 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 <div style="margin-top: 15px;">
     <ul>
-          <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award! </li>
-          <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
-         <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
-         <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
+        <li>10/2024: My research at ICSI, Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>.</li>
+        <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award! </li>
+        <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
+        <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
+        <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rome, Italy.</li>
         <!--- <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li>02/2023: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg">"Was ist Deep Learning?"</a> video.</li>
