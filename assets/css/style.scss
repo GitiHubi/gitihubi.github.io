@@ -186,15 +186,122 @@ html[data-theme="dark"] {
 }
 
 // ---------------------------------------------------------------------------
+// Typography
+//
+// Minima's headings are the body's system-font stack at font-weight: 400 —
+// same face as the paragraph text, no weight or spacing to set them apart.
+// Give headings a distinct serif for editorial contrast while keeping the
+// body copy on the fast, highly-legible system sans stack.
+// ---------------------------------------------------------------------------
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page-heading,
+.post-title {
+  font-family: "Newsreader", Georgia, "Times New Roman", serif;
+}
+
+h2 {
+  margin-top: 2.2em;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.site-title {
+  font-weight: 500;
+}
+
+.page-heading,
+.post-title {
+  font-weight: 600;
+}
+
+// ---------------------------------------------------------------------------
+// Publication cards
+//
+// The ~27 publication thumbnails in index.markdown vary wildly in native
+// aspect ratio (near-square diagrams next to wide banner screenshots),
+// which looked inconsistent as plain floated images. Each entry is wrapped
+// in a `.pub-card` (see index.markdown) so the thumbnail can be cropped to
+// a uniform box with `object-fit: cover` and the whole entry reads as one
+// unit with consistent spacing and a hover state.
+// ---------------------------------------------------------------------------
+.pub-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 22px;
+  margin: 0 -14px 28px -14px;
+  padding: 14px 14px 26px 14px;
+  border-bottom: 1px solid $grey-color-light;
+  border-radius: 8px;
+  transition: background-color 0.15s ease;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+  }
+}
+
+.pub-thumb {
+  flex: 0 0 112px;
+  width: 112px;
+  height: 92px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid $grey-color-light;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.pub-card:hover .pub-thumb {
+  border-color: $brand-color;
+  transform: scale(1.03);
+}
+
+.pub-card-body {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+html[data-theme="dark"] {
+  .pub-card {
+    border-bottom-color: var(--dm-border);
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.04);
+    }
+  }
+
+  .pub-thumb {
+    border-color: var(--dm-border);
+  }
+
+  .pub-card:hover .pub-thumb {
+    border-color: var(--dm-link);
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Small screens
 //
-// The profile photo and the ~30 publication thumbnails all rely on
-// `float` + a fixed `height` set inline in index.markdown. That works at
-// desktop widths, but on a phone it leaves only a sliver of column for the
-// text beside them, forcing headlines to wrap across 4-5 cramped lines.
-// Un-float them and let them sit full-width above their text instead.
-// The floats/margins being overridden here come from inline `style`
-// attributes, which otherwise beat any external stylesheet rule.
+// The profile photo relies on `float` + a fixed `height` set inline in
+// index.markdown. That works at desktop widths, but on a phone it leaves
+// only a sliver of column for the text beside it, forcing paragraphs to
+// wrap across many cramped lines. Un-float it and let it sit full-width
+// above the text instead. The float/margin being overridden here come from
+// an inline `style` attribute, which otherwise beats any external
+// stylesheet rule.
 // ---------------------------------------------------------------------------
 @media screen and (max-width: $on-palm) {
   .profile-photo {
@@ -205,11 +312,16 @@ html[data-theme="dark"] {
     margin: 0 auto 20px auto !important;
   }
 
+  .pub-card {
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px;
+    margin: 0 -12px 8px -12px;
+  }
+
   .pub-thumb {
-    float: none !important;
-    display: block;
-    height: auto !important;
-    max-width: 45%;
-    margin: 0 0 10px 0 !important;
+    width: 100%;
+    max-width: 220px;
+    height: 150px;
   }
 }
