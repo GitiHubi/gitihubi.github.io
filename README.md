@@ -1,4 +1,4 @@
-# Marco Schreyer — Personal Site
+# Personal Site
 
 [![Jekyll](https://img.shields.io/badge/built%20with-Jekyll-cc0000?logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![Deployed on GitHub Pages](https://img.shields.io/badge/deployed%20on-GitHub%20Pages-222?logo=github)](https://pages.github.com/)

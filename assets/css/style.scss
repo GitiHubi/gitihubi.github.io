@@ -3,3 +3,169 @@
 ---
 
 @import "minima";
+
+// ---------------------------------------------------------------------------
+// Dark mode
+//
+// Minima's colors are compiled to fixed hex values at build time, so runtime
+// theme switching is layered on top via a `data-theme` attribute on <html>
+// (see _includes/head.html and _includes/header.html for the toggle logic).
+// ---------------------------------------------------------------------------
+
+:root {
+  --dm-bg: #0f1115;
+  --dm-bg-elevated: #171a21;
+  --dm-text: #e6e6e6;
+  --dm-text-muted: #a3a9b3;
+  --dm-border: #2c313c;
+  --dm-link: #6ea8fe;
+  --dm-link-visited: #9c8cf5;
+}
+
+html,
+body {
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  float: right;
+  margin-top: 6px;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid $grey-color-light;
+  border-radius: 50%;
+  background: transparent;
+  color: $text-color;
+  cursor: pointer;
+  line-height: 0;
+
+  &:hover {
+    border-color: $grey-color;
+  }
+
+  .icon-moon {
+    display: none;
+  }
+}
+
+html[data-theme="dark"] .theme-toggle {
+  border-color: var(--dm-border);
+  color: var(--dm-text);
+
+  &:hover {
+    border-color: var(--dm-text-muted);
+  }
+
+  .icon-sun {
+    display: none;
+  }
+
+  .icon-moon {
+    display: inline-flex;
+  }
+}
+
+html[data-theme="dark"] {
+  body {
+    background-color: var(--dm-bg);
+    color: var(--dm-text);
+  }
+
+  .site-header {
+    background-color: var(--dm-bg);
+    border-top-color: var(--dm-border);
+    border-bottom-color: var(--dm-border);
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: var(--dm-text);
+  }
+
+  .site-nav {
+    .menu-icon svg path {
+      fill: var(--dm-text-muted);
+    }
+
+    .page-link {
+      color: var(--dm-text);
+    }
+
+    @media screen and (max-width: $on-palm) {
+      background-color: var(--dm-bg-elevated);
+      border-color: var(--dm-border);
+
+      .menu-icon svg path {
+        fill: var(--dm-text-muted);
+      }
+    }
+  }
+
+  .site-footer {
+    border-top-color: var(--dm-border);
+    color: var(--dm-text-muted);
+  }
+
+  .footer-heading,
+  .contact-list,
+  .social-media-list {
+    color: var(--dm-text-muted);
+  }
+
+  a {
+    color: var(--dm-link);
+
+    &:visited {
+      color: var(--dm-link-visited);
+    }
+  }
+
+  .page-content {
+    background-color: var(--dm-bg);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--dm-text);
+  }
+
+  hr {
+    border-color: var(--dm-border);
+  }
+
+  blockquote {
+    color: var(--dm-text-muted);
+    border-left-color: var(--dm-border);
+  }
+
+  code,
+  pre {
+    background-color: var(--dm-bg-elevated);
+    border-color: var(--dm-border);
+    color: var(--dm-text);
+  }
+
+  table {
+    color: var(--dm-text);
+    border-color: var(--dm-border);
+
+    th, td {
+      border-color: var(--dm-border);
+    }
+
+    tr:nth-child(even) {
+      background-color: var(--dm-bg-elevated);
+    }
+  }
+
+  // Institution / social logos are mostly opaque or transparent PNGs drawn
+  // for a light background; give them a light chip so they stay legible.
+  .logo-badge {
+    background-color: #f5f5f5;
+    border-radius: 6px;
+    padding: 3px;
+  }
+}
