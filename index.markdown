@@ -70,7 +70,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 
 **Artificial Intelligence Co-Piloted Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-International Journal of Accounting Information Systems 54, 2024<br/><br/>
+International Journal of Accounting Information Systems 54, 2024<br/>
 [[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)]
 
   </div>
@@ -96,7 +96,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 
 **FinDiff: Diffusion Models for Financial Tabular Data Generation**<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
-ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/><br/>
+ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/>
 [[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
 
   </div>
@@ -218,7 +218,7 @@ AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
 
 **Adversarial Learning of Deepfakes in Accounting**<br/>
 M. Schreyer, T. Sattarov, B. Reimer, and D. Borth<br/>
-NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/><br/>
+NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
 [[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)]
 
   </div>
@@ -244,7 +244,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 
 **Artificial Intelligence Agentic Auditing**<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-Preprint available open-access (**SSRN**), 2024<br/><br/>
+Preprint available open-access (**SSRN**), 2024<br/>
 [[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)]
 
   </div>
