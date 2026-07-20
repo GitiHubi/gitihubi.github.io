@@ -14,27 +14,27 @@ Previously, I was a [DAAD IFI](https://www.daad.de/en/) Postdoc at the [Internat
 After graduating from the [University of Mannheim](https://www.uni-mannheim.de/en/), I spent nearly a decade working in the [Forensic Services](https://www.pwc.com/gx/en/services/forensics.html) practice at [PricewaterhouseCoopers (PwC)](https://www.pwc.com), specializing in advanced data analytics for forensic accounting and fraud investigations.  
 
 
-<div style="margin-bottom: 15px;">
-  <a href="https://github.com/gitihubi">
-    <img class="logo-badge" src="images/github.png" height="35" style="margin:3px"></a>
-  <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-    <img class="logo-badge" src="images/scholar.png" height="30" style="margin:3px"></a>
-  <a href="https://www.linkedin.com/in/marco-schreyer">
-    <img class="logo-badge" src="images/linkedin.png" height="35" style="margin:3px"></a>
-  &emsp;
-  <a href="https://www.uni-mannheim.de">
-    <img class="logo-badge" src="images/unima.png" height="30" style="margin:1px"></a>
-  &ensp;
-  <a href="https://www.pwc.com/gx/en/services/forensics.html">
-    <img class="logo-badge" src="images/pwc.png" height="30" style="margin:1px"></a>
-  &ensp;
-  <a href="https://www.unisg.ch">
-    <img class="logo-badge" src="images/unisg.png" height="30" style="margin:0px"></a>
-  &ensp;
-  <a href="http://www.rutgers.edu">
-    <img class="logo-badge" src="images/rutgers.png" height="30" style="margin:4px"></a>
-  <a href="https://www.icsi.berkeley.edu/">
-    <img class="logo-badge" src="images/icsi.png" height="30" style="margin:1px"></a>
+<div class="logo-row">
+  <div class="logo-group">
+    <a href="https://github.com/gitihubi">
+      <img class="logo-badge" src="images/github.png" height="35"></a>
+    <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
+      <img class="logo-badge" src="images/scholar.png" height="30"></a>
+    <a href="https://www.linkedin.com/in/marco-schreyer">
+      <img class="logo-badge" src="images/linkedin.png" height="35"></a>
+  </div>
+  <div class="logo-group">
+    <a href="https://www.uni-mannheim.de">
+      <img class="logo-badge" src="images/unima.png" height="30"></a>
+    <a href="https://www.pwc.com/gx/en/services/forensics.html">
+      <img class="logo-badge" src="images/pwc.png" height="30"></a>
+    <a href="https://www.unisg.ch">
+      <img class="logo-badge" src="images/unisg.png" height="30"></a>
+    <a href="http://www.rutgers.edu">
+      <img class="logo-badge" src="images/rutgers.png" height="30"></a>
+    <a href="https://www.icsi.berkeley.edu/">
+      <img class="logo-badge" src="images/icsi.png" height="30"></a>
+  </div>
 </div>
 
 ## Recent News

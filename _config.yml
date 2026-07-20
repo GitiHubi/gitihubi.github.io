@@ -31,6 +31,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# jekyll-seo-tag reads `image` from each page's own front matter, not from
+# a plain top-level site key, so it's set here as a front-matter default
+# applied to every page for the Open Graph / Twitter card preview image.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/social-preview.png
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

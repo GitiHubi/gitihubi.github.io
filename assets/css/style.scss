@@ -293,6 +293,85 @@ html[data-theme="dark"] {
 }
 
 // ---------------------------------------------------------------------------
+// Logo row
+//
+// The social + institution logos used to be spaced with manual &emsp;/&ensp;
+// entities and a per-image inline margin. Flexbox gap gives consistent,
+// wrappable spacing instead, with a bigger gap between the two logical
+// groups (social links vs. institutions) than within each group.
+// ---------------------------------------------------------------------------
+.logo-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 15px;
+}
+
+.logo-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+}
+
+// ---------------------------------------------------------------------------
+// Print
+//
+// The dark-mode rules above key off a `data-theme` attribute that stays on
+// <html> however the page happens to be styled when the user prints, and
+// browsers skip background colors by default when printing — so a page
+// left in dark mode would print near-invisible light text on white paper.
+// Force a plain light, ink-friendly appearance for print regardless of the
+// active theme, and drop the on-screen-only chrome.
+// ---------------------------------------------------------------------------
+@media print {
+  .theme-toggle,
+  .site-nav {
+    display: none !important;
+  }
+
+  html[data-theme="dark"] {
+    body,
+    .site-header,
+    .page-content {
+      background: #fff !important;
+      color: #111 !important;
+    }
+
+    a,
+    a:visited {
+      color: #2a7ae2 !important;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: #111 !important;
+    }
+
+    .pub-card:hover {
+      background: transparent !important;
+    }
+
+    .pub-thumb,
+    .pub-card:hover .pub-thumb {
+      border-color: #ddd !important;
+    }
+
+    .pub-card,
+    hr,
+    blockquote,
+    code,
+    pre,
+    table,
+    th,
+    td {
+      border-color: #ddd !important;
+      background: #fff !important;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Small screens
 //
 // The profile photo relies on `float` + a fixed `height` set inline in
