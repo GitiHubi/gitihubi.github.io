@@ -32,9 +32,9 @@ body {
   align-items: center;
   justify-content: center;
   float: right;
-  margin-top: 6px;
-  width: 32px;
-  height: 32px;
+  margin-top: 9px;
+  width: 36px;
+  height: 36px;
   padding: 0;
   border: 1px solid $grey-color-light;
   border-radius: 50%;
@@ -49,6 +49,21 @@ body {
 
   .icon-moon {
     display: none;
+  }
+}
+
+// Below $on-palm minima turns .site-nav into a small `position: absolute`
+// box pinned to the header's top-right corner. A plain `float: right`
+// toggle would sit at the exact same coordinates and get painted over by
+// that positioned box, so it needs to become absolutely positioned too,
+// parked just to the left of the hamburger's ~38px square.
+@media screen and (max-width: $on-palm) {
+  .theme-toggle {
+    position: absolute;
+    top: 9px;
+    right: 60px;
+    margin-top: 0;
+    float: none;
   }
 }
 
@@ -167,5 +182,34 @@ html[data-theme="dark"] {
     background-color: #f5f5f5;
     border-radius: 6px;
     padding: 3px;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Small screens
+//
+// The profile photo and the ~30 publication thumbnails all rely on
+// `float` + a fixed `height` set inline in index.markdown. That works at
+// desktop widths, but on a phone it leaves only a sliver of column for the
+// text beside them, forcing headlines to wrap across 4-5 cramped lines.
+// Un-float them and let them sit full-width above their text instead.
+// The floats/margins being overridden here come from inline `style`
+// attributes, which otherwise beat any external stylesheet rule.
+// ---------------------------------------------------------------------------
+@media screen and (max-width: $on-palm) {
+  .profile-photo {
+    float: none !important;
+    display: block;
+    height: auto !important;
+    max-width: 55%;
+    margin: 0 auto 20px auto !important;
+  }
+
+  .pub-thumb {
+    float: none !important;
+    display: block;
+    height: auto !important;
+    max-width: 45%;
+    margin: 0 0 10px 0 !important;
   }
 }
