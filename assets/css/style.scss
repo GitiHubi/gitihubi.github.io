@@ -2,6 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// Berkeley Blue — set before the minima import so it overrides minima's own
+// `$brand-color: #2a7ae2 !default;`, which cascades to every place minima
+// itself uses the accent color (links, etc.) without needing per-selector
+// overrides.
+$brand-color: #003262;
+$cal-gold: #fdb515;
+
 @import "minima";
 
 // ---------------------------------------------------------------------------
@@ -92,7 +99,8 @@ html[data-theme="dark"] {
 
   .site-header {
     background-color: var(--dm-bg);
-    border-top-color: var(--dm-border);
+    // Keep the Berkeley Blue + gold stripe as a fixed brand mark in dark
+    // mode too, rather than dimming it to a theme-adaptive border color.
     border-bottom-color: var(--dm-border);
   }
 
@@ -186,6 +194,28 @@ html[data-theme="dark"] {
 }
 
 // ---------------------------------------------------------------------------
+// Header stripe
+//
+// A restrained Berkeley Blue + California Gold bar in place of minima's
+// plain grey border-top — a small, literal nod to Berkeley (ICSI/UC
+// Berkeley) rather than a full color-scheme change.
+// ---------------------------------------------------------------------------
+.site-header {
+  border-top: 4px solid $brand-color;
+  position: relative;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background-color: $cal-gold;
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Typography
 //
 // Minima's headings are the body's system-font stack at font-weight: 400 —
@@ -205,6 +235,21 @@ h2 {
   font-weight: 600;
   font-size: 30px;
   letter-spacing: -0.01em;
+  position: relative;
+  padding-bottom: 10px;
+
+  // A small Cal-gold rule under each section heading — the one place gold
+  // shows up as a mark rather than as text/link color, which stays legible.
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 42px;
+    height: 3px;
+    background-color: $cal-gold;
+    border-radius: 2px;
+  }
 }
 
 h3 {
