@@ -502,7 +502,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">08/2022</div>
     <div class="timeline-content" markdown="1">
 
-<!-- **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
+**Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
 
   </div>
   </div>
@@ -518,7 +518,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">04/2021</div>
     <div class="timeline-content" markdown="1">
 
-**Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
+<!-- **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
 
   </div>
   </div>
@@ -526,7 +526,9 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">03/2021</div>
     <div class="timeline-content" markdown="1">
 
-**Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
+-->
+
+<!-- **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
 
   </div>
   </div>
@@ -534,7 +536,9 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">02/2021</div>
     <div class="timeline-content" markdown="1">
 
-**Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
+-->
+
+<!-- **Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
 
   </div>
   </div>
@@ -542,7 +546,9 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">10/2020</div>
     <div class="timeline-content" markdown="1">
 
-**Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
+-->
+
+<!-- **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
 
   </div>
   </div>
@@ -550,13 +556,17 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">08/2019</div>
     <div class="timeline-content" markdown="1">
 
-**Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
+-->
+
+<!-- **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
 
   </div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">04/2019</div>
     <div class="timeline-content" markdown="1">
+
+-->
 
 **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
 
