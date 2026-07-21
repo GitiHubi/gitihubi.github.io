@@ -112,6 +112,18 @@ International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/
 ### **Conference Publications**
 
 <div class="pub-card">
+  <img class="pub-thumb" src="images/kdd_2025.png" alt="" loading="lazy">
+  <div class="pub-card-body" markdown="1">
+
+[**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910)<br/>
+T. Sattarov, M. Schreyer, and D. Borth<br/>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025<br/>
+[[html](https://dl.acm.org/doi/10.1145/3711896.3736910)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910)]
+
+  </div>
+</div>
+
+<div class="pub-card">
   <img class="pub-thumb" src="images/icaif_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
