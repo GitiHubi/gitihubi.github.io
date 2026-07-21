@@ -295,7 +295,7 @@ Preprint available open-access (**arXiv**), 2024<br/>
   </div>
 </div>
 
-### **Accounting & Auditing Practitioner Journal Publications**
+### **Professional Journal Publications**
 
 <div class="pub-card">
   <img class="pub-thumb" src="images/esw_2024b.png" alt="" loading="lazy">
