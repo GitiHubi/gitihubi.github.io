@@ -450,18 +450,16 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
   </div>
   </div>
-<!--
   <div class="timeline-item">
     <div class="timeline-date">11/2022</div>
     <div class="timeline-content" markdown="1">
 
-    **Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
+**Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
 
-    </div>
-    </div>
--->
+   </div>
+   </div>
+</div>
 <!--
-
       <div class="timeline-item">
         <div class="timeline-date">06/2022</div>
         <div class="timeline-content" markdown="1">
@@ -481,7 +479,6 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
       </div>
       </div>
 -->
-</div>
 
 ## Conference Presentations & Invited Talks
 
