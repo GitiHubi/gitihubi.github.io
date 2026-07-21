@@ -73,13 +73,13 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 ### **Journal Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2023.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
-H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)]
+[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X)<br/>
+T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
+International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/>
+[[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X)]
 
   </div>
 </div>
@@ -98,13 +98,13 @@ AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/ssrn_2023.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X)<br/>
-T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
-International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X)]
+[**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
+H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
+International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/>
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)]
 
   </div>
 </div>
