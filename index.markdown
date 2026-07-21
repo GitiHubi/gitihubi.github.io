@@ -502,7 +502,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">08/2022</div>
     <div class="timeline-content" markdown="1">
 
-**Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
+<!-- **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
 
   </div>
   </div>
@@ -563,6 +563,8 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
 </div>
+
+-->
 
 Last updated: July 21, 2026 (using [Anthropic's](https://www.anthropic.com) Claude Code)
 
