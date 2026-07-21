@@ -30,6 +30,7 @@ github_username: gitihubi
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # jekyll-seo-tag reads `image` from each page's own front matter, not from
 # a plain top-level site key, so it's set here as a front-matter default

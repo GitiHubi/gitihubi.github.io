@@ -3,7 +3,7 @@ layout: home
 # title: Artificial Intelligence 4 Accounting & Auditing
 ---
 
-<img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px">
+<img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px" alt="Portrait of Marco Schreyer">
 
 ## About Me  
 
@@ -17,46 +17,65 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 <div class="logo-row">
   <div class="logo-group">
     <a href="https://github.com/gitihubi">
-      <img class="logo-badge" src="images/github.png" height="35"></a>
+      <img class="logo-badge" src="images/github.png" height="35" alt="GitHub" loading="lazy"></a>
     <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-      <img class="logo-badge" src="images/scholar.png" height="30"></a>
+      <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
     <a href="https://www.linkedin.com/in/marco-schreyer">
-      <img class="logo-badge" src="images/linkedin.png" height="35"></a>
+      <img class="logo-badge" src="images/linkedin.png" height="35" alt="LinkedIn" loading="lazy"></a>
   </div>
   <div class="logo-group">
     <a href="https://www.uni-mannheim.de">
-      <img class="logo-badge" src="images/unima.png" height="30"></a>
+      <img class="logo-badge" src="images/unima.png" height="30" alt="University of Mannheim" loading="lazy"></a>
     <a href="https://www.pwc.com/gx/en/services/forensics.html">
-      <img class="logo-badge" src="images/pwc.png" height="30"></a>
+      <img class="logo-badge" src="images/pwc.png" height="30" alt="PricewaterhouseCoopers (PwC)" loading="lazy"></a>
     <a href="https://www.unisg.ch">
-      <img class="logo-badge" src="images/unisg.png" height="30"></a>
+      <img class="logo-badge" src="images/unisg.png" height="30" alt="University of St.Gallen" loading="lazy"></a>
     <a href="http://www.rutgers.edu">
-      <img class="logo-badge" src="images/rutgers.png" height="30"></a>
+      <img class="logo-badge" src="images/rutgers.png" height="30" alt="Rutgers University" loading="lazy"></a>
     <a href="https://www.icsi.berkeley.edu/">
-      <img class="logo-badge" src="images/icsi.png" height="30"></a>
+      <img class="logo-badge" src="images/icsi.png" height="30" alt="International Computer Science Institute (ICSI)" loading="lazy"></a>
   </div>
 </div>
 
 ## Recent News
 
-<div style="margin-top: 15px;">
-    <ul>
-        <li>10/2024: Our research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</li>
-        <li>09/2024: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2024 Conference</a> in Brooklyn, USA.</li>
-        <li>07/2024: Paper accepted for the <a href="https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems" target="_blank">International Journal of Accounting Information Systems</a>.</li>
-        <li>02/2024: Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award! </li>
-        <li>12/2023: Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank"> AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</li>
-        <li>10/2023: I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D </li>
-        <!--- <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">10/2024</div>
+    <div class="timeline-content">Our research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">09/2024</div>
+    <div class="timeline-content">Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2024 Conference</a> in Brooklyn, USA.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">07/2024</div>
+    <div class="timeline-content">Paper accepted for the <a href="https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems" target="_blank">International Journal of Accounting Information Systems</a>.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">02/2024</div>
+    <div class="timeline-content">Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award!</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">12/2023</div>
+    <div class="timeline-content">Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank">AAAI 2024 Workshop on AI in Finance</a> in Vancouver, Canada.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">10/2023</div>
+    <div class="timeline-content">I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D</div>
+  </div>
+</div>
+
+<!--- older entries, kept for reference, not shown
+        <li>09/2023: Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2023 Conference</a> in Brooklyn, USA.</li>
         <li>06/2023: Accepted talk for the <a href="https://www.bis.org/ifc/events/231017_ifc.htm">IFC Workshop on Data Science in Central Banking</a> in Rome, Italy.</li>
         <li>03/2023: Accepted talk for the <a href="https://aeca.es/56o-world-continuous-auditing-reporting-symposium-56-wcars/">56th World Continuous Auditing Symposium</a> in Madrid, Spain.</li>
         <li>02/2023: Our work got featured in a Frankfurt School <a href="https://www.youtube.com/watch?v=xGx7bNLM6Fg">"Was ist Deep Learning?"</a> video.</li>
         <li>11/2022: Paper accepted for the <a href="https://federated-learning.org/fl-neurips-2022/" target="_blank">NeurIPS Federated Learning Workshop</a> in New Orleans, USA.</li>
-         <li>10/2022: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
-         <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
-        <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li> --->
-    </ul>
-</div>
+        <li>10/2022: Accepted talk for the <a href="http://raw.rutgers.edu/53wcars.html" target="_blank">53th World Continuous Auditing Symposium</a> in Newark, USA.</li>
+        <li>09/2022: Two papers accepted for the <a href="https://ai-finance.org/icaif-22-accepted-papers/" target="_blank">ACM ICAIF 2022 Conference</a> in NYC, USA.</li>
+        <li><strong>02/2022</strong>: Paper accepted for the <a href="https://sites.google.com/view/aaaiwfs2022" target="_blank">AAAI IWFS 2022 Workshop</a>.</li>
+-->
 
 ## Selected Publications
 
@@ -65,13 +84,13 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 ### **Journal Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2023.png" alt="">
+  <img class="pub-thumb" src="images/ssrn_2023.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence Co-Piloted Auditing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)<br/>
+[**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems 54, 2024<br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444763)]
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)]
 
   </div>
 </div>
@@ -79,7 +98,7 @@ International Journal of Accounting Information Systems 54, 2024<br/>
 ### **Conference Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2024.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)<br/>
@@ -91,7 +110,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2023.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2023.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**FinDiff: Diffusion Models for Financial Tabular Data Generation**](https://arxiv.org/pdf/2309.01472.pdf)<br/>
@@ -103,7 +122,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2022.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2022.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**](https://arxiv.org/pdf/2208.12708.pdf)<br/>
@@ -115,7 +134,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2022b.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2022b.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**](https://arxiv.org/pdf/2209.09157.pdf)<br/>
@@ -127,7 +146,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2021.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2021.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**](https://arxiv.org/pdf/2109.11201.pdf)<br/>
@@ -139,7 +158,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2020.png" alt="">
+  <img class="pub-thumb" src="images/icaif_2020.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**](https://arxiv.org/pdf/2008.02528.pdf)<br/>
@@ -151,7 +170,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/gtc_2018.png" alt="">
+  <img class="pub-thumb" src="images/gtc_2018.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**](https://arxiv.org/pdf/1709.05254.pdf)<br/>
@@ -165,7 +184,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 ### **Workshop Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2024.png" alt="">
+  <img class="pub-thumb" src="images/aaai_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**](https://arxiv.org/pdf/2401.06263.pdf)<br/>
@@ -177,7 +196,7 @@ AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/neurips_2022.png" alt="">
+  <img class="pub-thumb" src="images/neurips_2022.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**](https://arxiv.org/pdf/2210.15051.pdf)<br/>
@@ -189,7 +208,7 @@ NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2022.png" alt="">
+  <img class="pub-thumb" src="images/aaai_2022.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**](https://arxiv.org/pdf/2112.13215.pdf)<br/>
@@ -201,7 +220,7 @@ AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2021.png" alt="">
+  <img class="pub-thumb" src="images/aaai_2021.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**](https://arxiv.org/pdf/2012.07110.pdf)<br/>
@@ -213,7 +232,7 @@ AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/neurips_2019.png" alt="">
+  <img class="pub-thumb" src="images/neurips_2019.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Adversarial Learning of Deepfakes in Accounting**](https://arxiv.org/pdf/1910.03810.pdf)<br/>
@@ -225,7 +244,7 @@ NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/kdd_2019.png" alt="">
+  <img class="pub-thumb" src="images/kdd_2019.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**](https://arxiv.org/pdf/1908.00734)<br/>
@@ -239,7 +258,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 ### **ArXiv and SSRN Preprints**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/arxiv_2025.png" alt="">
+  <img class="pub-thumb" src="images/arxiv_2025.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence Agentic Auditing**](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)<br/>
@@ -251,7 +270,7 @@ Preprint available open-access (**SSRN**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/arxiv_2024.png" alt="">
+  <img class="pub-thumb" src="images/arxiv_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**](https://arxiv.org/pdf/2412.16083)<br/>
@@ -263,7 +282,7 @@ Preprint available open-access (**arXiv**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2024.png" alt="">
+  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)<br/>
@@ -277,7 +296,7 @@ Preprint available open-access (**SSRN**), 2024<br/>
 ### **Accounting & Auditing Practitioner Journal Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2024b.png" alt="">
+  <img class="pub-thumb" src="images/esw_2024b.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
@@ -289,7 +308,7 @@ EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2024a.png" alt="">
+  <img class="pub-thumb" src="images/esw_2024a.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)<br/>
@@ -301,7 +320,7 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022b_e.png" alt="">
+  <img class="pub-thumb" src="images/esw_2022b_e.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data**](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)<br/>
@@ -313,7 +332,7 @@ EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022a_e.png" alt="">
+  <img class="pub-thumb" src="images/esw_2022a_e.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies**](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)<br/>
@@ -327,7 +346,7 @@ EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
 ### **Accounting & Auditing Practitioner Journal Publications (in German)**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/betrieb_2023.png" alt="">
+  <img class="pub-thumb" src="images/betrieb_2023.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
@@ -339,7 +358,7 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022b.png" alt="">
+  <img class="pub-thumb" src="images/esw_2022b.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content)<br/>
@@ -351,7 +370,7 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022a.png" alt="">
+  <img class="pub-thumb" src="images/esw_2022a.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content)<br/>
@@ -363,7 +382,7 @@ EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/irz_2021.png" alt="">
+  <img class="pub-thumb" src="images/irz_2021.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
@@ -375,7 +394,7 @@ Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2020.png" alt="">
+  <img class="pub-thumb" src="images/esw_2020.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content)<br/>
@@ -387,7 +406,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/wpg_2018.png" alt="">
+  <img class="pub-thumb" src="images/wpg_2018.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
@@ -400,38 +419,134 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 ## Invited Teaching & Guest Lectures
 
-- 01/2023: **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/de/education/internalauditingprogramme), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">01/2023</div>
+    <div class="timeline-content" markdown="1">
 
-- 11/2022: **Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Slides](https://drive.google.com/file/d/1l8Y4zfan-L-2f1Af5c1m4cJ2eW4_INEO/view?usp=sharing)] and [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
+**Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/en/executive-education/internal-auditing-program/), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
 
-- 06/2022: **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org), view [[Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2022-Lab)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">12/2022</div>
+    <div class="timeline-content" markdown="1">
 
-- 12/2022: **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), view  [[Notebooks](https://github.com/GitiHubi/CADS)].
+**Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), view [[Notebooks](https://github.com/GitiHubi/CADS)].
 
-- 04/2022: **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, view [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] and [[Notebooks](https://github.com/GitiHubi/courseAAA)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">11/2022</div>
+    <div class="timeline-content" markdown="1">
+
+**Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">06/2022</div>
+    <div class="timeline-content" markdown="1">
+
+**Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org).
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">04/2022</div>
+    <div class="timeline-content" markdown="1">
+
+**Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, view [[Notebooks](https://github.com/GitiHubi/courseAAA)].
+
+  </div>
+  </div>
+</div>
 
 ## Conference Presentations & Invited Talks
 
-- 11/2022: **Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University, view [[Slides](https://drive.google.com/file/d/1MgRdhCuscvej9E_OYM_Ma7lNG0S1x99I/view?usp=sharing)].
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">11/2022</div>
+    <div class="timeline-content" markdown="1">
 
-- 11/2022: **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1CUzQJoK8eqK8BRGUrhD6dvwoltSmGKLn/view?usp=sharing)].
+**Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University.
 
-- 08/2022: **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Slides](https://drive.google.com/file/d/18LJRuTzKIMDQHwGoSRt6j9-sYiUN__d_/view?usp=sharing)] and [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">11/2022</div>
+    <div class="timeline-content" markdown="1">
 
-- 11/2021: **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1zZJu9dvvrNEGU8dx3aMZRZWQ4HEJ7xKX/view?usp=sharing)].
+**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF).
 
-- 04/2021: **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1gVdcQul5DQ8PXTPdkTczXJA5XdBnZqXs/view?usp=sharing)] and [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">08/2022</div>
+    <div class="timeline-content" markdown="1">
 
-- 03/2021: **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Slides](https://drive.google.com/file/d/11rDLJIHJprzvGnZEId-yWRIjdsM13Dxu/view?usp=sharing)] and [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
+**Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
 
-- 02/2021: **Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance, view [[Slides](https://drive.google.com/file/d/1VmumkwS7QICv1oTiSOyMLP2NTBz1tqyp/view?usp=sharing)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">11/2021</div>
+    <div class="timeline-content" markdown="1">
 
-- 10/2020: **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF), view [[Slides](https://drive.google.com/file/d/1ydgh8y1OItPkLz-Xak22_a_i3cYF1imv/view?usp=sharing)].
+**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF).
 
-- 08/2019: **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance, view [[Slides](https://drive.google.com/file/d/1uXl1aHjM9Bwbd4cf9tbMPr3zZCps6AOC/view?usp=sharing)].
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">04/2021</div>
+    <div class="timeline-content" markdown="1">
 
-- 04/2019: **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Slides](https://drive.google.com/file/d/1aHLcjD8M_yw-wgH38WLpMOwFmqiN1xT-/view?usp=sharing)] and [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
+**Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
 
-Last updated: December 29, 2024 (using [OpenAI's](https://openai.com) GPT-4)
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">03/2021</div>
+    <div class="timeline-content" markdown="1">
+
+**Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">02/2021</div>
+    <div class="timeline-content" markdown="1">
+
+**Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">10/2020</div>
+    <div class="timeline-content" markdown="1">
+
+**Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">08/2019</div>
+    <div class="timeline-content" markdown="1">
+
+**Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
+
+  </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">04/2019</div>
+    <div class="timeline-content" markdown="1">
+
+**Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
+
+  </div>
+  </div>
+</div>
+
+Last updated: July 21, 2026 (using [Anthropic's](https://www.anthropic.com) Claude Code)
 
 ---

@@ -191,6 +191,14 @@ html[data-theme="dark"] {
     border-radius: 6px;
     padding: 3px;
   }
+
+  .timeline-date {
+    color: var(--dm-text-muted);
+  }
+
+  .timeline-content {
+    border-left-color: var(--dm-border);
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -447,5 +455,74 @@ html[data-theme="dark"] {
     width: 100%;
     max-width: 220px;
     height: 150px;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Timeline
+//
+// "Recent News", "Invited Teaching & Guest Lectures", and "Conference
+// Presentations & Invited Talks" were three plain bullet lists with dates
+// inline in the text. A date column + connecting line reads faster (the
+// eye can scan just the dates) and matches the rest of the page's move
+// away from stock minima list/paragraph defaults.
+// ---------------------------------------------------------------------------
+.timeline {
+  margin: 20px 0 0 0;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  column-gap: 20px;
+}
+
+.timeline-date {
+  text-align: right;
+  padding-top: 2px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: $grey-color-dark;
+}
+
+.timeline-content {
+  position: relative;
+  padding: 0 0 24px 22px;
+  border-left: 2px solid $grey-color-light;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -6px;
+    top: 6px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: $brand-color;
+  }
+}
+
+.timeline-item:last-child .timeline-content {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: $on-palm) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 4px;
+  }
+
+  .timeline-date {
+    text-align: left;
+    font-size: 14px;
+  }
+
+  .timeline-content {
+    padding-left: 20px;
   }
 }
