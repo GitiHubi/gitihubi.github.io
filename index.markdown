@@ -68,7 +68,7 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 ## Selected Publications
 
-Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en) for a complete list.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en) for a more up to date list.
 
 ### **Journal Publications**
 
@@ -515,67 +515,70 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
   </div>
   </div>
+
+<!-- 
   <div class="timeline-item">
     <div class="timeline-date">04/2021</div>
     <div class="timeline-content" markdown="1">
 
-<!-- **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
+**Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
 
   </div>
   </div>
+-->
+<!-- 
   <div class="timeline-item">
     <div class="timeline-date">03/2021</div>
     <div class="timeline-content" markdown="1">
 
+**Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
+
+  </div>
+  </div>
 -->
-
-<!-- **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
-
-  </div>
-  </div>
+<!--
   <div class="timeline-item">
     <div class="timeline-date">02/2021</div>
     <div class="timeline-content" markdown="1">
 
+**Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
+
+  </div>
+  </div>
 -->
-
-<!-- **Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
-
-  </div>
-  </div>
+<!--
   <div class="timeline-item">
     <div class="timeline-date">10/2020</div>
     <div class="timeline-content" markdown="1">
 
+**Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
+
+  </div>
+  </div>
 -->
-
-<!-- **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
-
-  </div>
-  </div>
+<!--
   <div class="timeline-item">
     <div class="timeline-date">08/2019</div>
     <div class="timeline-content" markdown="1">
 
+**Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
+
+  </div>
+  </div>
 -->
-
-<!-- **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
-
-  </div>
-  </div>
+<!--
   <div class="timeline-item">
     <div class="timeline-date">04/2019</div>
     <div class="timeline-content" markdown="1">
-
--->
 
 **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
 
   </div>
   </div>
-</div>
 
 -->
+
+</div>
 
 Last updated: July 21, 2026 (using [Anthropic's](https://www.anthropic.com) Claude Code)
 
