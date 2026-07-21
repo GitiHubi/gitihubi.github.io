@@ -84,6 +84,18 @@ International Journal of Accounting Information Systems 54, 2024<br/>
   </div>
 </div>
 
+<div class="pub-card">
+  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
+  <div class="pub-card-body" markdown="1">
+
+[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)<br/>
+T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
+International Journal of Accounting Information Systems 57, 2026<br/>
+[[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X)]
+
+  </div>
+</div>
+
 ### **Conference Publications**
 
 <div class="pub-card">
@@ -266,18 +278,6 @@ Preprint available open-access (**SSRN**), 2024<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 Preprint available open-access (**arXiv**), 2024<br/>
 [[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083)]
-
-  </div>
-</div>
-
-<div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
-  <div class="pub-card-body" markdown="1">
-
-[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)<br/>
-T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
-Preprint available open-access (**SSRN**), 2024<br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4488271)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4488271.pdf)]
 
   </div>
 </div>
