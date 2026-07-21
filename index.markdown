@@ -78,7 +78,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 
 [**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
-International Journal of Accounting Information Systems (IJAIS) 54, 2024<br/>
+International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/>
 [[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)]
 
   </div>
@@ -91,7 +91,7 @@ International Journal of Accounting Information Systems (IJAIS) 54, 2024<br/>
 [**Connecting the Dots: Graph Neural Networks for Auditing 
 Accounting Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
 Q. Huang, M. Schreyer, N. R. Michiles Jr., and Miklos A. Vasarhelyi<br/>
-AUDITING: A Journal of Practice & Theory (AJPT), 2026<br/>
+AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
 [[html](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)], [[pdf](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)]
 
   </div>
@@ -103,7 +103,7 @@ AUDITING: A Journal of Practice & Theory (AJPT), 2026<br/>
 
 [**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X)<br/>
 T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
-International Journal of Accounting Information Systems (IJAIS) 57, 2026<br/>
+International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/>
 [[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X)]
 
   </div>
