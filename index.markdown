@@ -581,7 +581,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 
 </div>
-
+<br/>
 Last updated: July 21, 2026 (using [Anthropic's](https://www.anthropic.com) Claude Code)
 
 ---
