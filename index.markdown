@@ -507,6 +507,8 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
   </div>
   </div>
+
+<!-- 
   <div class="timeline-item">
     <div class="timeline-date">11/2021</div>
     <div class="timeline-content" markdown="1">
@@ -515,7 +517,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
   </div>
   </div>
-
+-->
 <!-- 
   <div class="timeline-item">
     <div class="timeline-date">04/2021</div>
