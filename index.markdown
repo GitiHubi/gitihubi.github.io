@@ -295,7 +295,7 @@ Preprint available open-access (**arXiv**), 2024<br/>
   </div>
 </div>
 
-### **Professional Journal Publications**
+### **Professional Journal Publications (in English)**
 
 <div class="pub-card">
   <img class="pub-thumb" src="images/esw_2024b.png" alt="" loading="lazy">
@@ -345,7 +345,7 @@ EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
   </div>
 </div>
 
-### **Accounting & Auditing Practitioner Journal Publications (in German)**
+### **Professional Journal Publications (in German)**
 
 <div class="pub-card">
   <img class="pub-thumb" src="images/betrieb_2023.png" alt="" loading="lazy">
