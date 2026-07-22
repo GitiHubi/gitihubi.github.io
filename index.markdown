@@ -41,27 +41,27 @@ After graduating from the [University of Mannheim](https://www.uni-mannheim.de/e
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">10::2024</div>
+    <div class="timeline-date">10 · 2024</div>
     <div class="timeline-content">Our research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">09::2024</div>
+    <div class="timeline-date">09 · 2024</div>
     <div class="timeline-content">Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2024 Conference</a> in Brooklyn, USA.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">07::2024</div>
+    <div class="timeline-date">07 · 2024</div>
     <div class="timeline-content">Paper accepted for the <a href="https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems" target="_blank">International Journal of Accounting Information Systems</a>.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">02::2024</div>
+    <div class="timeline-date">02 · 2024</div>
     <div class="timeline-content">Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award!</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">12::2023</div>
+    <div class="timeline-date">12 · 2023</div>
     <div class="timeline-content">Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank">AAAI 2024 WS on AI in Finance</a> in Vancouver, Canada.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">10::2023</div>
+    <div class="timeline-date">10 · 2023</div>
     <div class="timeline-content">I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D</div>
   </div>
 </div>
