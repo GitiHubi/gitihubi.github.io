@@ -432,7 +432,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
 </div>
 
-## Invited Teaching & Guest Lectures
+## Teaching & Lectures
 
 <div class="timeline">
   <div class="timeline-item">
@@ -481,7 +481,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
       </div>
 -->
 
-## Conference Presentations & Invited Talks
+## Recent Presentations & Talks
 
 <div class="timeline">
   <div class="timeline-item">
