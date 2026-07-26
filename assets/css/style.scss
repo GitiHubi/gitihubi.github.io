@@ -101,12 +101,6 @@ html[data-theme="dark"] {
     background-color: var(--dm-bg);
     border-bottom-color: var(--dm-border);
   }
-
-  .site-title,
-  .site-title:visited {
-    color: var(--dm-text);
-  }
-
   .site-nav {
     .menu-icon svg path {
       fill: var(--dm-text-muted);
