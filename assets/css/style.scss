@@ -232,6 +232,7 @@ html[data-theme="dark"] {
 h1, h2, h3, h4, h5, h6,
 .page-heading,
 .site-title,
+.timeline-date,
 .post-title {
   font-family: "Gaegu", "Newsreader", "Georgia", "Times New Roman", serif;
 }
@@ -481,7 +482,6 @@ html[data-theme="dark"] {
   padding-top: 2px;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
-  color: $grey-color-dark;
 }
 
 .timeline-content {
