@@ -232,10 +232,15 @@ html[data-theme="dark"] {
 // body copy on the fast, highly-legible system sans stack.
 // ---------------------------------------------------------------------------
 h1, h2, h3, h4, h5, h6,
-.site-title,
 .page-heading,
 .post-title {
   font-family: "Newsreader", Georgia, "Times New Roman", serif;
+}
+
+.site-title {
+  font-family: "Gaegu", "Newsreader", Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  letter-spacing: 0.01em;
 }
 
 h2 {
