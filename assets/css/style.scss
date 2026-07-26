@@ -99,8 +99,6 @@ html[data-theme="dark"] {
 
   .site-header {
     background-color: var(--dm-bg);
-    // Keep the Berkeley Blue + gold stripe as a fixed brand mark in dark
-    // mode too, rather than dimming it to a theme-adaptive border color.
     border-bottom-color: var(--dm-border);
   }
 
@@ -234,11 +232,11 @@ html[data-theme="dark"] {
 h1, h2, h3, h4, h5, h6,
 .page-heading,
 .post-title {
-  font-family: "Newsreader", Georgia, "Times New Roman", serif;
+  font-family: "Gaegu", "Newsreader", "Georgia", "Times New Roman", serif;
 }
 
 .site-title {
-  font-family: "Gaegu", "Newsreader", Georgia, "Times New Roman", serif;
+  font-family: "Gaegu", "Newsreader", "Georgia", "Times New Roman", serif;
   font-weight: 400;
   letter-spacing: 0.01em;
 }
