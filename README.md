@@ -13,7 +13,6 @@ My personal homepage — bio, publications, talks, and teaching, all on artifici
 ├── _config.yml       # Site settings: title, theme, plugins, analytics ID
 ├── _includes/        # Theme partials: head, header, footer, analytics, social links
 ├── index.markdown    # Home page: bio, news, publications, talks
-├── about.markdown    # About page
 ├── 404.html          # Custom 404 page
 ├── assets/css/       # Sass entry point importing the minima theme
 └── images/           # Portrait, publication thumbnails, partner logos
