@@ -436,7 +436,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">01/2023</div>
+    <div class="timeline-date">2023·01</div>
     <div class="timeline-content" markdown="1">
 
 **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/en/executive-education/internal-auditing-program/), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
@@ -444,7 +444,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">12/2022</div>
+    <div class="timeline-date">2022·12</div>
     <div class="timeline-content" markdown="1">
 
 **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), view [[Notebooks](https://github.com/GitiHubi/CADS)].
@@ -452,7 +452,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">11/2022</div>
+    <div class="timeline-date">2022·11</div>
     <div class="timeline-content" markdown="1">
 
 **Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
@@ -462,7 +462,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 </div>
 <!--
       <div class="timeline-item">
-        <div class="timeline-date">06/2022</div>
+        <div class="timeline-date">2022·06</div>
         <div class="timeline-content" markdown="1">
 
     **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org).
@@ -472,7 +472,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!--
       <div class="timeline-item">
-        <div class="timeline-date">04/2022</div>
+        <div class="timeline-date">2022·04</div>
         <div class="timeline-content" markdown="1">
     
     **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, view [[Notebooks](https://github.com/GitiHubi/courseAAA)].
@@ -485,7 +485,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">11/2022</div>
+    <div class="timeline-date">2022·11</div>
     <div class="timeline-content" markdown="1">
 
 **Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University.
@@ -493,7 +493,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">11/2022</div>
+    <div class="timeline-date">2022·11</div>
     <div class="timeline-content" markdown="1">
 
 **Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF).
@@ -501,7 +501,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">08/2022</div>
+    <div class="timeline-date">2022·08</div>
     <div class="timeline-content" markdown="1">
 
 **Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
@@ -511,7 +511,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 
 <!-- 
   <div class="timeline-item">
-    <div class="timeline-date">11/2021</div>
+    <div class="timeline-date">2021·11</div>
     <div class="timeline-content" markdown="1">
 
 **Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF).
@@ -521,7 +521,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!-- 
   <div class="timeline-item">
-    <div class="timeline-date">04/2021</div>
+    <div class="timeline-date">2021·04</div>
     <div class="timeline-content" markdown="1">
 
 **Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
@@ -531,7 +531,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!-- 
   <div class="timeline-item">
-    <div class="timeline-date">03/2021</div>
+    <div class="timeline-date">2021·03</div>
     <div class="timeline-content" markdown="1">
 
 **Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
@@ -541,7 +541,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!--
   <div class="timeline-item">
-    <div class="timeline-date">02/2021</div>
+    <div class="timeline-date">2021·10</div>
     <div class="timeline-content" markdown="1">
 
 **Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
@@ -551,7 +551,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!--
   <div class="timeline-item">
-    <div class="timeline-date">10/2020</div>
+    <div class="timeline-date">2020·10</div>
     <div class="timeline-content" markdown="1">
 
 **Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
@@ -561,7 +561,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!--
   <div class="timeline-item">
-    <div class="timeline-date">08/2019</div>
+    <div class="timeline-date">2019·08</div>
     <div class="timeline-content" markdown="1">
 
 **Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
@@ -571,7 +571,7 @@ WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
 -->
 <!--
   <div class="timeline-item">
-    <div class="timeline-date">04/2019</div>
+    <div class="timeline-date">2019·04</div>
     <div class="timeline-content" markdown="1">
 
 **Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
