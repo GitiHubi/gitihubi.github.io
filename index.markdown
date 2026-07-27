@@ -98,7 +98,7 @@ AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/ssrn_2023.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -196,7 +196,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/gtc_2018.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -270,7 +270,7 @@ NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/kdd_2019.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -296,7 +296,7 @@ Preprint available open-access (**SSRN**), 2024<br/>
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/arxiv_2024.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -346,7 +346,7 @@ EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/esw_2022a_e.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -420,7 +420,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
   </div>
 </div>
 
-<div class="pub-card">
+<div class="pub-card pub-card-last">
   <img class="pub-thumb" src="images/wpg_2018.png" alt="" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
