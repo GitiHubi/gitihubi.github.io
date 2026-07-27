@@ -11,13 +11,14 @@
 // Contents:
 //   1. Brand variables + minima import
 //   2. Dark mode (custom properties + `data-theme="dark"` overrides)
-//   3. Header stripe (Berkeley Blue / Cal Gold accent bar)
-//   4. Typography (heading font, weights, sizes)
-//   5. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
-//   6. Logo row (.logo-row / .logo-group)
-//   7. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
-//   8. Small-screen responsive overrides (single max-width breakpoint)
-//   9. Print overrides
+//   3. Link color (light mode)
+//   4. Header stripe (Berkeley Blue / Cal Gold accent bar)
+//   5. Typography (heading font, weights, sizes)
+//   6. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
+//   7. Logo row (.logo-row / .logo-group)
+//   8. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   9. Small-screen responsive overrides (single max-width breakpoint)
+//   10. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -30,8 +31,10 @@
 
 // Berkeley Blue — set before the minima import so it overrides minima's own
 // `$brand-color: #2a7ae2 !default;`, which cascades to every place minima
-// itself uses the accent color (links, etc.) without needing per-selector
-// overrides.
+// itself uses the accent color without needing per-selector overrides.
+// Link text is the one exception: at full strength this navy is too close
+// in luminance to the body text color to read clearly as a link inline —
+// see §3 (Link color) for the lighter tint used there instead.
 $brand-color: #003262;
 // California Gold — used only as an accent (header stripe, heading
 // underline), never as body/link color, so it stays legible on its own.
@@ -220,7 +223,31 @@ html[data-theme="dark"] .timeline-content {
 }
 
 // -----------------------------------------------------------------------
-// 3. Header stripe
+// 3. Link color (light mode)
+//
+// Minima colors link text with $brand-color directly, and darkens it
+// further for `:visited`. Berkeley Blue is a near-black navy (~19%
+// lightness), so against the body copy's dark grey (~26% lightness) a
+// link reads as barely-there — same problem, worse, for visited links,
+// which minima darkens again on top of that. Lightening (rather than
+// picking an unrelated color) keeps links in the same brand hue family
+// while giving them enough luminance contrast to read as clickable text.
+// Dark mode is unaffected — it already defines its own `--dm-link` /
+// `--dm-link-visited` pair further up.
+// -----------------------------------------------------------------------
+$link-color: lighten($brand-color, 20%);
+$link-color-visited: darken($link-color, 8%);
+
+a {
+  color: $link-color;
+}
+
+a:visited {
+  color: $link-color-visited;
+}
+
+// -----------------------------------------------------------------------
+// 4. Header stripe
 //
 // A restrained Berkeley Blue + California Gold bar in place of minima's
 // plain grey border-top — a small, literal nod to Berkeley (ICSI/UC
@@ -245,7 +272,7 @@ html[data-theme="dark"] .timeline-content {
 }
 
 // -----------------------------------------------------------------------
-// 4. Typography
+// 5. Typography
 //
 // Minima's headings are the body's system-font stack at font-weight: 400 —
 // same face as the paragraph text, no weight or spacing to set them apart.
@@ -300,7 +327,7 @@ h3 {
 }
 
 // -----------------------------------------------------------------------
-// 5. Publication cards
+// 6. Publication cards
 //
 // The ~27 publication thumbnails in index.markdown vary wildly in native
 // aspect ratio (near-square diagrams next to wide banner screenshots),
@@ -379,7 +406,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 6. Logo row
+// 7. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
@@ -407,7 +434,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 7. Timeline
+// 8. Timeline
 //
 // "Recent News", "Invited Teaching & Guest Lectures", and "Conference
 // Presentations & Invited Talks" were three plain bullet lists with dates
@@ -467,7 +494,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 8. Small screens (single breakpoint, all palm-width overrides)
+// 9. Small screens (single breakpoint, all palm-width overrides)
 //
 // Below $on-palm minima turns .site-nav into a small `position: absolute`
 // box pinned to the header's top-right corner, so the theme toggle and nav
@@ -539,7 +566,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 9. Print
+// 10. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and
