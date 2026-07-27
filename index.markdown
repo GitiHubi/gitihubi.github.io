@@ -74,7 +74,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
 ### **Journal Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ssrn_2024.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/ssrn_2024.png" alt="Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X)<br/>
@@ -86,7 +86,7 @@ International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/ajpt_2026.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/ajpt_2026.png" alt="Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Connecting the Dots: Graph Neural Networks for Auditing 
@@ -99,7 +99,7 @@ AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/ssrn_2023.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/ssrn_2023.png" alt="Artificial Intelligence Co-Piloted Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
@@ -113,7 +113,7 @@ International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/
 ### **Conference Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/kdd_2025.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/kdd_2025.png" alt="Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910)<br/>
@@ -125,7 +125,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025<br/
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2024.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2024.png" alt="Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)<br/>
@@ -137,7 +137,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2023.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2023.png" alt="FinDiff: Diffusion Models for Financial Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**FinDiff: Diffusion Models for Financial Tabular Data Generation**](https://arxiv.org/pdf/2309.01472.pdf)<br/>
@@ -149,7 +149,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2022.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2022.png" alt="Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**](https://arxiv.org/pdf/2208.12708.pdf)<br/>
@@ -161,7 +161,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2022b.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2022b.png" alt="RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**](https://arxiv.org/pdf/2209.09157.pdf)<br/>
@@ -173,7 +173,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2021.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2021.png" alt="Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**](https://arxiv.org/pdf/2109.11201.pdf)<br/>
@@ -185,7 +185,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/icaif_2020.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/icaif_2020.png" alt="Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**](https://arxiv.org/pdf/2008.02528.pdf)<br/>
@@ -197,7 +197,7 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/gtc_2018.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/gtc_2018.png" alt="Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**](https://arxiv.org/pdf/1709.05254.pdf)<br/>
@@ -211,7 +211,7 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
 ### **Workshop Publications**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2024.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/aaai_2024.png" alt="FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**](https://arxiv.org/pdf/2401.06263.pdf)<br/>
@@ -223,7 +223,7 @@ AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/neurips_2022.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/neurips_2022.png" alt="Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**](https://arxiv.org/pdf/2210.15051.pdf)<br/>
@@ -235,7 +235,7 @@ NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2022.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/aaai_2022.png" alt="Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**](https://arxiv.org/pdf/2112.13215.pdf)<br/>
@@ -247,7 +247,7 @@ AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/aaai_2021.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/aaai_2021.png" alt="Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**](https://arxiv.org/pdf/2012.07110.pdf)<br/>
@@ -259,7 +259,7 @@ AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/neurips_2019.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/neurips_2019.png" alt="Adversarial Learning of Deepfakes in Accounting" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Adversarial Learning of Deepfakes in Accounting**](https://arxiv.org/pdf/1910.03810.pdf)<br/>
@@ -271,7 +271,7 @@ NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/kdd_2019.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/kdd_2019.png" alt="Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**](https://arxiv.org/pdf/1908.00734)<br/>
@@ -285,7 +285,7 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
 ### **ArXiv and SSRN Preprints**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/arxiv_2025.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/arxiv_2025.png" alt="Artificial Intelligence Agentic Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence Agentic Auditing**](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)<br/>
@@ -297,7 +297,7 @@ Preprint available open-access (**SSRN**), 2024<br/>
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/arxiv_2024.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/arxiv_2024.png" alt="Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**](https://arxiv.org/pdf/2412.16083)<br/>
@@ -311,7 +311,7 @@ Preprint available open-access (**arXiv**), 2024<br/>
 ### **Professional Journal Publications (in English)**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2024b.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2024b.png" alt="A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
@@ -323,7 +323,7 @@ EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2024a.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2024a.png" alt="Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)<br/>
@@ -335,7 +335,7 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022b_e.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2022b_e.png" alt="Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data**](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)<br/>
@@ -347,7 +347,7 @@ EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/esw_2022a_e.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2022a_e.png" alt="Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies**](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)<br/>
@@ -361,7 +361,7 @@ EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
 ### **Professional Journal Publications (in German)**
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/betrieb_2023.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/betrieb_2023.png" alt="Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
@@ -373,7 +373,7 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022b.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2022b.png" alt="Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content)<br/>
@@ -385,7 +385,7 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2022a.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2022a.png" alt="Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content)<br/>
@@ -397,7 +397,7 @@ EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/irz_2021.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/irz_2021.png" alt="Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Deep Learning für die Wirtschaftsprüfung - Eine Darstellung von Theorie, Funktionsweise und Anwendungsmöglichkeiten**<br/>
@@ -409,7 +409,7 @@ Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021
 </div>
 
 <div class="pub-card">
-  <img class="pub-thumb" src="images/esw_2020.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/esw_2020.png" alt="Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 [**Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content)<br/>
@@ -421,7 +421,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 </div>
 
 <div class="pub-card pub-card-last">
-  <img class="pub-thumb" src="images/wpg_2018.png" alt="" loading="lazy">
+  <img class="pub-thumb" src="images/wpg_2018.png" alt="Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
 **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
