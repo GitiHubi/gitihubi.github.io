@@ -2,23 +2,59 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// =============================================================================
+// Site stylesheet — thin customization layer on top of the Jekyll "minima"
+// theme. Nothing here redefines minima's own rules directly; everything
+// either sets a variable minima reads at compile time, or adds new
+// selectors/overrides after minima's own CSS in the cascade.
+//
+// Contents:
+//   1. Brand variables + minima import
+//   2. Dark mode (custom properties + `data-theme="dark"` overrides)
+//   3. Header stripe (Berkeley Blue / Cal Gold accent bar)
+//   4. Typography (heading font, weights, sizes)
+//   5. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
+//   6. Logo row (.logo-row / .logo-group)
+//   7. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   8. Small-screen responsive overrides (single max-width breakpoint)
+//   9. Print overrides
+//
+// No Sass nesting (`&`) is used anywhere in this file — every rule is a
+// flat, explicit selector — so a plain text search for a class name finds
+// every rule that touches it.
+// =============================================================================
+
+// -----------------------------------------------------------------------
+// 1. Brand variables + minima import
+// -----------------------------------------------------------------------
+
 // Berkeley Blue — set before the minima import so it overrides minima's own
 // `$brand-color: #2a7ae2 !default;`, which cascades to every place minima
 // itself uses the accent color (links, etc.) without needing per-selector
 // overrides.
 $brand-color: #003262;
+// California Gold — used only as an accent (header stripe, heading
+// underline), never as body/link color, so it stays legible on its own.
 $cal-gold: #fdb515;
 
 @import "minima";
 
-// ---------------------------------------------------------------------------
-// Dark mode
+// -----------------------------------------------------------------------
+// 2. Dark mode
 //
 // Minima's colors are compiled to fixed hex values at build time, so runtime
 // theme switching is layered on top via a `data-theme` attribute on <html>
 // (see _includes/head.html and _includes/header.html for the toggle logic).
-// ---------------------------------------------------------------------------
+// Every dark-mode rule below is therefore scoped under the explicit
+// `html[data-theme="dark"]` attribute selector rather than
+// `@media (prefers-color-scheme: dark)`, so it only activates once the user
+// (or their stored preference) has actually flipped the toggle.
+// -----------------------------------------------------------------------
 
+// Dark-mode palette, named `--dm-*` and consumed only by the
+// `html[data-theme="dark"]` rules below. Kept as CSS custom properties
+// (not Sass variables) because they need to change at runtime when the
+// `data-theme` attribute is toggled — a Sass variable is fixed at build time.
 :root {
   --dm-bg: #0f1115;
   --dm-bg-elevated: #171a21;
@@ -29,11 +65,17 @@ $cal-gold: #fdb515;
   --dm-link-visited: #9c8cf5;
 }
 
+// Animates the swap between light and dark palettes instead of an instant
+// flash when the toggle is clicked.
 html,
 body {
   transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
 }
 
+// Circular icon button injected into the site nav (see _includes/header.html)
+// that flips `data-theme` on <html>. Sized and positioned to sit inline with
+// minima's existing nav links at desktop widths; see the small-screen block
+// near the end of this file for its narrow-viewport position.
 .theme-toggle {
   display: inline-flex;
   align-items: center;
@@ -49,180 +91,167 @@ body {
   color: $text-color;
   cursor: pointer;
   line-height: 0;
-
-  &:hover {
-    border-color: $grey-color;
-  }
-
-  .icon-moon {
-    display: none;
-  }
 }
 
-// Below $on-palm minima turns .site-nav into a small `position: absolute`
-// box pinned to the header's top-right corner. A plain `float: right`
-// toggle would sit at the exact same coordinates and get painted over by
-// that positioned box, so it needs to become absolutely positioned too,
-// parked just to the left of the hamburger's ~38px square.
-@media screen and (max-width: $on-palm) {
-  .theme-toggle {
-    position: absolute;
-    top: 9px;
-    right: 60px;
-    margin-top: 0;
-    float: none;
-  }
+.theme-toggle:hover {
+  border-color: $grey-color;
+}
+
+// The button holds both a sun and a moon icon; only one shows at a time.
+// In light mode (no `data-theme="dark"` attribute yet) the sun is visible
+// and the moon starts hidden — the dark-mode rules below flip this pair.
+.theme-toggle .icon-moon {
+  display: none;
 }
 
 html[data-theme="dark"] .theme-toggle {
   border-color: var(--dm-border);
   color: var(--dm-text);
-
-  &:hover {
-    border-color: var(--dm-text-muted);
-  }
-
-  .icon-sun {
-    display: none;
-  }
-
-  .icon-moon {
-    display: inline-flex;
-  }
 }
 
-html[data-theme="dark"] {
-  body {
-    background-color: var(--dm-bg);
-    color: var(--dm-text);
-  }
-
-  .site-header {
-    background-color: var(--dm-bg);
-    border-bottom-color: var(--dm-border);
-  }
-  .site-nav {
-    .menu-icon svg path {
-      fill: var(--dm-text-muted);
-    }
-
-    .page-link {
-      color: var(--dm-text);
-    }
-
-    @media screen and (max-width: $on-palm) {
-      background-color: var(--dm-bg-elevated);
-      border-color: var(--dm-border);
-
-      .menu-icon svg path {
-        fill: var(--dm-text-muted);
-      }
-    }
-  }
-
-  .site-footer {
-    border-top-color: var(--dm-border);
-    color: var(--dm-text-muted);
-  }
-
-  .footer-heading,
-  .contact-list,
-  .social-media-list {
-    color: var(--dm-text-muted);
-  }
-
-  a {
-    color: var(--dm-link);
-
-    &:visited {
-      color: var(--dm-link-visited);
-    }
-  }
-
-  .page-content {
-    background-color: var(--dm-bg);
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: var(--dm-text);
-  }
-
-  hr {
-    border-color: var(--dm-border);
-  }
-
-  blockquote {
-    color: var(--dm-text-muted);
-    border-left-color: var(--dm-border);
-  }
-
-  code,
-  pre {
-    background-color: var(--dm-bg-elevated);
-    border-color: var(--dm-border);
-    color: var(--dm-text);
-  }
-
-  table {
-    color: var(--dm-text);
-    border-color: var(--dm-border);
-
-    th, td {
-      border-color: var(--dm-border);
-    }
-
-    tr:nth-child(even) {
-      background-color: var(--dm-bg-elevated);
-    }
-  }
-
-  // Institution / social logos are mostly opaque or transparent PNGs drawn
-  // for a light background; give them a light chip so they stay legible.
-  .logo-badge {
-    background-color: #f5f5f5;
-    border-radius: 6px;
-    padding: 3px;
-  }
-
-  .timeline-date {
-    color: var(--dm-text-muted);
-  }
-
-  .timeline-content {
-    border-left-color: var(--dm-border);
-  }
+html[data-theme="dark"] .theme-toggle:hover {
+  border-color: var(--dm-text-muted);
 }
 
-// ---------------------------------------------------------------------------
-// Header stripe
+// Icon swap: once dark mode is active, hide the sun and reveal the moon.
+html[data-theme="dark"] .theme-toggle .icon-sun {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .icon-moon {
+  display: inline-flex;
+}
+
+html[data-theme="dark"] body {
+  background-color: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] .site-header {
+  background-color: var(--dm-bg);
+  border-bottom-color: var(--dm-border);
+}
+
+// Mobile hamburger icon (SVG path fill) in minima's collapsed nav.
+html[data-theme="dark"] .site-nav .menu-icon svg path {
+  fill: var(--dm-text-muted);
+}
+
+html[data-theme="dark"] .site-nav .page-link {
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] .site-footer,
+html[data-theme="dark"] .footer-heading,
+html[data-theme="dark"] .contact-list,
+html[data-theme="dark"] .social-media-list {
+  color: var(--dm-text-muted);
+}
+
+html[data-theme="dark"] .site-footer {
+  border-top-color: var(--dm-border);
+}
+
+html[data-theme="dark"] a {
+  color: var(--dm-link);
+}
+
+html[data-theme="dark"] a:visited {
+  color: var(--dm-link-visited);
+}
+
+html[data-theme="dark"] .page-content {
+  background-color: var(--dm-bg);
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] hr {
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] blockquote {
+  color: var(--dm-text-muted);
+  border-left-color: var(--dm-border);
+}
+
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre {
+  background-color: var(--dm-bg-elevated);
+  border-color: var(--dm-border);
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] table,
+html[data-theme="dark"] table th,
+html[data-theme="dark"] table td {
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] table {
+  color: var(--dm-text);
+}
+
+html[data-theme="dark"] table tr:nth-child(even) {
+  background-color: var(--dm-bg-elevated);
+}
+
+// Institution / social logos are mostly opaque or transparent PNGs drawn
+// for a light background; give them a light chip so they stay legible.
+html[data-theme="dark"] .logo-badge {
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  padding: 3px;
+}
+
+html[data-theme="dark"] .timeline-date {
+  color: var(--dm-text-muted);
+}
+
+html[data-theme="dark"] .timeline-content {
+  border-left-color: var(--dm-border);
+}
+
+// -----------------------------------------------------------------------
+// 3. Header stripe
 //
 // A restrained Berkeley Blue + California Gold bar in place of minima's
 // plain grey border-top — a small, literal nod to Berkeley (ICSI/UC
 // Berkeley) rather than a full color-scheme change.
-// ---------------------------------------------------------------------------
+// -----------------------------------------------------------------------
 .site-header {
   border-top: 4px solid $brand-color;
+  // Establishes the containing block for the ::before gold stripe below.
   position: relative;
-
-  &::before {
-    content: "";
-    position: absolute;
-    top: 4px;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background-color: $cal-gold;
-  }
 }
 
-// ---------------------------------------------------------------------------
-// Typography
+// The gold sub-stripe is a separate pseudo-element (rather than e.g. a CSS
+// gradient border) so its height can differ from the blue border-top above.
+.site-header::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: $cal-gold;
+}
+
+// -----------------------------------------------------------------------
+// 4. Typography
 //
 // Minima's headings are the body's system-font stack at font-weight: 400 —
 // same face as the paragraph text, no weight or spacing to set them apart.
 // Give headings a distinct serif for editorial contrast while keeping the
 // body copy on the fast, highly-legible system sans stack.
-// ---------------------------------------------------------------------------
+// -----------------------------------------------------------------------
 h1, h2, h3, h4, h5, h6,
 .page-heading,
 .site-title,
@@ -242,20 +271,21 @@ h2 {
   font-size: 30px;
   letter-spacing: -0.01em;
   position: relative;
+  // Reserves room for the ::after underline below.
   padding-bottom: 10px;
+}
 
-  // A small Cal-gold rule under each section heading — the one place gold
-  // shows up as a mark rather than as text/link color, which stays legible.
-  &::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 42px;
-    height: 3px;
-    background-color: $cal-gold;
-    border-radius: 2px;
-  }
+// A small Cal-gold rule under each section heading — the one place gold
+// shows up as a mark rather than as text/link color, which stays legible.
+h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 42px;
+  height: 3px;
+  background-color: $cal-gold;
+  border-radius: 2px;
 }
 
 h3 {
@@ -269,8 +299,8 @@ h3 {
   font-weight: 600;
 }
 
-// ---------------------------------------------------------------------------
-// Publication cards
+// -----------------------------------------------------------------------
+// 5. Publication cards
 //
 // The ~27 publication thumbnails in index.markdown vary wildly in native
 // aspect ratio (near-square diagrams next to wide banner screenshots),
@@ -278,7 +308,9 @@ h3 {
 // in a `.pub-card` (see index.markdown) so the thumbnail can be cropped to
 // a uniform box with `object-fit: cover` and the whole entry reads as one
 // unit with consistent spacing and a hover state.
-// ---------------------------------------------------------------------------
+// -----------------------------------------------------------------------
+
+// Wraps one publication's thumbnail + text as a single row.
 .pub-card {
   display: flex;
   align-items: flex-start;
@@ -288,16 +320,18 @@ h3 {
   border-bottom: 1px solid $grey-color-light;
   border-radius: 8px;
   transition: background-color 0.15s ease;
-
-  &:last-of-type {
-    border-bottom: none;
-  }
-
-  &:hover {
-    background-color: rgba(0, 0, 0, 0.03);
-  }
 }
 
+.pub-card:last-of-type {
+  border-bottom: none;
+}
+
+.pub-card:hover {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+// Fixed-size crop box for the thumbnail image; `object-fit: cover` lets
+// source images of any aspect ratio fill it without distortion.
 .pub-thumb {
   flex: 0 0 112px;
   width: 112px;
@@ -308,6 +342,8 @@ h3 {
   transition: border-color 0.15s ease, transform 0.15s ease;
 }
 
+// Hovering anywhere on the card (not just the image) highlights the thumb,
+// so the whole row reads as one clickable/scannable unit.
 .pub-card:hover .pub-thumb {
   border-color: $brand-color;
   transform: scale(1.03);
@@ -316,38 +352,39 @@ h3 {
 .pub-card-body {
   flex: 1 1 auto;
   min-width: 0;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
 }
 
-html[data-theme="dark"] {
-  .pub-card {
-    border-bottom-color: var(--dm-border);
-
-    &:hover {
-      background-color: rgba(255, 255, 255, 0.04);
-    }
-  }
-
-  .pub-thumb {
-    border-color: var(--dm-border);
-  }
-
-  .pub-card:hover .pub-thumb {
-    border-color: var(--dm-link);
-  }
+.pub-card-body p:last-child {
+  margin-bottom: 0;
 }
 
-// ---------------------------------------------------------------------------
-// Logo row
+html[data-theme="dark"] .pub-card {
+  border-bottom-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .pub-card:hover {
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+html[data-theme="dark"] .pub-thumb {
+  border-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .pub-card:hover .pub-thumb {
+  border-color: var(--dm-link);
+}
+
+// -----------------------------------------------------------------------
+// 6. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
 // wrappable spacing instead, with a bigger gap between the two logical
 // groups (social links vs. institutions) than within each group.
-// ---------------------------------------------------------------------------
+// -----------------------------------------------------------------------
+
+// Outer row: holds one or more `.logo-group`s (see index.markdown), spaced
+// wide apart so the "social" and "institution" clusters read as distinct.
 .logo-row {
   display: flex;
   flex-wrap: wrap;
@@ -356,6 +393,8 @@ html[data-theme="dark"] {
   margin-bottom: 15px;
 }
 
+// Inner cluster: logos within the same logical group, spaced tighter than
+// the gap between groups.
 .logo-group {
   display: flex;
   flex-wrap: wrap;
@@ -363,74 +402,99 @@ html[data-theme="dark"] {
   gap: 14px;
 }
 
-// ---------------------------------------------------------------------------
-// Print
+// -----------------------------------------------------------------------
+// 7. Timeline
 //
-// The dark-mode rules above key off a `data-theme` attribute that stays on
-// <html> however the page happens to be styled when the user prints, and
-// browsers skip background colors by default when printing — so a page
-// left in dark mode would print near-invisible light text on white paper.
-// Force a plain light, ink-friendly appearance for print regardless of the
-// active theme, and drop the on-screen-only chrome.
-// ---------------------------------------------------------------------------
-@media print {
-  .theme-toggle,
-  .site-nav {
-    display: none !important;
-  }
+// "Recent News", "Invited Teaching & Guest Lectures", and "Conference
+// Presentations & Invited Talks" were three plain bullet lists with dates
+// inline in the text. A date column + connecting line reads faster (the
+// eye can scan just the dates) and matches the rest of the page's move
+// away from stock minima list/paragraph defaults.
+// -----------------------------------------------------------------------
 
-  html[data-theme="dark"] {
-    body,
-    .site-header,
-    .page-content {
-      background: #fff !important;
-      color: #111 !important;
-    }
-
-    a,
-    a:visited {
-      color: #2a7ae2 !important;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: #111 !important;
-    }
-
-    .pub-card:hover {
-      background: transparent !important;
-    }
-
-    .pub-thumb,
-    .pub-card:hover .pub-thumb {
-      border-color: #ddd !important;
-    }
-
-    .pub-card,
-    hr,
-    blockquote,
-    code,
-    pre,
-    table,
-    th,
-    td {
-      border-color: #ddd !important;
-      background: #fff !important;
-    }
-  }
+.timeline {
+  margin: 20px 0 0 0;
 }
 
-// ---------------------------------------------------------------------------
-// Small screens
+// Two-column grid per entry: a fixed-width date column, then the content.
+.timeline-item {
+  display: grid;
+  grid-template-columns: 88px 1fr;
+  column-gap: 20px;
+}
+
+.timeline-date {
+  text-align: right;
+  padding-top: 2px;
+  font-weight: 600;
+  // Keeps digits a consistent width so multi-year dates in the date column
+  // don't shift the connecting line's horizontal alignment.
+  font-variant-numeric: tabular-nums;
+}
+
+// The vertical connecting line running down the left edge of each entry's
+// content; `position: relative` anchors the ::before dot marker below.
+.timeline-content {
+  position: relative;
+  padding: 0 0 24px 22px;
+  border-left: 2px solid $grey-color-light;
+}
+
+.timeline-content p {
+  margin-bottom: 0;
+}
+
+// Small filled circle marking each entry on the connecting line.
+.timeline-content::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: $brand-color;
+}
+
+// The last entry's line shouldn't trail past its own dot with nothing below.
+.timeline-item:last-child .timeline-content {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+// -----------------------------------------------------------------------
+// 8. Small screens (single breakpoint, all palm-width overrides)
 //
-// The profile photo relies on `float` + a fixed `height` set inline in
-// index.markdown. That works at desktop widths, but on a phone it leaves
-// only a sliver of column for the text beside it, forcing paragraphs to
-// wrap across many cramped lines. Un-float it and let it sit full-width
-// above the text instead. The float/margin being overridden here come from
-// an inline `style` attribute, which otherwise beats any external
-// stylesheet rule.
-// ---------------------------------------------------------------------------
+// Below $on-palm minima turns .site-nav into a small `position: absolute`
+// box pinned to the header's top-right corner, so the theme toggle and nav
+// need adjusted positioning here too. The profile photo (floated + a fixed
+// height set inline in index.markdown) is un-floated so it doesn't leave
+// only a sliver of column for the text beside it. Publication cards and
+// timeline entries drop to a stacked, single-column layout.
+//
+// Kept as one consolidated media query (rather than one per component)
+// so the full set of narrow-viewport overrides is visible in one place.
+// -----------------------------------------------------------------------
 @media screen and (max-width: $on-palm) {
+  // A plain `float: right` toggle would sit at the same coordinates as
+  // minima's absolutely-positioned collapsed nav and get painted over by
+  // it, so the toggle becomes absolutely positioned too, parked just to
+  // the left of the hamburger's ~38px square.
+  .theme-toggle {
+    position: absolute;
+    top: 9px;
+    right: 60px;
+    margin-top: 0;
+    float: none;
+  }
+
+  html[data-theme="dark"] .site-nav {
+    background-color: var(--dm-bg-elevated);
+    border-color: var(--dm-border);
+  }
+
+  // The float/margin being overridden here come from an inline `style`
+  // attribute, which otherwise beats any external stylesheet rule.
   .profile-photo {
     float: none !important;
     display: block;
@@ -439,6 +503,7 @@ html[data-theme="dark"] {
     margin: 0 auto 20px auto !important;
   }
 
+  // Stack thumbnail above text instead of side-by-side.
   .pub-card {
     flex-direction: column;
     gap: 12px;
@@ -451,61 +516,9 @@ html[data-theme="dark"] {
     max-width: 220px;
     height: 150px;
   }
-}
 
-// ---------------------------------------------------------------------------
-// Timeline
-//
-// "Recent News", "Invited Teaching & Guest Lectures", and "Conference
-// Presentations & Invited Talks" were three plain bullet lists with dates
-// inline in the text. A date column + connecting line reads faster (the
-// eye can scan just the dates) and matches the rest of the page's move
-// away from stock minima list/paragraph defaults.
-// ---------------------------------------------------------------------------
-.timeline {
-  margin: 20px 0 0 0;
-}
-
-.timeline-item {
-  display: grid;
-  grid-template-columns: 88px 1fr;
-  column-gap: 20px;
-}
-
-.timeline-date {
-  text-align: right;
-  padding-top: 2px;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-}
-
-.timeline-content {
-  position: relative;
-  padding: 0 0 24px 22px;
-  border-left: 2px solid $grey-color-light;
-
-  p {
-    margin-bottom: 0;
-  }
-
-  &::before {
-    content: "";
-    position: absolute;
-    left: -6px;
-    top: 6px;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: $brand-color;
-  }
-}
-
-.timeline-item:last-child .timeline-content {
-  border-left-color: transparent;
-  padding-bottom: 0;
-}
-
-@media screen and (max-width: $on-palm) {
+  // Single-column layout: date stacks above its content instead of
+  // sitting in a separate left column.
   .timeline-item {
     grid-template-columns: 1fr;
     row-gap: 4px;
@@ -518,5 +531,68 @@ html[data-theme="dark"] {
 
   .timeline-content {
     padding-left: 20px;
+  }
+}
+
+// -----------------------------------------------------------------------
+// 9. Print
+//
+// The dark-mode rules above key off a `data-theme` attribute that stays on
+// <html> however the page happens to be styled when the user prints, and
+// browsers skip background colors by default when printing — so a page
+// left in dark mode would print near-invisible light text on white paper.
+// Force a plain light, ink-friendly appearance for print regardless of the
+// active theme, and drop the on-screen-only chrome.
+// -----------------------------------------------------------------------
+@media print {
+  // Interactive chrome has no purpose on paper.
+  .theme-toggle,
+  .site-nav {
+    display: none !important;
+  }
+
+  html[data-theme="dark"] body,
+  html[data-theme="dark"] .site-header,
+  html[data-theme="dark"] .page-content {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  // Hardcoded to minima's original light-mode link blue rather than
+  // `var(--dm-link)`, since this block exists specifically to undo dark
+  // mode for print.
+  html[data-theme="dark"] a,
+  html[data-theme="dark"] a:visited {
+    color: #2a7ae2 !important;
+  }
+
+  html[data-theme="dark"] h1,
+  html[data-theme="dark"] h2,
+  html[data-theme="dark"] h3,
+  html[data-theme="dark"] h4,
+  html[data-theme="dark"] h5,
+  html[data-theme="dark"] h6 {
+    color: #111 !important;
+  }
+
+  html[data-theme="dark"] .pub-card:hover {
+    background: transparent !important;
+  }
+
+  html[data-theme="dark"] .pub-thumb,
+  html[data-theme="dark"] .pub-card:hover .pub-thumb {
+    border-color: #ddd !important;
+  }
+
+  html[data-theme="dark"] .pub-card,
+  html[data-theme="dark"] hr,
+  html[data-theme="dark"] blockquote,
+  html[data-theme="dark"] code,
+  html[data-theme="dark"] pre,
+  html[data-theme="dark"] table,
+  html[data-theme="dark"] th,
+  html[data-theme="dark"] td {
+    border-color: #ddd !important;
+    background: #fff !important;
   }
 }
