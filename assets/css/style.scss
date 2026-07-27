@@ -322,7 +322,11 @@ h3 {
   transition: background-color 0.15s ease;
 }
 
-.pub-card:last-of-type {
+// Applied explicitly (see index.markdown) to the last card of each
+// publication section — `:last-of-type` alone can't express this, since
+// all sections' cards are flat siblings and it would only ever match the
+// single last `.pub-card` on the whole page.
+.pub-card-last {
   border-bottom: none;
 }
 
