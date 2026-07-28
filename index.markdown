@@ -7,7 +7,7 @@ layout: home
 
 ## About Me  
 
-Since 2024, I'm advancing the use of AI in financial auditing at the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/). In the SFAO we design, build, and deploy novel auditing methodologies to improve the effectiveness and analytical depth of public-sector audits. This with a particular focus on audit automation using agentic artificial intelligence.
+Since 2024, I'm advancing the use of AI in financial auditing at the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/). In the SFAO we design, build, and deploy novel auditing methodologies to improve the effectiveness and analytical depth of public-sector audits. We further examine how AI systems used in public administration can be audited for reliability, transparency, and compliance.
 
 Before joining the SFAO, I conducted postdoctoral research at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) as a [DAAD IFI](https://www.daad.de/en/) Fellow, collaborating with [Kesheng Wu](https://scholar.google.com/citations?user=ju1z14aMmRkC) and [Alex Sim](https://scholar.google.com/citations?user=uxj3xO0AAAAJ&hl=en) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [UC Berkeley](https://www.berkeley.edu/) on agentic audit methods and frameworks.
 
