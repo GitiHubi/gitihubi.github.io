@@ -43,7 +43,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">2026·07</div>
-    <div class="timeline-content">Paper on Deep-Learning in Auditing accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems</a>.
+    <div class="timeline-content">Paper on Deep-Learning in Auditing accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·04</div>
