@@ -47,7 +47,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·06</div>
-    <div class="timeline-content">Taught deep-learning fundamentals at the <a href="https://gserm.org" target="_blank">GSERM Summer School</a>.</div>
+    <div class="timeline-content">Taught the deep-learning fundamentals class at the <a href="https://gserm.org" target="_blank">GSERM Summer School</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·04</div>
