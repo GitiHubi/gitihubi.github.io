@@ -55,7 +55,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·03</div>
-    <div class="timeline-content">Paper on AI governance accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Economic Journal (Magma)</a>.</div>
+    <div class="timeline-content">Paper on AI governance accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Magma Journal</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·02</div>
