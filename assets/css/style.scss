@@ -135,6 +135,14 @@ html[data-theme="dark"] .site-header {
   border-bottom-color: var(--dm-border);
 }
 
+// .site-title is an <a> tag, so without this it falls back to the generic
+// `html[data-theme="dark"] a` link color below instead of matching the
+// rest of the header text.
+html[data-theme="dark"] .site-title,
+html[data-theme="dark"] .site-title:visited {
+  color: var(--dm-text);
+}
+
 // Mobile hamburger icon (SVG path fill) in minima's collapsed nav.
 html[data-theme="dark"] .site-nav .menu-icon svg path {
   fill: var(--dm-text-muted);
