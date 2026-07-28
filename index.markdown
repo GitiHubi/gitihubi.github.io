@@ -42,28 +42,20 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">2024·10</div>
-    <div class="timeline-content">Our research at the <a href="https://www.icsi.berkeley.edu/icsi/" target="_blank">ICSI</a> in Berkeley, was featured in the <a href="https://www.daad.de/de/der-daad/daad-journal/themen/2024/nachwuchsprogramm-fuer-kuenstliche-intelligenz-und-informatik/" target="_blank">DAAD Journal</a>. Yay!</div>
+    <div class="timeline-date">2026·07</div>
+    <div class="timeline-content">Paper on Deep-Learning in Auditing accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems</a>.
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2024·09</div>
-    <div class="timeline-content">Paper accepted for the <a href="https://ai-finance.org/" target="_blank">ACM ICAIF 2024 Conference</a> in Brooklyn, USA.</div>
+    <div class="timeline-date">2026·04</div>
+    <div class="timeline-content">Paper on building AI agents accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal (Expert Focus)</a>.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2024·07</div>
-    <div class="timeline-content">Paper accepted for the <a href="https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems" target="_blank">International Journal of Accounting Information Systems</a>.</div>
+    <div class="timeline-date">2026·03</div>
+    <div class="timeline-content">Paper on AI governance using the Three Lines Model accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Economic Journal (Magma)</a>.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2024·02</div>
-    <div class="timeline-content">Our <a href="https://arxiv.org/abs/2401.06263" target="_blank">FedTabDiff</a> paper won a AAAI 2024 workshop best paper award!</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2023·12</div>
-    <div class="timeline-content">Papers accepted for the <a href="https://sites.google.com/view/aifin-aaai2024/home" target="_blank">AAAI 2024 WS on AI in Finance</a> in Vancouver, Canada.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2023·10</div>
-    <div class="timeline-content">I defended my <a href="https://slsp-hsg.primo.exlibrisgroup.com/discovery/delivery/41SLSP_HSG:HSGswisscovery/12107937600005506">dissertation</a> on Deep-Learning in Financial Auditing. :D</div>
+    <div class="timeline-date">2026·02</div>
+    <div class="timeline-content">Paper on Graph Neural Networks accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">Auditing a Journal of Theory and Practice</a>. Yay!</div>
   </div>
 </div>
 
