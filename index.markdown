@@ -43,7 +43,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">2026·07</div>
-    <div class="timeline-content">Paper on Deep-Learning in Auditing accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">IJAIS</a>.</div>
+    <div class="timeline-content">Paper on deep-learning in auditing accepted for <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">IJAIS</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·06</div>
@@ -51,15 +51,15 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·04</div>
-    <div class="timeline-content">Paper on building AI agents accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal</a>.</div>
+    <div class="timeline-content">Paper on building AI agents accepted for <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·03</div>
-    <div class="timeline-content">Paper on AI governance accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Magma Journal</a>.</div>
+    <div class="timeline-content">Paper on AI agent governance accepted for <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Magma Journal</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·02</div>
-    <div class="timeline-content">Paper on Graph Neural Networks accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">AJPT</a>. Yay!</div>
+    <div class="timeline-content">Paper on graph neural networks accepted for <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">AJPT</a>. Yay!</div>
   </div>
 </div>
 
