@@ -20,10 +20,10 @@
 
 title: Marco Schreyer
 email: marco.schreyer@unisg.ch
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Artificial Intelligence 4 Accounting & Auditing.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gitihubi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://marcoschreyer.me"
 github_username: gitihubi
 
 # Build settings
