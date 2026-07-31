@@ -43,7 +43,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">2026·07</div>
-    <div class="timeline-content">Paper on deep-learning in risk-based auditing with T. Foehr and K.-U. Marten accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems (IJAIS)</a>.</div>
+    <div class="timeline-content">Paper on deep-learning in auditing with T. Foehr and K.-U. Marten accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems (IJAIS)</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·06</div>
@@ -51,7 +51,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·04</div>
-    <div class="timeline-content">Paper on building AI agents with O. Willig accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal (Expert Focus)</a>.</div>
+    <div class="timeline-content">Paper on building AI agents in supreme audit institutions with O. Willig accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal (Expert Focus)</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·03</div>
