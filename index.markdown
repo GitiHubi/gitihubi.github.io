@@ -85,7 +85,7 @@ International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/
   <img class="pub-thumb" src="images/ajpt_2026.png" alt="Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
+[**Connecting the Dots: Graph Neural Networks for Auditing Accounting <br/> Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
 Q. Huang, M. Schreyer, N. R. Michiles Jr., and Miklos A. Vasarhelyi<br/>
 AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
 [[html](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)], [[pdf](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)]
