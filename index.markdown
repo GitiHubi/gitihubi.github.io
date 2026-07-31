@@ -59,7 +59,7 @@ Earlier in my career, I worked nearly a decade with the [Forensic Services](http
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·02</div>
-    <div class="timeline-content">Paper on graph neural networks accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">Auditing: A Journal of Theory and Practice (AJPT)</a>. Yay!</div>
+    <div class="timeline-content">Paper on graph neural networks with Q. Huang, N. R. Michiles Jr., and Miklos A. Vasarhelyi accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">Auditing: A Journal of Theory and Practice (AJPT)</a>. Yay!</div>
   </div>
 </div>
 
