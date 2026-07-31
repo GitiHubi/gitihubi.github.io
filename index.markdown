@@ -369,6 +369,18 @@ EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
 ### **Professional Journal Publications (in German)**
 
 <div class="pub-card">
+  <img class="pub-thumb" src="images/wpg_2025.png" alt="Agentische Künstliche Intelligenz in der Wirtschaftsprüfung" loading="lazy">
+  <div class="pub-card-body" markdown="1">
+
+**Agentische Künstliche Intelligenz in der Wirtschaftsprüfung**<br/>
+C. Kopp, M. Schreyer, and Prof. Dr. Michael Birk<br/>
+WPg - Die Wirtschaftsprüfung 17, 895-901 (**WPg**), 2025<br/>
+[non open access]
+
+  </div>
+</div>
+
+<div class="pub-card">
   <img class="pub-thumb" src="images/betrieb_2023.png" alt="Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
@@ -434,7 +446,7 @@ EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
 
 **Künstliche Intelligenz in der Wirtschaftsprüfung - Identifikation ungewöhnlicher Buchungen in der Finanzbuchhaltung**<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
-WPg - Die Wirtschaftsprüfung 72 (11), 674-681 (**WPg**), 2018<br/>
+WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
 [non open access]
 
   </div>
