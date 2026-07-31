@@ -310,10 +310,10 @@ Preprint available open-access (**arXiv**), 2024<br/>
   <img class="pub-thumb" src="images/esw_2024b.png" alt="A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-**A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**<br/>
+[**A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU)<br/>
 Q. Huang, M. Schreyer, N.R. Michiles, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
-[tba], [tba]
+[[html](https://alexandria.unisg.ch/handle/20.500.14171/133389)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU)]
 
   </div>
 </div>
