@@ -386,7 +386,7 @@ WPg - Die Wirtschaftsprüfung 17, 895-901 (**WPg**), 2025<br/>
 
 **Generative Künstliche Intelligenz und Risikoorientierter Prüfungsansatz**<br/>
 T. L. Föhr, K.-U. Marten, and M. Schreyer<br/>
-Der Betrieb, Nr. 30, 1681-1693, 2023<br/><br/>
+Der Betrieb, Nr. 30, 1681-1693, 2023<br/>
 [non open access]
 
   </div>
