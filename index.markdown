@@ -374,7 +374,7 @@ EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
 
 **Agentische Künstliche Intelligenz in der Wirtschaftsprüfung**<br/>
 C. Kopp, M. Schreyer, and Prof. Dr. Michael Birk<br/>
-WPg - Die Wirtschaftsprüfung 17, 895-901 (**WPg**), 2025<br/>
+WPg - Die Wirtschaftsprüfung 17, 895-902 (**WPg**), 2025<br/>
 [non open access]
 
   </div>
