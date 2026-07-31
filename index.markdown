@@ -307,6 +307,18 @@ Preprint available open-access (**arXiv**), 2024<br/>
 ### **Professional Journal Publications (in English)**
 
 <div class="pub-card">
+  <img class="pub-thumb" src="images/esw_2026.png" alt="Building a Future Digital Audit Workforce - Equipping artificial intelligence (AI) agents with computer aided audit tools (CAATs)" loading="lazy">
+  <div class="pub-card-body" markdown="1">
+
+[**Building a Future Digital Audit Workforce - Equipping artificial intelligence (AI) agents with computer aided audit tools (CAATs)**](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo)<br/>
+O. Willig and M. Schreyer<br/>
+EXPERTsuisse, Expert Focus (04), 182-189 (**Expert Focus**), 2026<br/>
+[[html](https://alexandria.unisg.ch/handle/20.500.14171/133422)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo)]
+
+  </div>
+</div>
+
+<div class="pub-card">
   <img class="pub-thumb" src="images/esw_2024b.png" alt="A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
