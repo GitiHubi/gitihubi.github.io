@@ -85,8 +85,7 @@ International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/
   <img class="pub-thumb" src="images/ajpt_2026.png" alt="Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Connecting the Dots: Graph Neural Networks for Auditing 
-Accounting Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
+[**Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
 Q. Huang, M. Schreyer, N. R. Michiles Jr., and Miklos A. Vasarhelyi<br/>
 AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
 [[html](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)], [[pdf](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)]
@@ -314,6 +313,18 @@ Preprint available open-access (**arXiv**), 2024<br/>
 O. Willig and M. Schreyer<br/>
 EXPERTsuisse, Expert Focus (04), 182-189 (**Expert Focus**), 2026<br/>
 [[html](https://alexandria.unisg.ch/handle/20.500.14171/133422)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo)]
+
+  </div>
+</div>
+
+<div class="pub-card">
+  <img class="pub-thumb" src="images/magma_2026a.png" alt="Governing the Future Digital Workforce: The Three Lines Model in the Age of Agentic Artificial Intelligence" loading="lazy">
+  <div class="pub-card-body" markdown="1">
+
+[**Governing the Future Digital Workforce: The Three Lines Model in the Age of Agentic Artificial Intelligence**](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719)<br/>
+T.F. Ruud, M. Schreyer, and Y. Weiser<br/>
+Econa, Magma, 29 (1), 147–158. (**Magma**), 2026<br/>
+[[html](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1737)], [[pdf](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719)]
 
   </div>
 </div>
