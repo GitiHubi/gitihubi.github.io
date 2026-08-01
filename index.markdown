@@ -36,6 +36,13 @@ Earlier, I worked nearly a decade with the [Forensic Services](https://www.pwc.c
     <a href="https://www.icsi.berkeley.edu/">
       <img class="logo-badge" src="images/icsi.png" height="30" alt="International Computer Science Institute (ICSI)" loading="lazy"></a>
   </div>
+  <div class="logo-group">
+    <span class="logo-group-label">Fellowships</span>
+    <a href="https://www.snf.ch/">
+      <img class="logo-badge" src="images/snf.png" height="30" alt="Swiss National Science Foundation (SNSF)" loading="lazy"></a>
+    <a href="https://www.daad.de/de/">
+      <img class="logo-badge" src="images/daad.png" height="22" alt="German Academic Exchange Service (DAAD)" loading="lazy"></a>
+  </div>
 </div>
 
 ## Recent News

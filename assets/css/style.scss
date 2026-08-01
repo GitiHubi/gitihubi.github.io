@@ -231,6 +231,10 @@ html[data-theme="dark"] .timeline-date {
   color: var(--dm-text-muted);
 }
 
+html[data-theme="dark"] .logo-group-label {
+  color: var(--dm-text-muted);
+}
+
 html[data-theme="dark"] .timeline-content {
   border-left-color: var(--dm-border);
 }
@@ -501,6 +505,16 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
   flex-wrap: wrap;
   align-items: center;
   gap: 14px;
+}
+
+// Small kicker labeling a logo group whose members aren't otherwise
+// self-explanatory as a set (unlike the social-icons / institution
+// groups above it) — see the "Fellowships" group in index.markdown.
+.logo-group-label {
+  font-size: 0.8em;
+  color: $grey-color;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
 // -----------------------------------------------------------------------
