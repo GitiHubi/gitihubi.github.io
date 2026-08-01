@@ -12,15 +12,14 @@
 //   1. Brand variables + minima import
 //   2. Dark mode (custom properties + `data-theme="dark"` overrides)
 //   3. Link color (light mode)
-//   4. Header stripe (Berkeley Blue / Cal Gold accent bar)
-//   5. Section navigation (.section-nav sticky jump nav)
-//   6. Now line (.now-line "what I'm working on" callout)
-//   7. Typography (heading font, weights, sizes)
-//   8. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
-//   9. Logo row (.logo-row / .logo-group)
-//   10. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
-//   11. Small-screen responsive overrides (single max-width breakpoint)
-//   12. Print overrides
+//   4. Header (sticky; Berkeley Blue / Cal Gold accent bar)
+//   5. Section navigation (site-nav/page-link, wired to homepage anchors)
+//   6. Typography (heading font, weights, sizes)
+//   7. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
+//   8. Logo row (.logo-row / .logo-group)
+//   9. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   10. Small-screen responsive overrides (single max-width breakpoint)
+//   11. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -313,27 +312,7 @@ html {
 }
 
 // -----------------------------------------------------------------------
-// 6. Now line
-//
-// A one-line "what I'm currently working on" callout (a "now page" in
-// miniature), meant to be updated by hand every so often — gives a repeat
-// visitor (recruiter, collaborator) something new to read without them
-// having to diff the whole page against their memory of it.
-// -----------------------------------------------------------------------
-.now-line {
-  margin: 0 0 22px 0;
-  padding: 10px 14px;
-  border-left: 3px solid $cal-gold;
-  border-radius: 4px;
-  background-color: rgba(253, 181, 21, 0.08);
-}
-
-html[data-theme="dark"] .now-line {
-  background-color: rgba(253, 181, 21, 0.1);
-}
-
-// -----------------------------------------------------------------------
-// 7. Typography
+// 6. Typography
 //
 // Minima's headings are the body's system-font stack at font-weight: 400 —
 // same face as the paragraph text, no weight or spacing to set them apart.
@@ -393,7 +372,7 @@ h3 {
 }
 
 // -----------------------------------------------------------------------
-// 8. Publication cards
+// 7. Publication cards
 //
 // The ~27 publication thumbnails in index.markdown vary wildly in native
 // aspect ratio (near-square diagrams next to wide banner screenshots),
@@ -472,7 +451,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 9. Logo row
+// 8. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
@@ -500,7 +479,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 10. Timeline
+// 9. Timeline
 //
 // "Recent News", "Invited Teaching & Guest Lectures", and "Conference
 // Presentations & Invited Talks" were three plain bullet lists with dates
@@ -560,7 +539,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 11. Small screens (single breakpoint, all palm-width overrides)
+// 10. Small screens (single breakpoint, all palm-width overrides)
 //
 // Below $on-palm minima turns .site-nav into a small `position: absolute`
 // box pinned to the header's top-right corner, so the theme toggle and nav
@@ -635,7 +614,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 12. Print
+// 11. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and

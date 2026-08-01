@@ -3,8 +3,6 @@ layout: home
 # title: Artificial Intelligence 4 Accounting & Auditing
 ---
 
-<p class="now-line"><strong>Now:</strong> building agentic AI workflows for public-sector auditing at the <a href="https://www.efk.admin.ch/">Swiss Federal Audit Office (SFAO)</a>.</p>
-
 <img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:5px 25px 5px 5px" alt="Portrait of Marco Schreyer">
 
 ## About Me  
