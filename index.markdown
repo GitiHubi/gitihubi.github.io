@@ -473,7 +473,7 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
     </div>
     <div class="timeline-content" markdown="1">
 
-**Deep Learning Fundamentals and Applications**, University of St.Gallen (HSG), [GSERM Summer School on Emperical Research Methods](https://gserm.org/), view [[Lab Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2026-Lab)].
+**Deep Learning Fundamentals and Applications**, University of St.Gallen (HSG), [GSERM Summer School on Emperical Research Methods](https://gserm.org/).
 
   </div>
   </div>
