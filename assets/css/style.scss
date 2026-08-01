@@ -154,6 +154,10 @@ html[data-theme="dark"] .site-nav .page-link {
   color: var(--dm-text);
 }
 
+html[data-theme="dark"] .page-link:hover {
+  color: var(--dm-link);
+}
+
 html[data-theme="dark"] .site-footer,
 html[data-theme="dark"] .footer-heading,
 html[data-theme="dark"] .contact-list,
@@ -257,16 +261,24 @@ a:visited {
 }
 
 // -----------------------------------------------------------------------
-// 4. Header stripe
+// 4. Header
 //
-// A restrained Berkeley Blue + California Gold bar in place of minima's
+// Sticky (rather than scrolling away) so the title, theme toggle, and
+// section nav (added below) stay reachable on a long page. That needs an
+// explicit opaque background, since once stuck, page content scrolls
+// underneath it and would otherwise show through. The stripe itself is a
+// restrained Berkeley Blue + California Gold bar in place of minima's
 // plain grey border-top — a small, literal nod to Berkeley (ICSI/UC
 // Berkeley) rather than a full color-scheme change.
 // -----------------------------------------------------------------------
 .site-header {
+  // `sticky` (like `relative`) still establishes the containing block the
+  // ::before gold stripe below is positioned against.
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background-color: $background-color;
   border-top: 4px solid $brand-color;
-  // Establishes the containing block for the ::before gold stripe below.
-  position: relative;
 }
 
 // The gold sub-stripe is a separate pseudo-element (rather than e.g. a CSS
@@ -284,10 +296,11 @@ a:visited {
 // -----------------------------------------------------------------------
 // 5. Section navigation
 //
-// The page is one long scroll across five distinct sections (About, News,
-// Publications, Teaching, Talks). A sticky jump nav lets a visitor skip
-// straight to one instead of scrolling past everything above it — plain
-// anchor links to kramdown's auto-generated heading ids, no JS/scroll-spy.
+// Reuses minima's own site-nav/page-link markup (see _includes/header.html)
+// rather than a bespoke nav bar, so it sits inline with the title and
+// toggle and collapses into minima's existing mobile hamburger for free.
+// It's only rendered on the homepage — see the `page.url == "/"` check in
+// the include — since the links are anchors into homepage sections.
 // -----------------------------------------------------------------------
 
 // Native anchor jumps ease into view instead of snapping.
@@ -295,45 +308,8 @@ html {
   scroll-behavior: smooth;
 }
 
-.section-nav {
-  position: sticky;
-  top: 0;
-  z-index: 20;
-  display: flex;
-  gap: 22px;
-  overflow-x: auto;
-  padding: 12px 0;
-  margin-bottom: 24px;
-  background-color: $background-color;
-  border-bottom: 1px solid $grey-color-light;
-  font-size: 13px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.section-nav a {
-  color: $text-color;
-  // Keeps labels on one line so the bar scrolls horizontally on narrow
-  // screens instead of wrapping into a multi-row block.
-  white-space: nowrap;
-}
-
-.section-nav a:hover {
+.page-link:hover {
   color: $link-color;
-}
-
-html[data-theme="dark"] .section-nav {
-  background-color: var(--dm-bg);
-  border-bottom-color: var(--dm-border);
-}
-
-html[data-theme="dark"] .section-nav a {
-  color: var(--dm-text-muted);
-}
-
-html[data-theme="dark"] .section-nav a:hover {
-  color: var(--dm-link);
 }
 
 // -----------------------------------------------------------------------
@@ -385,9 +361,11 @@ h2 {
   position: relative;
   // Reserves room for the ::after underline below.
   padding-bottom: 10px;
-  // Clears the sticky .section-nav bar when a jump-nav link scrolls a
-  // heading into view, so the nav doesn't cover it.
-  scroll-margin-top: 76px;
+  // Clears the sticky .site-header (title + toggle + nav row + stripe)
+  // when a jump-nav link scrolls a heading into view, so the header
+  // doesn't cover it. A generous estimate of the header's rendered
+  // height — harmless to overshoot slightly.
+  scroll-margin-top: 96px;
 }
 
 // A small Cal-gold rule under each section heading — the one place gold
