@@ -501,34 +501,25 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
    </div>
 </div>
 
-## Recent Presentations & Talks
+## Recent Presentation, Panels & Talks
 
 <div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2026·06·23</div>
+    <div class="timeline-content" markdown="1">
+
+**How New Technologies are Shaping Tomorrow's Audits?**, Auditors' Conference 2026, EXPERTsuisse, Bern, Switzerland.
+
+  </div>
+  </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·06·02</div>
     <div class="timeline-content" markdown="1">
 
-**The Emergence of Agentic Artificial Intelligence in Internal Auditing**, National Conference 2026, Institute of Internal Auditors (IIA) Switzerland.
+**The Emergence of Agentic Artificial Intelligence in Internal Auditing**, National Conference 2026, Institute of Internal Auditors (IIA), Lausanne, Switzerland.
 
   </div>
   </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2022·11</div>
-    <div class="timeline-content" markdown="1">
-
-**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**, 3rd ACM International Conference on AI in Finance (ICAIF).
-
-  </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2022·08</div>
-    <div class="timeline-content" markdown="1">
-
-**Deep Learning in Financial Auditing**, Summer 2022 Weekly Technology Forum, Rutgers University, view [[Video 1](https://www.youtube.com/watch?v=HBEJ1up1P7I)], [[Video 2](https://www.youtube.com/watch?v=N2SR6OuoAgc)], [[Video 3](https://www.youtube.com/watch?v=xcJaczR2QWk)], [[Video 4](https://www.youtube.com/watch?v=g_ieTkE6u8A)], [[Video 5](https://www.youtube.com/watch?v=H3fLMhFD4a8)].
-
-  </div>
-  </div>
-
 </div>
 <br/>
 Last updated: July 21, 2026 (using [Anthropic's](https://www.anthropic.com) Claude Code)
