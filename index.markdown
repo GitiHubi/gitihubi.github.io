@@ -468,12 +468,12 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date-col">
-      <div class="timeline-date">2023·01</div>
+      <div class="timeline-date">Since 2021</div>
       <img class="logo-badge timeline-logo" src="images/unisg.png" alt="University of St.Gallen" loading="lazy">
     </div>
     <div class="timeline-content" markdown="1">
 
-**Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/en/executive-education/internal-auditing-program/), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
+**Deep Learning Fundamentals and Applications**, University of St.Gallen (HSG), [GSERM Summer School on Emperical Research Methods](https://gserm.org/), view [[Lab Notebooks](https://github.com/HSG-AIML-Teaching/GSERM2026-Lab)].
 
   </div>
   </div>
@@ -500,26 +500,6 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
    </div>
    </div>
 </div>
-<!--
-      <div class="timeline-item">
-        <div class="timeline-date">2022·06</div>
-        <div class="timeline-content" markdown="1">
-
-    **Deep Learning and Applications**, University of St.Gallen (HSG), [Global School on Empirical Research Methods](https://gserm.org).
-    
-      </div>
-      </div>
--->
-<!--
-      <div class="timeline-item">
-        <div class="timeline-date">2022·04</div>
-        <div class="timeline-content" markdown="1">
-    
-    **Applying Artificial Intelligence in Internal Audit Analytics**, [BI Norwegian Business School](https://www.bi.edu), Seminar GRC & Internal Audit in Switzerland, view [[Notebooks](https://github.com/GitiHubi/courseAAA)].
-    
-      </div>
-      </div>
--->
 
 ## Recent Presentations & Talks
 
