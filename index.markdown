@@ -467,7 +467,10 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">2023·01</div>
+    <div class="timeline-date-col">
+      <div class="timeline-date">2023·01</div>
+      <img class="logo-badge timeline-logo" src="images/unisg.png" alt="University of St.Gallen" loading="lazy">
+    </div>
     <div class="timeline-content" markdown="1">
 
 **Audit Data Analytics**, Institute of Internal Auditors (IIA) Switzerland & University of St.Gallen (HSG), [Internal Auditing Programme](https://aca.unisg.ch/en/executive-education/internal-auditing-program/), view [[Notebooks](https://github.com/GitiHubi/courseACA)].
@@ -475,7 +478,10 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2022·12</div>
+    <div class="timeline-date-col">
+      <div class="timeline-date">2022·12</div>
+      <img class="logo-badge timeline-logo" src="images/fs.png" alt="Frankfurt School of Finance and Management" loading="lazy">
+    </div>
     <div class="timeline-content" markdown="1">
 
 **Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), view [[Notebooks](https://github.com/GitiHubi/CADS)].
@@ -483,7 +489,10 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
   </div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2022·11</div>
+    <div class="timeline-date-col">
+      <div class="timeline-date">2022·11</div>
+      <img class="logo-badge timeline-logo" src="images/zhaw.png" alt="ZHAW Zurich University of Applied Sciences" loading="lazy">
+    </div>
     <div class="timeline-content" markdown="1">
 
 **Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].

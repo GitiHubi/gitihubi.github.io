@@ -533,6 +533,26 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
   font-variant-numeric: tabular-nums;
 }
 
+// Wraps .timeline-date + an optional .timeline-logo (see Teaching &
+// Lectures) so the logo lines up under the date as the column's second
+// line, inheriting the same right alignment.
+.timeline-date-col {
+  text-align: right;
+}
+
+// Institution logos vary wildly in native proportions (wide wordmark vs.
+// near-square mark), so a fixed box + object-fit is what actually makes
+// them read as "the same size" rather than scaling each by one dimension
+// and letting the other run wild. Sized to comfortably clear the 88px
+// date column.
+.timeline-logo {
+  width: 60px;
+  height: 22px;
+  object-fit: contain;
+  object-position: right center;
+  margin-top: 6px;
+}
+
 // The vertical connecting line running down the left edge of each entry's
 // content; `position: relative` anchors the ::before dot marker below.
 .timeline-content {
@@ -631,6 +651,14 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
   .timeline-date {
     text-align: left;
     font-size: 26px;
+  }
+
+  .timeline-date-col {
+    text-align: left;
+  }
+
+  .timeline-logo {
+    object-position: left center;
   }
 
   .timeline-content {
