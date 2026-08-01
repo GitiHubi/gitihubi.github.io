@@ -505,10 +505,10 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">2022·11</div>
+    <div class="timeline-date">2026·06·02</div>
     <div class="timeline-content" markdown="1">
 
-**Adversarial Learning of Deepfakes in Accounting**, The 53rd World Continuous Auditing & Reporting Symposium (WCARS), Rutgers University.
+**The Emergence of Agentic Artificial Intelligence in Internal Auditing**, National Conference 2026, Institute of Internal Auditors (IIA) Switzerland.
 
   </div>
   </div>
@@ -528,78 +528,6 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
 
   </div>
   </div>
-
-<!-- 
-  <div class="timeline-item">
-    <div class="timeline-date">2021·11</div>
-    <div class="timeline-content" markdown="1">
-
-**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations**, 2nd ACM International Conference on AI in Finance (ICAIF).
-
-  </div>
-  </div>
--->
-<!-- 
-  <div class="timeline-item">
-    <div class="timeline-date">2021·04</div>
-    <div class="timeline-content" markdown="1">
-
-**Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Networks**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-e32377/)].
-
-  </div>
-  </div>
--->
-<!-- 
-  <div class="timeline-item">
-    <div class="timeline-date">2021·03</div>
-    <div class="timeline-content" markdown="1">
-
-**Towards Financial Fraud Detection using Deep Learning**, Hong Kong Machine Learning Meetup (HKML), view [[Video](https://www.youtube.com/watch?v=DedO7ljw_9k)].
-
-  </div>
-  </div>
--->
-<!--
-  <div class="timeline-item">
-    <div class="timeline-date">2021·10</div>
-    <div class="timeline-content" markdown="1">
-
-**Leaking Accounting Data in Plain Sight using Deep Autoencoder Networks**, AAAI Workshop on Knowledge Discovery from Unstructured Data in Finance.
-
-  </div>
-  </div>
--->
-<!--
-  <div class="timeline-item">
-    <div class="timeline-date">2020·10</div>
-    <div class="timeline-content" markdown="1">
-
-**Learning Sampling in Financial Auditing using Vector Quantised Autoencoder Networks**, 1st ACM International Conference on AI in Finance (ICAIF).
-
-  </div>
-  </div>
--->
-<!--
-  <div class="timeline-item">
-    <div class="timeline-date">2019·08</div>
-    <div class="timeline-content" markdown="1">
-
-**Detection of Accounting Anomalies using Adversarial Autoencoder Neural Networks**, 2nd KDD Workshop on Anomaly Detection in Finance.
-
-  </div>
-  </div>
--->
-<!--
-  <div class="timeline-item">
-    <div class="timeline-date">2019·04</div>
-    <div class="timeline-content" markdown="1">
-
-**Creation of Adversarial Accounting Records to Attack Financial Statement Audits**, Nvidia's GPU Technology Conference (GTC), view [[Video](https://developer.nvidia.com/gtc/2019/video/s9361)].
-
-  </div>
-  </div>
-
--->
 
 </div>
 <br/>
