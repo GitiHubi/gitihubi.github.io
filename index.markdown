@@ -479,23 +479,23 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
   </div>
   <div class="timeline-item">
     <div class="timeline-date-col">
-      <div class="timeline-date">2022·12</div>
+      <div class="timeline-date">Since 2023</div>
       <img class="logo-badge timeline-logo" src="images/fs.png" alt="Frankfurt School of Finance and Management" loading="lazy">
     </div>
     <div class="timeline-content" markdown="1">
 
-**Artificial Intelligence in Auditing**, Frankfurt School of Finance and Management, [Certified Audit Data Scientist](https://www.fs.de/cads), view [[Notebooks](https://github.com/GitiHubi/CADS)].
+**Data Analytics & Artificial Intelligence in Auditing**, Frankfurt School of Finance & Management (FS), [Certified Audit Data and AI Specialist](https://www.frankfurt-school.de/de/executive-professional-education/compliance-forensics-audit/certificates/certified-audit-data-scientist-cads).
 
   </div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date-col">
-      <div class="timeline-date">2022·11</div>
+      <div class="timeline-date">Since 2025</div>
       <img class="logo-badge timeline-logo" src="images/zhaw.png" alt="ZHAW Zurich University of Applied Sciences" loading="lazy">
     </div>
     <div class="timeline-content" markdown="1">
 
-**Federated Learning in Financial Auditing**, University of St.Gallen (HSG), [M.Sc. in Computer Science](https://www.unisg.ch/en/studium/programme/master/mcs/), view [[Notebooks](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2022-Lab/blob/main/lab_4/colab_04.ipynb)].
+**Artificial Intelligence in Internal Auditing**, Zurich University of Applied Sciences (ZHAW), [CAS Internal Audit and Good Governance](https://www.zhaw.ch/de/sml/weiterbildung/detail/kurs/cas-interne-revision-good-governance).
 
    </div>
    </div>
