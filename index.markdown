@@ -3,7 +3,7 @@ layout: home
 # title: Artificial Intelligence 4 Accounting & Auditing
 ---
 
-<img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:20px 25px 5px 5px" alt="Portrait of Marco Schreyer">
+<img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:25px 25px 5px 5px" alt="Portrait of Marco Schreyer">
 
 ## About Me  
 
