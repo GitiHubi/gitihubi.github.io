@@ -508,7 +508,7 @@ WPg - Die Wirtschaftsprüfung 72, 674-681 (**WPg**), 2018<br/>
     <div class="timeline-date">2026·06·23</div>
     <div class="timeline-content" markdown="1">
 
-**How New Technologies are Shaping Tomorrow's Audits?**, Auditors' Conference 2026, EXPERTsuisse, Bern, Switzerland.
+**How New Technologies are Shaping Tomorrow's Audits?**, National Auditors' Conference 2026, EXPERTsuisse, Bern, Switzerland.
 
   </div>
   </div>
