@@ -5,7 +5,7 @@ layout: home
 
 <img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:25px 25px 5px 5px" alt="Portrait of Marco Schreyer">
 
-## About Me  
+## About Me
 
 Since 2024, I'm advancing the application of AI in auditing at the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/). In the SFAO we design, build, and deploy novel auditing methodologies to improve the effectiveness and analytical depth of public-sector audits. We further examine AI systems used in the public administration for reliability, transparency, and compliance.
 
