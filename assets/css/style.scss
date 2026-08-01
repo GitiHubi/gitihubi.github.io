@@ -576,8 +576,11 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
   // A plain `float: right` toggle would sit at the same coordinates as
   // minima's absolutely-positioned collapsed nav and get painted over by
   // it, so the toggle becomes absolutely positioned too, parked just to
-  // the left of the hamburger's ~38px square.
-  .theme-toggle {
+  // the left of the hamburger's ~38px square. Scoped to headers that
+  // actually have a .site-nav (the homepage only — see header.html) so
+  // pages without one (404.html) keep the toggle flush right instead of
+  // leaving a gap where a hamburger would've been.
+  .site-header:has(.site-nav) .theme-toggle {
     position: absolute;
     top: 9px;
     right: 60px;
