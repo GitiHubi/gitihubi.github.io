@@ -292,6 +292,14 @@ a:visited {
   background-color: $cal-gold;
 }
 
+// Minima's default page-content padding-top (30px) stacks on top of the
+// first heading's own margin-top (see h2 in §6), leaving an oversized gap
+// under the sticky nav. Trimmed here rather than touching h2 margin-top,
+// which also spaces out every other section on the page.
+.page-content {
+  padding-top: 12px;
+}
+
 // -----------------------------------------------------------------------
 // 5. Section navigation
 //
