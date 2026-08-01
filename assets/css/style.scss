@@ -311,6 +311,18 @@ html {
   color: $link-color;
 }
 
+// Both .theme-toggle and .site-nav float right, and .site-nav comes
+// second in the DOM, so it floats flush against the toggle with no gap —
+// the last link ("Talks") otherwise touches the circle. Scoped above
+// $on-palm since below it .site-nav becomes an absolutely positioned
+// hamburger box (see the small-screens section) where this margin isn't
+// wanted.
+@media screen and (min-width: $on-palm) {
+  .site-nav {
+    margin-right: 16px;
+  }
+}
+
 // -----------------------------------------------------------------------
 // 6. Typography
 //
