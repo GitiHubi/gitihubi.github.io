@@ -13,12 +13,14 @@
 //   2. Dark mode (custom properties + `data-theme="dark"` overrides)
 //   3. Link color (light mode)
 //   4. Header stripe (Berkeley Blue / Cal Gold accent bar)
-//   5. Typography (heading font, weights, sizes)
-//   6. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
-//   7. Logo row (.logo-row / .logo-group)
-//   8. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
-//   9. Small-screen responsive overrides (single max-width breakpoint)
-//   10. Print overrides
+//   5. Section navigation (.section-nav sticky jump nav)
+//   6. Now line (.now-line "what I'm working on" callout)
+//   7. Typography (heading font, weights, sizes)
+//   8. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
+//   9. Logo row (.logo-row / .logo-group)
+//   10. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   11. Small-screen responsive overrides (single max-width breakpoint)
+//   12. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -280,7 +282,82 @@ a:visited {
 }
 
 // -----------------------------------------------------------------------
-// 5. Typography
+// 5. Section navigation
+//
+// The page is one long scroll across five distinct sections (About, News,
+// Publications, Teaching, Talks). A sticky jump nav lets a visitor skip
+// straight to one instead of scrolling past everything above it — plain
+// anchor links to kramdown's auto-generated heading ids, no JS/scroll-spy.
+// -----------------------------------------------------------------------
+
+// Native anchor jumps ease into view instead of snapping.
+html {
+  scroll-behavior: smooth;
+}
+
+.section-nav {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  gap: 22px;
+  overflow-x: auto;
+  padding: 12px 0;
+  margin-bottom: 24px;
+  background-color: $background-color;
+  border-bottom: 1px solid $grey-color-light;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.section-nav a {
+  color: $text-color;
+  // Keeps labels on one line so the bar scrolls horizontally on narrow
+  // screens instead of wrapping into a multi-row block.
+  white-space: nowrap;
+}
+
+.section-nav a:hover {
+  color: $link-color;
+}
+
+html[data-theme="dark"] .section-nav {
+  background-color: var(--dm-bg);
+  border-bottom-color: var(--dm-border);
+}
+
+html[data-theme="dark"] .section-nav a {
+  color: var(--dm-text-muted);
+}
+
+html[data-theme="dark"] .section-nav a:hover {
+  color: var(--dm-link);
+}
+
+// -----------------------------------------------------------------------
+// 6. Now line
+//
+// A one-line "what I'm currently working on" callout (a "now page" in
+// miniature), meant to be updated by hand every so often — gives a repeat
+// visitor (recruiter, collaborator) something new to read without them
+// having to diff the whole page against their memory of it.
+// -----------------------------------------------------------------------
+.now-line {
+  margin: 0 0 22px 0;
+  padding: 10px 14px;
+  border-left: 3px solid $cal-gold;
+  border-radius: 4px;
+  background-color: rgba(253, 181, 21, 0.08);
+}
+
+html[data-theme="dark"] .now-line {
+  background-color: rgba(253, 181, 21, 0.1);
+}
+
+// -----------------------------------------------------------------------
+// 7. Typography
 //
 // Minima's headings are the body's system-font stack at font-weight: 400 —
 // same face as the paragraph text, no weight or spacing to set them apart.
@@ -308,6 +385,9 @@ h2 {
   position: relative;
   // Reserves room for the ::after underline below.
   padding-bottom: 10px;
+  // Clears the sticky .section-nav bar when a jump-nav link scrolls a
+  // heading into view, so the nav doesn't cover it.
+  scroll-margin-top: 76px;
 }
 
 // A small Cal-gold rule under each section heading — the one place gold
@@ -335,7 +415,7 @@ h3 {
 }
 
 // -----------------------------------------------------------------------
-// 6. Publication cards
+// 8. Publication cards
 //
 // The ~27 publication thumbnails in index.markdown vary wildly in native
 // aspect ratio (near-square diagrams next to wide banner screenshots),
@@ -414,7 +494,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 7. Logo row
+// 9. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
@@ -442,7 +522,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 8. Timeline
+// 10. Timeline
 //
 // "Recent News", "Invited Teaching & Guest Lectures", and "Conference
 // Presentations & Invited Talks" were three plain bullet lists with dates
@@ -502,7 +582,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 9. Small screens (single breakpoint, all palm-width overrides)
+// 11. Small screens (single breakpoint, all palm-width overrides)
 //
 // Below $on-palm minima turns .site-nav into a small `position: absolute`
 // box pinned to the header's top-right corner, so the theme toggle and nav
@@ -574,7 +654,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 10. Print
+// 12. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and
