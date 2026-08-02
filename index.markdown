@@ -7,6 +7,17 @@ layout: home
 
 ## About Me
 
+<div class="logo-row">
+  <div class="logo-group">
+    <a href="https://github.com/gitihubi">
+      <img class="logo-badge" src="images/github.png" height="35" alt="GitHub" loading="lazy"></a>
+    <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
+      <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
+    <a href="https://www.linkedin.com/in/marco-schreyer">
+      <img class="logo-badge" src="images/linkedin.png" height="35" alt="LinkedIn" loading="lazy"></a>
+  </div>
+</div>
+
 Since 2024, I'm advancing the application of AI in auditing at the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/). In the SFAO we design, build, and deploy novel auditing methodologies to improve the effectiveness and analytical depth of public-sector audits. We further examine AI systems used in the public administration for reliability, transparency, and compliance.
 
 Before joining the SFAO, I conducted research at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/) as a [DAAD IFI](https://www.daad.de/en/) Fellow, collaborating with [Kesheng Wu](https://scholar.google.com/citations?user=ju1z14aMmRkC) and [Alex Sim](https://scholar.google.com/citations?user=uxj3xO0AAAAJ&hl=en) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [UC Berkeley](https://www.berkeley.edu/) on agentic audit methods and frameworks.
@@ -17,14 +28,7 @@ Earlier, I worked nearly a decade with the [Forensic Services](https://www.pwc.c
 
 <div class="logo-row">
   <div class="logo-group">
-    <a href="https://github.com/gitihubi">
-      <img class="logo-badge" src="images/github.png" height="35" alt="GitHub" loading="lazy"></a>
-    <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-      <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
-    <a href="https://www.linkedin.com/in/marco-schreyer">
-      <img class="logo-badge" src="images/linkedin.png" height="35" alt="LinkedIn" loading="lazy"></a>
-  </div>
-  <div class="logo-group">
+    <span class="logo-group-label">Institutions</span>
     <a href="https://www.uni-mannheim.de">
       <img class="logo-badge" src="images/unima.png" height="30" alt="University of Mannheim" loading="lazy"></a>
     <a href="https://www.pwc.com/gx/en/services/forensics.html">
