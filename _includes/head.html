@@ -2,14 +2,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script>
-    (function () {
-      var stored = null;
-      try { stored = localStorage.getItem('theme'); } catch (e) {}
-      var theme = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-      document.documentElement.setAttribute('data-theme', theme);
-    })();
-  </script>
+  <!--
+    GitHub Pages serves static files only, so this <meta> tag is the one
+    place a CSP can be set at all — there's no server to send it as a
+    real HTTP header. That means the `frame-ancestors` directive doesn't
+    apply here (browsers ignore it outside a header), so this doesn't
+    cover clickjacking; everything else below still does.
+  -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.googletagmanager.com; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self'; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://www.googletagmanager.com; base-uri 'self'; form-action 'self'; object-src 'none'">
+  <script src="{{ "/assets/js/theme-init.js" | relative_url }}"></script>
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon-32x32.png" | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/images/favicon-16x16.png" | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/images/apple-touch-icon.png" | relative_url }}">

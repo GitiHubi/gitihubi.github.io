@@ -20,7 +20,8 @@
 //   9. Logo row (.logo-row / .logo-group)
 //   10. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
 //   11. Small-screen responsive overrides (single max-width breakpoint)
-//   12. Print overrides
+//   12. 404 page (.error-page)
+//   13. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -713,7 +714,26 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 12. Print
+// 12. 404 page
+//
+// Moved out of an inline <style> block in 404.html so the site's CSP
+// (see _includes/head.html) doesn't need 'unsafe-inline' in style-src.
+// -----------------------------------------------------------------------
+.error-page {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+.error-page h1 {
+  margin: 30px 0;
+  font-size: 4em;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+// -----------------------------------------------------------------------
+// 13. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and

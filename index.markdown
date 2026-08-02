@@ -55,23 +55,23 @@ Earlier, I worked nearly a decade with the [Forensic Services](https://www.pwc.c
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">2026·07</div>
-    <div class="timeline-content">Paper on deep-learning in auditing with T. Foehr and K.-U. Marten accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank">International Journal of Accounting Information Systems (IJAIS)</a>.</div>
+    <div class="timeline-content">Paper on deep-learning in auditing with T. Foehr and K.-U. Marten accepted for publication in <a href="https://www.sciencedirect.com/science/article/pii/S146708952500034X" target="_blank" rel="noopener noreferrer">International Journal of Accounting Information Systems (IJAIS)</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·06</div>
-    <div class="timeline-content">Taught the 2026 deep-learning fundamentals and applications class with D. Borth at the University of St. Gallen's <a href="https://gserm.org" target="_blank">GSERM Summer School</a>.</div>
+    <div class="timeline-content">Taught the 2026 deep-learning fundamentals and applications class with D. Borth at the University of St. Gallen's <a href="https://gserm.org" target="_blank" rel="noopener noreferrer">GSERM Summer School</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·04</div>
-    <div class="timeline-content">Paper on building AI agents in supreme audit institutions with O. Willig accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank">Swiss CPA Journal (Expert Focus)</a>.</div>
+    <div class="timeline-content">Paper on building AI agents in supreme audit institutions with O. Willig accepted for publication in the <a href="https://www.efk.admin.ch/wp-content/uploads/publikationen/fachtexte/2026_04_building_a_future_digital_audit_workforce.pdf" target="_blank" rel="noopener noreferrer">Swiss CPA Journal (Expert Focus)</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·03</div>
-    <div class="timeline-content">Paper on AI governance and the three lines model with Y. Weiser and T.F. Ruud accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank">Norwegian Magma Journal</a>.</div>
+    <div class="timeline-content">Paper on AI governance and the three lines model with Y. Weiser and T.F. Ruud accepted for publication in the <a href="https://magmaforskning.econa.no/index.php/magma/article/view/1532" target="_blank" rel="noopener noreferrer">Norwegian Magma Journal</a>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026·02</div>
-    <div class="timeline-content">Paper on graph neural networks with Q. Huang, N. R. Michiles Jr., and Miklos A. Vasarhelyi accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank">A Journal of Theory and Practice (AJPT)</a>.</div>
+    <div class="timeline-content">Paper on graph neural networks with Q. Huang, N. R. Michiles Jr., and Miklos A. Vasarhelyi accepted for publication in <a href="https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for" target="_blank" rel="noopener noreferrer">A Journal of Theory and Practice (AJPT)</a>.</div>
   </div>
 </div>
 
