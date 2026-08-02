@@ -541,12 +541,12 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 // flows underneath it as its "second line" instead of sitting in the main
 // text column above the bio paragraphs.
 // -----------------------------------------------------------------------
-// Pushed down far enough that the photo's top edge lines up with the
-// first line of body text ("Since 2024, ...") rather than the "About Me"
-// heading above it.
+// Pushed down far enough that the blue box's (not the photo's) top edge
+// lines up with the first line of body text ("Since 2024, ...") — i.e.
+// the photo's own top edge sits the box-shadow's y-offset below that line.
 .profile-card {
   float: right;
-  margin: 78px 25px 5px 5px;
+  margin: 109px 25px 5px 5px;
 }
 
 // A hard-edged offset rectangle (zero blur) behind the portrait, in the
@@ -554,7 +554,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 // shadow rather than a soft drop shadow.
 .profile-photo {
   display: block;
-  box-shadow: 12px -12px 0 0 $brand-color;
+  box-shadow: 9px -9px 0 0 $brand-color;
 }
 
 // A .logo-row modifier: centered under the (wider) portrait above it,
