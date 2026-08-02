@@ -4,15 +4,15 @@ layout: home
 ---
 
 <div class="profile-card">
-  <img class="profile-photo" src="images/marco.jpg" height="165" alt="Portrait of Marco Schreyer">
+  <img class="profile-photo" src="images/marco.jpg" width="165" height="165" alt="Portrait of Marco Schreyer">
   <div class="logo-row profile-social">
     <div class="logo-group">
       <a href="https://github.com/gitihubi">
-        <img class="logo-badge" src="images/github.png" height="36" alt="GitHub" loading="lazy"></a>
+        <img class="logo-badge" src="images/github.png" width="36" height="36" alt="GitHub" loading="lazy"></a>
       <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-        <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
+        <img class="logo-badge" src="images/scholar.png" width="30" height="30" alt="Google Scholar" loading="lazy"></a>
       <a href="https://www.linkedin.com/in/marco-schreyer">
-        <img class="logo-badge" src="images/linkedin.png" height="36" alt="LinkedIn" loading="lazy"></a>
+        <img class="logo-badge" src="images/linkedin.png" width="36" height="36" alt="LinkedIn" loading="lazy"></a>
     </div>
   </div>
 </div>
@@ -31,22 +31,22 @@ Earlier, I worked nearly a decade with the [Forensic Services](https://www.pwc.c
   <div class="logo-group">
     <span class="logo-group-label">Institutions</span>
     <a href="https://www.uni-mannheim.de">
-      <img class="logo-badge" src="images/unima.png" height="30" alt="University of Mannheim" loading="lazy"></a>
+      <img class="logo-badge" src="images/unima.png" width="104" height="30" alt="University of Mannheim" loading="lazy"></a>
     <a href="https://www.pwc.com/gx/en/services/forensics.html">
-      <img class="logo-badge" src="images/pwc.png" height="30" alt="PricewaterhouseCoopers (PwC)" loading="lazy"></a>
+      <img class="logo-badge" src="images/pwc.png" width="40" height="30" alt="PricewaterhouseCoopers (PwC)" loading="lazy"></a>
     <a href="https://www.unisg.ch">
-      <img class="logo-badge" src="images/unisg.png" height="30" alt="University of St.Gallen" loading="lazy"></a>
+      <img class="logo-badge" src="images/unisg.png" width="132" height="30" alt="University of St.Gallen" loading="lazy"></a>
     <a href="http://www.rutgers.edu">
-      <img class="logo-badge" src="images/rutgers.png" height="30" alt="Rutgers University" loading="lazy"></a>
+      <img class="logo-badge" src="images/rutgers.png" width="96" height="30" alt="Rutgers University" loading="lazy"></a>
     <a href="https://www.icsi.berkeley.edu/">
-      <img class="logo-badge" src="images/icsi.png" height="30" alt="International Computer Science Institute (ICSI)" loading="lazy"></a>
+      <img class="logo-badge" src="images/icsi.png" width="115" height="30" alt="International Computer Science Institute (ICSI)" loading="lazy"></a>
   </div>
   <div class="logo-group">
     <span class="logo-group-label">Fellowships</span>
     <a href="https://www.snf.ch/">
-      <img class="logo-badge" src="images/snf.png" height="30" alt="Swiss National Science Foundation (SNSF)" loading="lazy"></a>
+      <img class="logo-badge" src="images/snf.png" width="115" height="30" alt="Swiss National Science Foundation (SNSF)" loading="lazy"></a>
     <a href="https://www.daad.de/de/">
-      <img class="logo-badge" src="images/daad.png" height="22" alt="German Academic Exchange Service (DAAD)" loading="lazy"></a>
+      <img class="logo-badge" src="images/daad.png" width="83" height="22" alt="German Academic Exchange Service (DAAD)" loading="lazy"></a>
   </div>
 </div>
 
