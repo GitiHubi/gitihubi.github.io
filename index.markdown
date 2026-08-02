@@ -8,11 +8,11 @@ layout: home
   <div class="logo-row profile-social">
     <div class="logo-group">
       <a href="https://github.com/gitihubi">
-        <img class="logo-badge" src="images/github.png" height="30" alt="GitHub" loading="lazy"></a>
+        <img class="logo-badge" src="images/github.png" height="36" alt="GitHub" loading="lazy"></a>
       <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-        <img class="logo-badge" src="images/scholar.png" height="25" alt="Google Scholar" loading="lazy"></a>
+        <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
       <a href="https://www.linkedin.com/in/marco-schreyer">
-        <img class="logo-badge" src="images/linkedin.png" height="30" alt="LinkedIn" loading="lazy"></a>
+        <img class="logo-badge" src="images/linkedin.png" height="36" alt="LinkedIn" loading="lazy"></a>
     </div>
   </div>
 </div>
