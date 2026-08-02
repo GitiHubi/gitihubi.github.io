@@ -15,14 +15,13 @@
 //   4. Header (sticky; Berkeley Blue / Cal Gold accent bar)
 //   5. Section navigation (site-nav/page-link, wired to homepage anchors)
 //   6. Typography (heading font, weights, sizes)
-//   7. Hero (.hero / .hero-text)
-//   8. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
-//   9. Profile card (.profile-card / .profile-photo / .profile-social)
-//   10. Logo row (.logo-row / .logo-group)
-//   11. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
-//   12. Small-screen responsive overrides (single max-width breakpoint)
-//   13. 404 page (.error-page)
-//   14. Print overrides
+//   7. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
+//   8. Profile card (.profile-card / .profile-photo / .profile-social)
+//   9. Logo row (.logo-row / .logo-group)
+//   10. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   11. Small-screen responsive overrides (single max-width breakpoint)
+//   12. 404 page (.error-page)
+//   13. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -381,8 +380,7 @@ h2 {
 
 // A small Cal-gold rule under each section heading — the one place gold
 // shows up as a mark rather than as text/link color, which stays legible.
-// Square corners, not rounded — matches the .hero rule's corners so the
-// two gold marks read as the same device at different scales.
+// Square corners, not rounded, for a crisp geometric mark.
 h2::after {
   content: "";
   position: absolute;
@@ -405,57 +403,7 @@ h3 {
 }
 
 // -----------------------------------------------------------------------
-// 7. Hero
-//
-// The page's opening thesis (see index.markdown, above .profile-card) —
-// previously a commented-out, unused `title` in the front matter. Set
-// apart from the h2 rule above rather than styled as a bigger heading,
-// so it reads as the one deliberate, larger gesture on the page instead
-// of just another section. The gold rule is the same device as the h2
-// underline (same thickness, same square corners) turned 90 degrees,
-// so the two read as one visual language at different scales. Built as
-// a background-color pseudo-element sized with `width`, like h2::after
-// is sized with `height`, rather than a `border-left` — a border and a
-// background box of the same declared thickness can still rasterize to
-// different physical pixel widths under a fractional device-pixel-ratio
-// (common on phones), so the two techniques must match, not just the
-// numbers.
-// -----------------------------------------------------------------------
-.hero {
-  position: relative;
-  margin: 18px 0 36px 0;
-  padding-left: 20px;
-}
-
-.hero::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  width: 3px;
-  background-color: $cal-gold;
-}
-
-.hero-text {
-  font-family: "Gaegu", "Newsreader", "Georgia", "Times New Roman", serif;
-  font-weight: 700;
-  font-size: 34px;
-  line-height: 1.25;
-  letter-spacing: -0.01em;
-  color: $brand-color;
-  margin: 0;
-}
-
-// Berkeley Blue at full strength is illegible on the dark background
-// (same reason link-color gets lightened in §3); a pale tint keeps the
-// hero text's hue family without losing contrast.
-html[data-theme="dark"] .hero-text {
-  color: #cfe0ff;
-}
-
-// -----------------------------------------------------------------------
-// 8. Publication cards
+// 7. Publication cards
 //
 // The ~27 publication thumbnails in index.markdown vary wildly in native
 // aspect ratio (near-square diagrams next to wide banner screenshots),
@@ -534,7 +482,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 9. Profile card
+// 8. Profile card
 //
 // Wraps the portrait + social-links row (see index.markdown) as a single
 // floated unit, rather than floating the photo alone, so the social row
@@ -566,7 +514,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 10. Logo row
+// 9. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
@@ -604,7 +552,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 11. Timeline
+// 10. Timeline
 //
 // "Recent News", "Invited Teaching & Guest Lectures", and "Conference
 // Presentations & Invited Talks" were three plain bullet lists with dates
@@ -684,7 +632,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 12. Small screens (single breakpoint, all palm-width overrides)
+// 11. Small screens (single breakpoint, all palm-width overrides)
 //
 // Below $on-palm minima turns .site-nav into a small `position: absolute`
 // box pinned to the header's top-right corner, so the theme toggle and nav
@@ -770,7 +718,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 13. 404 page
+// 12. 404 page
 //
 // Moved out of an inline <style> block in 404.html so the site's CSP
 // (see _includes/head.html) doesn't need 'unsafe-inline' in style-src.
@@ -789,7 +737,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 14. Print
+// 13. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and

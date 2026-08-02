@@ -2,10 +2,6 @@
 layout: home
 ---
 
-<div class="hero">
-  <p class="hero-text">Artificial Intelligence for Accounting &amp; Auditing</p>
-</div>
-
 <div class="profile-card">
   <img class="profile-photo" src="images/marco.jpg" width="165" height="165" alt="Portrait of Marco Schreyer">
   <div class="logo-row profile-social">
