@@ -488,9 +488,12 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 // flows underneath it as its "second line" instead of sitting in the main
 // text column above the bio paragraphs.
 // -----------------------------------------------------------------------
+// Pushed down far enough that the photo's top edge lines up with the
+// first line of body text ("Since 2024, ...") rather than the "About Me"
+// heading above it.
 .profile-card {
   float: right;
-  margin: 25px 25px 5px 5px;
+  margin: 146px 25px 5px 5px;
 }
 
 .profile-photo {
