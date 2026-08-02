@@ -16,10 +16,11 @@
 //   5. Section navigation (site-nav/page-link, wired to homepage anchors)
 //   6. Typography (heading font, weights, sizes)
 //   7. Publication cards (.pub-card / .pub-thumb / .pub-card-body)
-//   8. Logo row (.logo-row / .logo-group)
-//   9. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
-//   10. Small-screen responsive overrides (single max-width breakpoint)
-//   11. Print overrides
+//   8. Profile card (.profile-card / .profile-photo / .profile-social)
+//   9. Logo row (.logo-row / .logo-group)
+//   10. Timeline (.timeline / .timeline-item / .timeline-date / .timeline-content)
+//   11. Small-screen responsive overrides (single max-width breakpoint)
+//   12. Print overrides
 //
 // No Sass nesting (`&`) is used anywhere in this file — every rule is a
 // flat, explicit selector — so a plain text search for a class name finds
@@ -480,7 +481,32 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 8. Logo row
+// 8. Profile card
+//
+// Wraps the portrait + social-links row (see index.markdown) as a single
+// floated unit, rather than floating the photo alone, so the social row
+// flows underneath it as its "second line" instead of sitting in the main
+// text column above the bio paragraphs.
+// -----------------------------------------------------------------------
+.profile-card {
+  float: right;
+  margin: 25px 25px 5px 5px;
+}
+
+.profile-photo {
+  display: block;
+}
+
+// A .logo-row modifier: centered under the (wider) portrait above it,
+// rather than left-aligned like the bottom-of-bio logo rows.
+.profile-social {
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+// -----------------------------------------------------------------------
+// 9. Logo row
 //
 // The social + institution logos used to be spaced with manual &emsp;/&ensp;
 // entities and a per-image inline margin. Flexbox gap gives consistent,
@@ -518,7 +544,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 9. Timeline
+// 10. Timeline
 //
 // "Recent News", "Invited Teaching & Guest Lectures", and "Conference
 // Presentations & Invited Talks" were three plain bullet lists with dates
@@ -598,14 +624,14 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 10. Small screens (single breakpoint, all palm-width overrides)
+// 11. Small screens (single breakpoint, all palm-width overrides)
 //
 // Below $on-palm minima turns .site-nav into a small `position: absolute`
 // box pinned to the header's top-right corner, so the theme toggle and nav
-// need adjusted positioning here too. The profile photo (floated + a fixed
-// height set inline in index.markdown) is un-floated so it doesn't leave
-// only a sliver of column for the text beside it. Publication cards and
-// timeline entries drop to a stacked, single-column layout.
+// need adjusted positioning here too. The profile card (photo + social
+// row) is un-floated so it doesn't leave only a sliver of column for the
+// text beside it. Publication cards and timeline entries drop to a
+// stacked, single-column layout.
 //
 // Kept as one consolidated media query (rather than one per component)
 // so the full set of narrow-viewport overrides is visible in one place.
@@ -631,14 +657,17 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
     border-color: var(--dm-border);
   }
 
-  // The float/margin being overridden here come from an inline `style`
-  // attribute, which otherwise beats any external stylesheet rule.
-  .profile-photo {
-    float: none !important;
-    display: block;
-    height: auto !important;
+  // Un-float the portrait + social row so it doesn't leave only a sliver
+  // of column for the bio text beside it; centered as a block instead.
+  .profile-card {
+    float: none;
     max-width: 55%;
-    margin: 0 auto 20px auto !important;
+    margin: 0 auto 20px auto;
+  }
+
+  .profile-photo {
+    width: 100%;
+    height: auto;
   }
 
   // Stack thumbnail above text instead of side-by-side.
@@ -681,7 +710,7 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
 }
 
 // -----------------------------------------------------------------------
-// 11. Print
+// 12. Print
 //
 // The dark-mode rules above key off a `data-theme` attribute that stays on
 // <html> however the page happens to be styled when the user prints, and

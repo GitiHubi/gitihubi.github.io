@@ -3,20 +3,21 @@ layout: home
 # title: Artificial Intelligence 4 Accounting & Auditing
 ---
 
-<img class="profile-photo" src="images/marco.jpg" height="165" style="float:right; margin:25px 25px 5px 5px" alt="Portrait of Marco Schreyer">
-
-## About Me
-
-<div class="logo-row">
-  <div class="logo-group">
-    <a href="https://github.com/gitihubi">
-      <img class="logo-badge" src="images/github.png" height="35" alt="GitHub" loading="lazy"></a>
-    <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
-      <img class="logo-badge" src="images/scholar.png" height="30" alt="Google Scholar" loading="lazy"></a>
-    <a href="https://www.linkedin.com/in/marco-schreyer">
-      <img class="logo-badge" src="images/linkedin.png" height="35" alt="LinkedIn" loading="lazy"></a>
+<div class="profile-card">
+  <img class="profile-photo" src="images/marco.jpg" height="165" alt="Portrait of Marco Schreyer">
+  <div class="logo-row profile-social">
+    <div class="logo-group">
+      <a href="https://github.com/gitihubi">
+        <img class="logo-badge" src="images/github.png" height="24" alt="GitHub" loading="lazy"></a>
+      <a href="https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en">
+        <img class="logo-badge" src="images/scholar.png" height="20" alt="Google Scholar" loading="lazy"></a>
+      <a href="https://www.linkedin.com/in/marco-schreyer">
+        <img class="logo-badge" src="images/linkedin.png" height="24" alt="LinkedIn" loading="lazy"></a>
+    </div>
   </div>
 </div>
+
+## About Me
 
 Since 2024, I'm advancing the application of AI in auditing at the [Swiss Federal Audit Office (SFAO)](https://www.efk.admin.ch/). In the SFAO we design, build, and deploy novel auditing methodologies to improve the effectiveness and analytical depth of public-sector audits. We further examine AI systems used in the public administration for reliability, transparency, and compliance.
 
