@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<h1 class="visually-hidden">{{ site.title | escape }}</h1>
+
 <div class="hero">
   <p class="hero-text">Artificial Intelligence for Accounting &amp; Auditing</p>
 </div>
