@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<h1 class="visually-hidden">{{ site.title | escape }}</h1>
+
 <div class="profile-card">
   <img class="profile-photo" src="images/marco.jpg" width="165" height="165" alt="Portrait of Marco Schreyer">
   <div class="logo-row profile-social">
