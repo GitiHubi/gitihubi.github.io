@@ -86,10 +86,10 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=O6V5YkE
   <img class="pub-thumb" src="images/ssrn_2024.png" alt="Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X)<br/>
+[**Deep Learning Meets Risk-Based Auditing: A Holistic Framework for Leveraging Foundation and Task-Specific Models in Audit Procedures**](https://www.sciencedirect.com/science/article/pii/S146708952500034X){:target="_blank" rel="noopener noreferrer"}<br/>
 T. Föhr, M. Schreyer, K. Moffitt, and K.-U. Marten<br/>
 International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X)]
+[[html](https://www.sciencedirect.com/science/article/pii/S146708952500034X)], [[pdf](https://www.sciencedirect.com/science/article/pii/S146708952500034X){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -98,10 +98,10 @@ International Journal of Accounting Information Systems (**IJAIS**) 57, 2026<br/
   <img class="pub-thumb" src="images/ajpt_2026.png" alt="Connecting the Dots: Graph Neural Networks for Auditing Accounting Journal Entries" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Connecting the Dots: Graph Neural Networks for Auditing Accounting <br/> Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)<br/>
+[**Connecting the Dots: Graph Neural Networks for Auditing Accounting <br/> Journal Entries**](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext){:target="_blank" rel="noopener noreferrer"}<br/>
 Q. Huang, M. Schreyer, N. R. Michiles Jr., and Miklos A. Vasarhelyi<br/>
 AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
-[[html](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)], [[pdf](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)]
+[[html](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext)], [[pdf](https://publications.aaahq.org/ajpt/article-abstract/doi/10.2308/AJPT-2024-058/23197/Connecting-the-Dots-Graph-Neural-Networks-for?redirectedFrom=fulltext){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -110,10 +110,10 @@ AUDITING: A Journal of Practice & Theory (**AJPT**), 2026<br/>
   <img class="pub-thumb" src="images/ssrn_2023.png" alt="Artificial Intelligence Co-Piloted Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)<br/>
+[**Artificial Intelligence Co-Piloted Auditing**](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319){:target="_blank" rel="noopener noreferrer"}<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/>
-[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319)]
+[[html](https://www.sciencedirect.com/science/article/pii/S1467089524000319)], [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S1467089524000319){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -124,10 +124,10 @@ International Journal of Accounting Information Systems (**IJAIS**) 54, 2024<br/
   <img class="pub-thumb" src="images/kdd_2025.png" alt="Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910)<br/>
+[**Diffusion-Scheduled Denoising Autoencoders for Anomaly Detection in Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910){:target="_blank" rel="noopener noreferrer"}<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025<br/>
-[[html](https://dl.acm.org/doi/10.1145/3711896.3736910)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910)]
+[[html](https://dl.acm.org/doi/10.1145/3711896.3736910)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3711896.3736910){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -136,10 +136,10 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2025<br/
   <img class="pub-thumb" src="images/icaif_2024.png" alt="Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)<br/>
+[**Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data**](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, A. Sim, and K. Wu<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2024<br/>
-[[html](https://dl.acm.org/doi/10.1145/3677052.3698659)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
+[[html](https://dl.acm.org/doi/10.1145/3677052.3698659)], [[pdf](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -148,10 +148,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/icaif_2023.png" alt="FinDiff: Diffusion Models for Financial Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**FinDiff: Diffusion Models for Financial Tabular Data Generation**](https://arxiv.org/pdf/2309.01472.pdf)<br/>
+[**FinDiff: Diffusion Models for Financial Tabular Data Generation**](https://arxiv.org/pdf/2309.01472.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2023<br/>
-[[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf)]
+[[html](https://arxiv.org/abs/2309.01472)], [[pdf](https://arxiv.org/pdf/2309.01472.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -160,10 +160,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/icaif_2022.png" alt="Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**](https://arxiv.org/pdf/2208.12708.pdf)<br/>
+[**Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits**](https://arxiv.org/pdf/2208.12708.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
-[[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf)]
+[[html](https://arxiv.org/abs/2208.12708)], [[pdf](https://arxiv.org/pdf/2208.12708.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -172,10 +172,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/icaif_2022b.png" alt="RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**](https://arxiv.org/pdf/2209.09157.pdf)<br/>
+[**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**](https://arxiv.org/pdf/2209.09157.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 R. Mueller, M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2022<br/>
-[[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf)]
+[[html](https://arxiv.org/abs/2209.09157)], [[pdf](https://arxiv.org/pdf/2209.09157.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -184,10 +184,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/icaif_2021.png" alt="Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**](https://arxiv.org/pdf/2109.11201.pdf)<br/>
+[**Multi-view Contrastive Self-Supervised Learning of Accounting Data Representations for Downstream Audit Tasks**](https://arxiv.org/pdf/2109.11201.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2021<br/>
-[[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf)]
+[[html](https://arxiv.org/abs/2109.11201)], [[pdf](https://arxiv.org/pdf/2109.11201.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -196,10 +196,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/icaif_2020.png" alt="Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**](https://arxiv.org/pdf/2008.02528.pdf)<br/>
+[**Learning Sampling in Financial Statement Audits using Vector Quantised Variational Autoencoder Neural Networks**](https://arxiv.org/pdf/2008.02528.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, A. Gierbl, B. Reimer, and D. Borth<br/>
 ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 2020<br/>
-[[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf)]
+[[html](https://arxiv.org/abs/2008.02528)], [[pdf](https://arxiv.org/pdf/2008.02528.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -208,10 +208,10 @@ ACM International Conference on Artificial Intelligence in Finance (**ICAIF**), 
   <img class="pub-thumb" src="images/gtc_2018.png" alt="Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**](https://arxiv.org/pdf/1709.05254.pdf)<br/>
+[**Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks**](https://arxiv.org/pdf/1709.05254.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, D. Borth, A. Dengel, and B. Reimer<br/>
 Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
-[[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf)]
+[[html](https://arxiv.org/abs/1709.05254)], [[pdf](https://arxiv.org/pdf/1709.05254.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -222,10 +222,10 @@ Nvidia's GPU Technology Conference (**GTC**), 2018<br/>
   <img class="pub-thumb" src="images/aaai_2024.png" alt="FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**](https://arxiv.org/pdf/2401.06263.pdf)<br/>
+[**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**](https://arxiv.org/pdf/2401.06263.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
-[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf)], [[poster](https://drive.google.com/file/d/1KiXfMxygEfhClO7P17_rYT_oJT4VzBMM/view?usp=sharing)]
+[[html](https://arxiv.org/abs/2401.06263)], [[pdf](https://arxiv.org/pdf/2401.06263.pdf){:target="_blank" rel="noopener noreferrer"}], [[poster](https://drive.google.com/file/d/1KiXfMxygEfhClO7P17_rYT_oJT4VzBMM/view?usp=sharing)]
 
   </div>
 </div>
@@ -234,10 +234,10 @@ AAAI Workshop on AI in Finance for Social Impact (**AIFinSi**), 2024<br/>
   <img class="pub-thumb" src="images/neurips_2022.png" alt="Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**](https://arxiv.org/pdf/2210.15051.pdf)<br/>
+[**Federated Continual Learning to Detect Accounting Anomalies in Financial Auditing**](https://arxiv.org/pdf/2210.15051.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, H. Hemati, D. Borth, and Miklos A. Vasarhelyi<br/>
 NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
-[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf)], [[poster](https://drive.google.com/file/d/1KhbVDWEsL6PdnvjZdt8QKHdme6YeKwtK/view?usp=sharing)]
+[[html](https://arxiv.org/abs/2210.15051)], [[pdf](https://arxiv.org/pdf/2210.15051.pdf){:target="_blank" rel="noopener noreferrer"}], [[poster](https://drive.google.com/file/d/1KhbVDWEsL6PdnvjZdt8QKHdme6YeKwtK/view?usp=sharing)]
 
   </div>
 </div>
@@ -246,10 +246,10 @@ NeurIPS Workshop on Federated Learning (**NeurIPS-FL**), 2022<br/>
   <img class="pub-thumb" src="images/aaai_2022.png" alt="Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**](https://arxiv.org/pdf/2112.13215.pdf)<br/>
+[**Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data**](https://arxiv.org/pdf/2112.13215.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 H. Hemati, M. Schreyer, and D. Borth<br/>
 AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
-[[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf)]
+[[html](https://arxiv.org/abs/2112.13215)], [[pdf](https://arxiv.org/pdf/2112.13215.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -258,10 +258,10 @@ AAAI Workshop on AI in Financial Services (**AAAI-WFS**), 2022<br/>
   <img class="pub-thumb" src="images/aaai_2021.png" alt="Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**](https://arxiv.org/pdf/2012.07110.pdf)<br/>
+[**Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks**](https://arxiv.org/pdf/2012.07110.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, C. Schulze, and D. Borth<br/>
 AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
-[[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf)]
+[[html](https://arxiv.org/abs/2012.07110)], [[pdf](https://arxiv.org/pdf/2012.07110.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -270,10 +270,10 @@ AAAI Workshop on KD in Financial Services (**AAAI-KDF**), 2021<br/>
   <img class="pub-thumb" src="images/neurips_2019.png" alt="Adversarial Learning of Deepfakes in Accounting" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Adversarial Learning of Deepfakes in Accounting**](https://arxiv.org/pdf/1910.03810.pdf)<br/>
+[**Adversarial Learning of Deepfakes in Accounting**](https://arxiv.org/pdf/1910.03810.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, B. Reimer, and D. Borth<br/>
 NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
-[[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf)]
+[[html](https://arxiv.org/abs/1910.03810)], [[pdf](https://arxiv.org/pdf/1910.03810.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -282,10 +282,10 @@ NeurIPS Workshop on Robust AI in Financial Services (**NeurIPS**), 2019<br/>
   <img class="pub-thumb" src="images/kdd_2019.png" alt="Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**](https://arxiv.org/pdf/1908.00734)<br/>
+[**Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks**](https://arxiv.org/pdf/1908.00734){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, T. Sattarov, C. Schulze, B. Reimer, and D. Borth<br/>
 KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
-[[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734)]
+[[html](https://arxiv.org/abs/1908.00734)], [[pdf](https://arxiv.org/pdf/1908.00734){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -296,10 +296,10 @@ KDD Workshop on Anomaly Detection in Finance (**KDD**), 2019<br/>
   <img class="pub-thumb" src="images/arxiv_2025.png" alt="Artificial Intelligence Agentic Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence Agentic Auditing**](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)<br/>
+[**Artificial Intelligence Agentic Auditing**](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf){:target="_blank" rel="noopener noreferrer"}<br/>
 H. Gu, M. Schreyer, K. Moffitt, and Miklos A. Vasarhelyi<br/>
 Preprint available open-access (**SSRN**), 2024<br/>
-[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf)]
+[[html](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)], [[pdf](https://papers.ssrn.com/sol3/Delivery.cfm/4909147.pdf){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -308,10 +308,10 @@ Preprint available open-access (**SSRN**), 2024<br/>
   <img class="pub-thumb" src="images/arxiv_2024.png" alt="Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**](https://arxiv.org/pdf/2412.16083)<br/>
+[**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**](https://arxiv.org/pdf/2412.16083){:target="_blank" rel="noopener noreferrer"}<br/>
 T. Sattarov, M. Schreyer, and D. Borth<br/>
 Preprint available open-access (**arXiv**), 2024<br/>
-[[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083)]
+[[html](https://arxiv.org/abs/2412.16083)], [[pdf](https://arxiv.org/pdf/2412.16083){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -322,10 +322,10 @@ Preprint available open-access (**arXiv**), 2024<br/>
   <img class="pub-thumb" src="images/esw_2026.png" alt="Building a Future Digital Audit Workforce - Equipping artificial intelligence (AI) agents with computer aided audit tools (CAATs)" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Building a Future Digital Audit Workforce - Equipping Artificial Intelligence (AI) Agents with Computer Aided Audit Tools (CAATs)**](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo)<br/>
+[**Building a Future Digital Audit Workforce - Equipping Artificial Intelligence (AI) Agents with Computer Aided Audit Tools (CAATs)**](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo){:target="_blank" rel="noopener noreferrer"}<br/>
 O. Willig and M. Schreyer<br/>
 EXPERTsuisse, Expert Focus (04), 182-189 (**Expert Focus**), 2026<br/>
-[[html](https://alexandria.unisg.ch/handle/20.500.14171/133422)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo)]
+[[html](https://alexandria.unisg.ch/handle/20.500.14171/133422)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/1f5b6449-9e23-4779-b56b-bf5d74728e7b/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MjI4MjcsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.jb9lokr7RFeCuCb0rWXN9AQV00xGxxwY0dOSa1YxTCo){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -334,10 +334,10 @@ EXPERTsuisse, Expert Focus (04), 182-189 (**Expert Focus**), 2026<br/>
   <img class="pub-thumb" src="images/magma_2026a.png" alt="Governing the Future Digital Workforce: The Three Lines Model in the Age of Agentic Artificial Intelligence" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Governing the Future Digital Workforce: The Three Lines Model in the Age of Agentic Artificial Intelligence**](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719)<br/>
+[**Governing the Future Digital Workforce: The Three Lines Model in the Age of Agentic Artificial Intelligence**](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719){:target="_blank" rel="noopener noreferrer"}<br/>
 T.F. Ruud, M. Schreyer, and Y. Weiser<br/>
 Econa, Magma, 29 (1), 147–158. (**Magma**), 2026<br/>
-[[html](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1737)], [[pdf](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719)]
+[[html](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1737)], [[pdf](https://magmaforskning.econa.no/index.php/magma/article/view/1532/1719){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -346,10 +346,10 @@ Econa, Magma, 29 (1), 147–158. (**Magma**), 2026<br/>
   <img class="pub-thumb" src="images/esw_2024b.png" alt="A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU)<br/>
+[**A Graph Says More Than A Thousand Journal Entries - Harnessing Graph Autoencoder Networks in Auditing**](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU){:target="_blank" rel="noopener noreferrer"}<br/>
 Q. Huang, M. Schreyer, N.R. Michiles, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
-[[html](https://alexandria.unisg.ch/handle/20.500.14171/133389)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU)]
+[[html](https://alexandria.unisg.ch/handle/20.500.14171/133389)], [[pdf](https://alexandria.unisg.ch/server/api/core/bitstreams/5592a28a-fdd5-49b8-a937-d6f9255fd780/content?authentication-token=eyJhbGciOiJIUzI1NiJ9.eyJlaWQiOiJmMWEwMDJkOC1jYzM0LTRlMDYtODRhZi0wYjc3ZTE4YTA2YjMiLCJzZyI6W10sImF1dGhlbnRpY2F0aW9uTWV0aG9kIjoib2lkYyIsIm1hY2hpbmUiOmZhbHNlLCJleHAiOjE3ODU1MTM2NjEsInVzZXJBZ3JlZW1lbnRBY2NlcHRlZCI6InRydWUifQ.NgDiaVkD2ijKHfrXzOREYiKrCk5cp57HUI23poklbBU){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -358,10 +358,10 @@ EXPERTsuisse, Expert Focus (12), 653-659 (**Expert Focus**), 2024<br/>
   <img class="pub-thumb" src="images/esw_2024a.png" alt="Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)<br/>
+[**Collective Artificial Intelligence in Auditing - Advancing Audit Models through Federated Learning Without Sharing Proprietary Data**](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, D. Borth, T.F. Ruud, and M.A. Vasarhelyi<br/>
 EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
-[[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)]
+[[html](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce)], [[pdf](https://drive.proton.me/urls/V4FZSAVVXW#pPFSLltzpXce){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -370,10 +370,10 @@ EXPERTsuisse, Expert Focus (04), 180-186 (**Expert Focus**), 2024<br/>
   <img class="pub-thumb" src="images/esw_2022b_e.png" alt="Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data**](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)<br/>
+[**Artificial Intelligence Enabled Audit Sampling - Learning to Draw Representative Audit Samples from Large-Scale Journal Entry Data**](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
-[[html](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)], [[pdf](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)]
+[[html](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR)], [[pdf](https://drive.proton.me/urls/SBEYX0S350#4qLWRnq1mWMR){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -382,10 +382,10 @@ EXPERTsuisse, Expert Focus (04), 106-112 (**Expert Focus**), 2022<br/>
   <img class="pub-thumb" src="images/esw_2022a_e.png" alt="Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies**](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)<br/>
+[**Artificial Intelligence in Internal Audit as a Contribution to Effective Governance - Deep-learning Enabled Detection of Anomalies**](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 45-50 (**Expert Focus**), 2022<br/>
-[[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)]
+[[html](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V)], [[pdf](https://drive.proton.me/urls/AK5FMJRYV8#v6WcQEZFnf2V){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -420,10 +420,10 @@ Der Betrieb, Nr. 30, 1681-1693, 2023<br/>
   <img class="pub-thumb" src="images/esw_2022b.png" alt="Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content)<br/>
+[**Stichprobenauswahl durch die Anwendung von Künstlicher Intelligenz - Lernen repräsentativer Stichproben aus Journalbuchungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, A.S. Gierbl, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
-[[html](https://www.alexandria.unisg.ch/entities/publication/9635cd9a-009f-41b0-885c-27f55f4bf12c)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content)]
+[[html](https://www.alexandria.unisg.ch/entities/publication/9635cd9a-009f-41b0-885c-27f55f4bf12c)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/22ca409e-6bbd-40ea-850e-954c184cd521/content){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -432,10 +432,10 @@ EXPERTsuisse, Expert Focus (02), 10-18 (**Expert Focus**), 2022<br/>
   <img class="pub-thumb" src="images/esw_2022a.png" alt="Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content)<br/>
+[**Künstliche Intelligenz im Internal Audit als Beitrag zur Effektiven Governance - Deep-Learning basierte Detektion von Buchungsanomalien**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content){:target="_blank" rel="noopener noreferrer"}<br/>
 M. Schreyer, M. Baumgartner, T.F. Ruud, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (01), 39-44 (**Expert Focus**), 2022<br/>
-[[html](https://www.alexandria.unisg.ch/entities/publication/ee751b6a-b5b0-4b8a-9a44-91468051e353)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content)]
+[[html](https://www.alexandria.unisg.ch/entities/publication/ee751b6a-b5b0-4b8a-9a44-91468051e353)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/bc37514d-5e2e-40a7-9498-54b55ebdc764/content){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
@@ -456,10 +456,10 @@ Zeitschrift für Internationale Rechnungslegung (07/08), 349-355 (**IRZ**), 2021
   <img class="pub-thumb" src="images/esw_2020.png" alt="Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen" loading="lazy">
   <div class="pub-card-body" markdown="1">
 
-[**Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content)<br/>
+[**Künstliche Intelligenz in der Prüfungspraxis - Eine Bestandsaufnahme aktueller Einsatzmöglichkeiten und Herausforderungen**](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content){:target="_blank" rel="noopener noreferrer"}<br/>
 A.S. Gierbl, M. Schreyer, P. Leibfried, and D. Borth<br/>
 EXPERTsuisse, Expert Focus (09), 612-617 (**Expert Focus**), 2020<br/>
-[[html](https://www.alexandria.unisg.ch/entities/publication/2db7c980-9613-4733-ba08-5c0963213311)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content)]
+[[html](https://www.alexandria.unisg.ch/entities/publication/2db7c980-9613-4733-ba08-5c0963213311)], [[pdf](https://www.alexandria.unisg.ch/server/api/core/bitstreams/89c29b85-7b6d-4812-8c06-295c8706bebc/content){:target="_blank" rel="noopener noreferrer"}]
 
   </div>
 </div>
