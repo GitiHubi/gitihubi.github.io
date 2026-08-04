@@ -668,16 +668,33 @@ html[data-theme="dark"] .pub-card:hover .pub-thumb {
   // A plain `float: right` toggle would sit at the same coordinates as
   // minima's absolutely-positioned collapsed nav and get painted over by
   // it, so the toggle becomes absolutely positioned too, parked just to
-  // the left of the hamburger's ~38px square. Scoped to headers that
-  // actually have a .site-nav (the homepage only — see header.html) so
-  // pages without one (404.html) keep the toggle flush right instead of
-  // leaving a gap where a hamburger would've been.
+  // the left of the hamburger's ~46px square (44px tap target + 2px
+  // border, see below). Scoped to headers that actually have a .site-nav
+  // (the homepage only — see header.html) so pages without one (404.html)
+  // keep the toggle flush right instead of leaving a gap where a hamburger
+  // would've been.
   .site-header:has(.site-nav) .theme-toggle {
     position: absolute;
     top: 9px;
-    right: 60px;
+    right: 70px;
     margin-top: 0;
     float: none;
+  }
+
+  // Minima's own hamburger tap target is 36×36px — under both Apple HIG's
+  // and Material Design's ~44px minimum recommended touch-target size.
+  // Mobile-only override (matches minima's own selectors, which are
+  // themselves only ever active in this media query) grows it to 44×44
+  // without touching the icon's own artwork or the desktop nav, which
+  // never renders a hamburger at all.
+  .site-nav label[for="nav-trigger"] {
+    width: 44px;
+    height: 44px;
+  }
+
+  .menu-icon {
+    width: 44px;
+    height: 34px;
   }
 
   html[data-theme="dark"] .site-nav {
